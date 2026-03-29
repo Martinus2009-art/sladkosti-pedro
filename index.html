@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="sk">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sladkosti do domácnosti</title>
+
   <style>
     :root{
       --bg:#f6f6f6;
@@ -15,8 +16,6 @@
       --radius:14px;
       --shadow:0 8px 24px rgba(0,0,0,.08);
     }
-
-    *{box-sizing:border-box}
 
     body{
       margin:0;
@@ -32,374 +31,183 @@
       text-align:center;
     }
 
-    header h1{
-      margin:0;
-      font-size:30px;
-    }
-
     .topbar{
-      max-width:1200px;
-      margin:0 auto;
-      padding:18px 20px;
       display:flex;
-      gap:12px;
-      justify-content:center;
       flex-wrap:wrap;
-      align-items:center;
-      background:#fff;
-      box-shadow:0 2px 10px rgba(0,0,0,.04);
-    }
-
-    input, select{
-      padding:11px 12px;
-      font-size:16px;
-      border:1px solid #ddd;
-      border-radius:10px;
+      gap:10px;
+      justify-content:center;
+      padding:15px;
       background:#fff;
     }
 
     input{
-      min-width:280px;
+      padding:10px;
+      border-radius:10px;
+      border:1px solid #ddd;
+      font-size:16px;
+      min-width:250px;
     }
 
-    .btn{
+    .cat-buttons{
+      display:flex;
+      flex-wrap:wrap;
+      gap:8px;
+      justify-content:center;
+      padding:10px;
+    }
+
+    .cat-btn{
+      padding:8px 12px;
+      border-radius:999px;
+      border:none;
+      background:#e5e7eb;
+      cursor:pointer;
+    }
+
+    .cat-btn.active{
       background:var(--brand);
       color:#fff;
-      border:none;
-      padding:11px 16px;
-      border-radius:10px;
-      cursor:pointer;
-      text-decoration:none;
-      display:inline-block;
-      font-size:15px;
-    }
-
-    .btn:hover{
-      background:var(--brand-dark);
-    }
-
-    .wrap{
-      max-width:1200px;
-      margin:0 auto;
-      padding:20px;
-    }
-
-    .info{
-      color:var(--muted);
-      font-size:14px;
-      margin-bottom:12px;
-      text-align:center;
     }
 
     .products{
       display:grid;
       grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
       gap:20px;
+      padding:20px;
     }
 
     .card{
-      background:var(--card);
-      border-radius:var(--radius);
-      padding:14px;
-      box-shadow:var(--shadow);
-      display:flex;
-      flex-direction:column;
+      background:#fff;
+      border-radius:14px;
+      padding:15px;
       text-align:center;
+      box-shadow:var(--shadow);
     }
 
     .card img{
       width:100%;
-      height:190px;
+      height:180px;
       object-fit:contain;
-      border-radius:10px;
-      background:#fff;
-    }
-
-    .card h3{
-      font-size:17px;
-      margin:12px 0 8px;
-      min-height:48px;
-    }
-
-    .cats{
-      color:var(--muted);
-      font-size:12px;
-      min-height:18px;
     }
 
     .price{
       color:var(--brand);
       font-weight:bold;
-      font-size:20px;
-      margin-top:10px;
-    }
-
-    .card a{
-      margin-top:12px;
-    }
-
-    .pagination{
-      text-align:center;
-      padding:24px 0 8px;
-    }
-
-    .pagebtn{
-      padding:8px 12px;
-      margin:4px;
-      border:none;
-      background:#e5e7eb;
-      cursor:pointer;
-      border-radius:8px;
-    }
-
-    .pagebtn.active{
-      background:var(--brand);
-      color:#fff;
-    }
-
-    footer{
-      background:#222;
-      color:#fff;
-      text-align:center;
-      padding:24px 20px;
-      margin-top:40px;
-    }
-
-    .empty{
-      text-align:center;
-      color:var(--muted);
-      padding:40px 0;
-      grid-column:1 / -1;
-    }
-
-    @media (max-width: 640px){
-      header h1{
-        font-size:24px;
-      }
-
-      .topbar{
-        padding:16px;
-      }
-
-      input, select, .btn{
-        width:100%;
-      }
-
-      input{
-        min-width:unset;
-      }
+      font-size:18px;
     }
   </style>
 </head>
+
 <body>
 
-  <header>
-    <h1>Sladkosti do domácnosti 🍬</h1>
-  </header>
+<header>
+  <h1>Sladkosti do domácnosti 🍬</h1>
+</header>
 
-  <div class="topbar">
-    <input id="search" type="text" placeholder="Vyhľadať sladkosti..." />
+<div class="topbar">
+  <input id="search" placeholder="Vyhľadať produkt...">
+</div>
 
-    <select id="category">
-      <option value="">Všetky kategórie</option>
-    </select>
+<div class="cat-buttons" id="categoryButtons"></div>
 
-    <a class="btn" href="https://global.ceskecukrovinky.sk/katalog-2026-1/" target="_blank" rel="noopener">
-      Otvoriť katalóg 2026
-    </a>
-  </div>
+<div class="products" id="products"></div>
 
-  <div class="wrap">
-    <div class="info" id="info">Načítavam produkty...</div>
-    <div class="products" id="products"></div>
-    <div class="pagination" id="pagination"></div>
-  </div>
+<script>
+let products = [];
+let filtered = [];
+let selectedCategory = "";
 
-  <footer>
-    <p><strong>Kontakt</strong></p>
-    <p>Email: toblovaanna.praca@gmail.com</p>
-    <p>Tel: 0908068739</p>
-    <p>Facebook: Sladkosti do domácnosti</p>
-  </footer>
+const productsEl = document.getElementById("products");
+const searchEl = document.getElementById("search");
+const categoryButtonsEl = document.getElementById("categoryButtons");
 
-  <script>
-    let products = [];
-    let filtered = [];
-    let currentPage = 1;
-    const perPage = 20;
+fetch("products.json")
+  .then(res => res.json())
+  .then(data => {
+    products = data;
+    filtered = [...products];
+    createCategories();
+    render();
+  });
 
-    const productsEl = document.getElementById("products");
-    const paginationEl = document.getElementById("pagination");
-    const infoEl = document.getElementById("info");
-    const searchEl = document.getElementById("search");
-    const categoryEl = document.getElementById("category");
+function createCategories(){
+  const set = new Set();
 
-    fetch("products.json")
-      .then(res => res.json())
-      .then(data => {
-        products = Array.isArray(data) ? data : [];
-        populateCategories();
-        filtered = [...products];
-        currentPage = 1;
-        render();
-      })
-      .catch(err => {
-        console.error(err);
-        infoEl.textContent = "Nepodarilo sa načítať products.json";
-      });
-
-    function populateCategories() {
-      const categories = new Set();
-
-      products.forEach(product => {
-        if (Array.isArray(product.cat)) {
-          product.cat.forEach(category => {
-            if (category && category.trim() !== "") {
-              categories.add(category);
-            }
-          });
-        }
-      });
-
-      const sortedCategories = [...categories].sort((a, b) => a.localeCompare(b, "sk"));
-
-      categoryEl.innerHTML = '<option value="">Všetky kategórie</option>';
-
-      sortedCategories.forEach(category => {
-        const option = document.createElement("option");
-        option.value = category;
-        option.textContent = formatCategoryName(category);
-        categoryEl.appendChild(option);
-      });
+  products.forEach(p=>{
+    if(p.cat){
+      p.cat.forEach(c=>set.add(c));
     }
+  });
 
-    function formatCategoryName(category) {
-      const labels = {
-        zele: "Želé",
-        pelendreky: "Pelendreky",
-        pasky: "Pásky",
-        lizanky: "Lízanky",
-        cukriky: "Cukríky",
-        cokolada: "Čokoláda",
-        pralinky: "Pralinky",
-        orechy: "Orechy",
-        oblatky: "Oblátky",
-        susienky: "Sušienky",
-        tycinky: "Tyčinky",
-        proteinove_tycinky: "Proteínové tyčinky",
-        lyofilizovane_ovocie: "Lyofilizované ovocie",
-        susene_ovocie: "Sušené ovocie",
-        semienka: "Semienka",
-        bezlepkove: "Bezlepkové",
-        hracky: "Hračky",
-        reklamne_predmety: "Reklamné predmety",
-        velkonocne_vajicka: "Veľkonočné vajíčka",
-        kysle: "Kyslé",
-        mix: "Mix",
-        akcia: "Akcia"
-      };
+  categoryButtonsEl.innerHTML = "";
 
-      return labels[category] || category.replaceAll("_", " ");
-    }
+  const allBtn = document.createElement("button");
+  allBtn.textContent = "Všetko";
+  allBtn.className = "cat-btn active";
 
-    function render() {
-      productsEl.innerHTML = "";
+  allBtn.onclick = ()=>{
+    selectedCategory = "";
+    setActive(allBtn);
+    applyFilters();
+  };
 
-      const total = filtered.length;
-      const totalPages = Math.max(1, Math.ceil(total / perPage));
-      const start = (currentPage - 1) * perPage;
-      const pageProducts = filtered.slice(start, start + perPage);
+  categoryButtonsEl.appendChild(allBtn);
 
-      if (total === 0) {
-        infoEl.textContent = "Nenašli sa žiadne produkty.";
-        productsEl.innerHTML = '<div class="empty">Žiadne produkty.</div>';
-        paginationEl.innerHTML = "";
-        return;
-      }
+  [...set].sort().forEach(cat=>{
+    const btn = document.createElement("button");
+    btn.textContent = cat;
+    btn.className = "cat-btn";
 
-      infoEl.textContent = `Zobrazené ${start + 1}-${Math.min(start + perPage, total)} z ${total} produktov`;
+    btn.onclick = ()=>{
+      selectedCategory = cat;
+      setActive(btn);
+      applyFilters();
+    };
 
-      pageProducts.forEach(product => {
-        const image = (product.images && product.images[0]) ? product.images[0] : "";
-        const name = product.name?.sk || "Bez názvu";
-        const price = typeof product.priceEUR === "number"
-          ? product.priceEUR.toFixed(2).replace(".", ",")
-          : "0,00";
-        const cats = Array.isArray(product.cat)
-          ? product.cat.map(formatCategoryName).join(", ")
-          : "";
+    categoryButtonsEl.appendChild(btn);
+  });
+}
 
-        const card = document.createElement("div");
-        card.className = "card";
+function setActive(btn){
+  document.querySelectorAll(".cat-btn").forEach(b=>b.classList.remove("active"));
+  btn.classList.add("active");
+}
 
-        card.innerHTML = `
-          ${image
-            ? `<img src="${image}" alt="${name}" loading="lazy">`
-            : `<div style="height:190px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border-radius:10px;">Bez obrázka</div>`
-          }
-          <h3>${name}</h3>
-          <div class="cats">${cats || "Bez kategórie"}</div>
-          <div class="price">${price} €</div>
-          <a href="${product.url || '#'}" target="_blank" rel="noopener">
-            <button class="btn">Detail produktu</button>
-          </a>
-        `;
+function applyFilters(){
+  const text = searchEl.value.toLowerCase();
 
-        productsEl.appendChild(card);
-      });
+  filtered = products.filter(p=>{
+    const name = (p.name?.sk || "").toLowerCase();
+    const cats = p.cat || [];
 
-      renderPagination(totalPages);
-    }
+    return (
+      (name.includes(text) || cats.join(" ").includes(text)) &&
+      (selectedCategory === "" || cats.includes(selectedCategory))
+    );
+  });
 
-    function renderPagination(totalPages) {
-      paginationEl.innerHTML = "";
+  render();
+}
 
-      for (let i = 1; i <= totalPages; i++) {
-        const btn = document.createElement("button");
-        btn.innerText = i;
-        btn.className = "pagebtn";
+searchEl.addEventListener("input", applyFilters);
 
-        if (i === currentPage) {
-          btn.classList.add("active");
-        }
+function render(){
+  productsEl.innerHTML = "";
 
-        btn.onclick = () => {
-          currentPage = i;
-          render();
-          window.scrollTo({ top: 0, behavior: "smooth" });
-        };
+  filtered.forEach(p=>{
+    const card = document.createElement("div");
+    card.className = "card";
 
-        paginationEl.appendChild(btn);
-      }
-    }
+    card.innerHTML = `
+      <h3>${p.name.sk}</h3>
+      <img src="${p.images[0] || ""}">
+      <p class="price">${p.priceEUR.toFixed(2)} €</p>
+    `;
 
-    function applyFilters() {
-      const text = searchEl.value.toLowerCase().trim();
-      const selectedCategory = categoryEl.value;
-
-      filtered = products.filter(product => {
-        const name = (product.name?.sk || "").toLowerCase();
-        const categories = Array.isArray(product.cat) ? product.cat : [];
-
-        const matchesText =
-          text === "" ||
-          name.includes(text) ||
-          categories.join(" ").toLowerCase().includes(text);
-
-        const matchesCategory =
-          selectedCategory === "" ||
-          categories.includes(selectedCategory);
-
-        return matchesText && matchesCategory;
-      });
-
-      currentPage = 1;
-      render();
-    }
-
-    searchEl.addEventListener("input", applyFilters);
-    categoryEl.addEventListener("change", applyFilters);
-  </script>
+    productsEl.appendChild(card);
+  });
+}
+</script>
 
 </body>
 </html>
