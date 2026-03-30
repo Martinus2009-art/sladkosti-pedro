@@ -110,14 +110,7 @@
     .info{
       color:var(--muted);
       font-size:14px;
-      margin-bottom:8px;
-      text-align:center;
-    }
-
-    .loading-note{
-      color:var(--muted);
-      font-size:13px;
-      margin-bottom:14px;
+      margin-bottom:12px;
       text-align:center;
     }
 
@@ -251,7 +244,6 @@
 
 <div class="wrap">
   <div class="info" id="info">Načítavam produkty...</div>
-  <div class="loading-note" id="loadingNote"></div>
   <div class="products" id="products"></div>
   <div class="pagination" id="pagination"></div>
 </div>
@@ -274,7 +266,6 @@ const productsEl = document.getElementById("products");
 const searchEl = document.getElementById("search");
 const categoryButtonsEl = document.getElementById("categoryButtons");
 const infoEl = document.getElementById("info");
-const loadingNoteEl = document.getElementById("loadingNote");
 const paginationEl = document.getElementById("pagination");
 
 fetch("products.json")
@@ -317,6 +308,15 @@ function formatCategoryName(cat) {
   };
 
   return labels[cat] || cat.replaceAll("_", " ");
+}
+
+function hasRealImage(product) {
+  return !!(
+    product.images &&
+    product.images[0] &&
+    !product.images[0].startsWith("data:image") &&
+    product.images[0].trim() !== ""
+  );
 }
 
 function createCategories(){
@@ -386,49 +386,7 @@ function applyFilters(){
 
 searchEl.addEventListener("input", applyFilters);
 
-function hasRealImage(product) {
-  return !!(
-    product.images &&
-    product.images[0] &&
-    !product.images[0].startsWith("data:image") &&
-    product.images[0].trim() !== ""
-  );
-}
-
-async function getRealImageFromDetail(product) {
-  if (!product.url) return "";
-
-  const cacheKey = "imgcache_" + product.id;
-  const cached = localStorage.getItem(cacheKey);
-  if (cached) return cached;
-
-  try {
-    const proxyUrl = "https://api.allorigins.win/raw?url=" + encodeURIComponent(product.url);
-    const response = await fetch(proxyUrl);
-    const html = await response.text();
-
-    const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-    const twitterMatch = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
-    const imgMatch = html.match(/https:\/\/global\.ceskecukrovinky\.sk\/[^"' >]+?\.(jpg|jpeg|png|webp)/i);
-
-    const foundImage =
-      (ogMatch && ogMatch[1]) ||
-      (twitterMatch && twitterMatch[1]) ||
-      (imgMatch && imgMatch[0]) ||
-      "";
-
-    if (foundImage) {
-      localStorage.setItem(cacheKey, foundImage);
-    }
-
-    return foundImage;
-  } catch (error) {
-    console.error("Nepodarilo sa načítať detail produktu:", product.url, error);
-    return "";
-  }
-}
-
-async function render(){
+function render(){
   productsEl.innerHTML = "";
 
   const total = filtered.length;
@@ -438,28 +396,31 @@ async function render(){
 
   if (total === 0) {
     infoEl.textContent = "Nenašli sa žiadne produkty.";
-    loadingNoteEl.textContent = "";
     productsEl.innerHTML = '<div class="empty">Žiadne produkty.</div>';
     paginationEl.innerHTML = "";
     return;
   }
 
   infoEl.textContent = `Zobrazené ${start + 1}-${Math.min(start + perPage, total)} z ${total} produktov`;
-  loadingNoteEl.textContent = "Ak niektoré obrázky chýbali, stránka si ich teraz sama dopĺňa z detailu produktu.";
 
-  for (const p of pageProducts) {
+  pageProducts.forEach(p => {
     const name = p.name?.sk || "Bez názvu";
+    const price = typeof p.priceEUR === "number"
+      ? p.priceEUR.toFixed(2).replace(".", ",")
+      : "0,00";
+    const cats = Array.isArray(p.cat)
+      ? p.cat.map(formatCategoryName).join(", ")
+      : "";
+
     const imageHtml = hasRealImage(p)
       ? `<img src="${p.images[0]}" alt="${name}" loading="lazy" onerror="this.outerHTML='<div class=&quot;img-placeholder&quot;>Bez obrázka</div>'">`
-      : `<div class="img-placeholder">Načítavam obrázok…</div>`;
-    const price = typeof p.priceEUR === "number" ? p.priceEUR.toFixed(2).replace(".", ",") : "0,00";
-    const cats = Array.isArray(p.cat) ? p.cat.map(formatCategoryName).join(", ") : "";
+      : `<div class="img-placeholder">Bez obrázka</div>`;
 
     const card = document.createElement("div");
     card.className = "card";
 
     card.innerHTML = `
-      <div class="image-slot">${imageHtml}</div>
+      ${imageHtml}
       <h3>${name}</h3>
       <div class="cats">${cats || "Bez kategórie"}</div>
       <div class="price">${price} €</div>
@@ -469,20 +430,7 @@ async function render(){
     `;
 
     productsEl.appendChild(card);
-
-    if (!hasRealImage(p)) {
-      getRealImageFromDetail(p).then(image => {
-        const slot = card.querySelector(".image-slot");
-        if (!slot) return;
-
-        if (image) {
-          slot.innerHTML = `<img src="${image}" alt="${name}" loading="lazy" onerror="this.outerHTML='<div class=&quot;img-placeholder&quot;>Bez obrázka</div>'">`;
-        } else {
-          slot.innerHTML = `<div class="img-placeholder">Bez obrázka</div>`;
-        }
-      });
-    }
-  }
+  });
 
   renderPagination(totalPages);
 }
