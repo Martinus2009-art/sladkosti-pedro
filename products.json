@@ -1,1 +1,164 @@
-[{"id":1,"name":{"sk":"Produkt 1"},"images":["https://via.placeholder.com/300?text=Produkt+1"],"priceEUR":6.41,"url":"#","cat":["mix"]},{"id":2,"name":{"sk":"Produkt 2"},"images":["https://via.placeholder.com/300?text=Produkt+2"],"priceEUR":1.94,"url":"#","cat":["zele"]},{"id":3,"name":{"sk":"Produkt 3"},"images":[],"priceEUR":8.42,"url":"#","cat":["mix"]},{"id":4,"name":{"sk":"Produkt 4"},"images":["https://via.placeholder.com/300?text=Produkt+4"],"priceEUR":9.77,"url":"#","cat":["zele"]},{"id":5,"name":{"sk":"Produkt 5"},"images":["https://via.placeholder.com/300?text=Produkt+5"],"priceEUR":9.71,"url":"#","cat":["mix"]},{"id":6,"name":{"sk":"Produkt 6"},"images":[],"priceEUR":2.77,"url":"#","cat":["zele"]},{"id":7,"name":{"sk":"Produkt 7"},"images":["https://via.placeholder.com/300?text=Produkt+7"],"priceEUR":8.5,"url":"#","cat":["mix"]},{"id":8,"name":{"sk":"Produkt 8"},"images":["https://via.placeholder.com/300?text=Produkt+8"],"priceEUR":5.27,"url":"#","cat":["zele"]},{"id":9,"name":{"sk":"Produkt 9"},"images":[],"priceEUR":3.53,"url":"#","cat":["mix"]},{"id":10,"name":{"sk":"Produkt 10"},"images":["https://via.placeholder.com/300?text=Produkt+10"],"priceEUR":4.77,"url":"#","cat":["zele"]},{"id":11,"name":{"sk":"Produkt 11"},"images":["https://via.placeholder.com/300?text=Produkt+11"],"priceEUR":3.77,"url":"#","cat":["mix"]},{"id":12,"name":{"sk":"Produkt 12"},"images":[],"priceEUR":7.51,"url":"#","cat":["zele"]},{"id":13,"name":{"sk":"Produkt 13"},"images":["https://via.placeholder.com/300?text=Produkt+13"],"priceEUR":9.29,"url":"#","cat":["mix"]},{"id":14,"name":{"sk":"Produkt 14"},"images":["https://via.placeholder.com/300?text=Produkt+14"],"priceEUR":2.53,"url":"#","cat":["zele"]},{"id":15,"name":{"sk":"Produkt 15"},"images":[],"priceEUR":7.88,"url":"#","cat":["mix"]},{"id":16,"name":{"sk":"Produkt 16"},"images":["https://via.placeholder.com/300?text=Produkt+16"],"priceEUR":2.46,"url":"#","cat":["zele"]},{"id":17,"name":{"sk":"Produkt 17"},"images":["https://via.placeholder.com/300?text=Produkt+17"],"priceEUR":3.0,"url":"#","cat":["mix"]},{"id":18,"name":{"sk":"Produkt 18"},"images":[],"priceEUR":7.39,"url":"#","cat":["zele"]},{"id":19,"name":{"sk":"Produkt 19"},"images":["https://via.placeholder.com/300?text=Produkt+19"],"priceEUR":9.78,"url":"#","cat":["mix"]},{"id":20,"name":{"sk":"Produkt 20"},"images":["https://via.placeholder.com/300?text=Produkt+20"],"priceEUR":5.76,"url":"#","cat":["zele"]},{"id":21,"name":{"sk":"Produkt 21"},"images":[],"priceEUR":7.13,"url":"#","cat":["mix"]},{"id":22,"name":{"sk":"Produkt 22"},"images":["https://via.placeholder.com/300?text=Produkt+22"],"priceEUR":9.43,"url":"#","cat":["zele"]},{"id":23,"name":{"sk":"Produkt 23"},"images":["https://via.placeholder.com/300?text=Produkt+23"],"priceEUR":9.13,"url":"#","cat":["mix"]},{"id":24,"name":{"sk":"Produkt 24"},"images":[],"priceEUR":9.93,"url":"#","cat":["zele"]},{"id":25,"name":{"sk":"Produkt 25"},"images":["https://via.placeholder.com/300?text=Produkt+25"],"priceEUR":7.11,"url":"#","cat":["mix"]},{"id":26,"name":{"sk":"Produkt 26"},"images":["https://via.placeholder.com/300?text=Produkt+26"],"priceEUR":1.75,"url":"#","cat":["zele"]},{"id":27,"name":{"sk":"Produkt 27"},"images":[],"priceEUR":1.93,"url":"#","cat":["mix"]},{"id":28,"name":{"sk":"Produkt 28"},"images":["https://via.placeholder.com/300?text=Produkt+28"],"priceEUR":7.28,"url":"#","cat":["zele"]},{"id":29,"name":{"sk":"Produkt 29"},"images":["https://via.placeholder.com/300?text=Produkt+29"],"priceEUR":9.16,"url":"#","cat":["mix"]},{"id":30,"name":{"sk":"Produkt 30"},"images":[],"priceEUR":8.93,"url":"#","cat":["zele"]},{"id":31,"name":{"sk":"Produkt 31"},"images":["https://via.placeholder.com/300?text=Produkt+31"],"priceEUR":2.38,"url":"#","cat":["mix"]},{"id":32,"name":{"sk":"Produkt 32"},"images":["https://via.placeholder.com/300?text=Produkt+32"],"priceEUR":7.88,"url":"#","cat":["zele"]},{"id":33,"name":{"sk":"Produkt 33"},"images":[],"priceEUR":9.68,"url":"#","cat":["mix"]},{"id":34,"name":{"sk":"Produkt 34"},"images":["https://via.placeholder.com/300?text=Produkt+34"],"priceEUR":1.71,"url":"#","cat":["zele"]},{"id":35,"name":{"sk":"Produkt 35"},"images":["https://via.placeholder.com/300?text=Produkt+35"],"priceEUR":1.7,"url":"#","cat":["mix"]},{"id":36,"name":{"sk":"Produkt 36"},"images":[],"priceEUR":1.97,"url":"#","cat":["zele"]},{"id":37,"name":{"sk":"Produkt 37"},"images":["https://via.placeholder.com/300?text=Produkt+37"],"priceEUR":3.47,"url":"#","cat":["mix"]},{"id":38,"name":{"sk":"Produkt 38"},"images":["https://via.placeholder.com/300?text=Produkt+38"],"priceEUR":10.45,"url":"#","cat":["zele"]},{"id":39,"name":{"sk":"Produkt 39"},"images":[],"priceEUR":2.02,"url":"#","cat":["mix"]},{"id":40,"name":{"sk":"Produkt 40"},"images":["https://via.placeholder.com/300?text=Produkt+40"],"priceEUR":9.11,"url":"#","cat":["zele"]},{"id":41,"name":{"sk":"Produkt 41"},"images":["https://via.placeholder.com/300?text=Produkt+41"],"priceEUR":2.2,"url":"#","cat":["mix"]},{"id":42,"name":{"sk":"Produkt 42"},"images":[],"priceEUR":7.25,"url":"#","cat":["zele"]},{"id":43,"name":{"sk":"Produkt 43"},"images":["https://via.placeholder.com/300?text=Produkt+43"],"priceEUR":2.12,"url":"#","cat":["mix"]},{"id":44,"name":{"sk":"Produkt 44"},"images":["https://via.placeholder.com/300?text=Produkt+44"],"priceEUR":6.46,"url":"#","cat":["zele"]},{"id":45,"name":{"sk":"Produkt 45"},"images":[],"priceEUR":5.57,"url":"#","cat":["mix"]},{"id":46,"name":{"sk":"Produkt 46"},"images":["https://via.placeholder.com/300?text=Produkt+46"],"priceEUR":5.71,"url":"#","cat":["zele"]},{"id":47,"name":{"sk":"Produkt 47"},"images":["https://via.placeholder.com/300?text=Produkt+47"],"priceEUR":9.59,"url":"#","cat":["mix"]},{"id":48,"name":{"sk":"Produkt 48"},"images":[],"priceEUR":10.09,"url":"#","cat":["zele"]},{"id":49,"name":{"sk":"Produkt 49"},"images":["https://via.placeholder.com/300?text=Produkt+49"],"priceEUR":7.65,"url":"#","cat":["mix"]},{"id":50,"name":{"sk":"Produkt 50"},"images":["https://via.placeholder.com/300?text=Produkt+50"],"priceEUR":4.82,"url":"#","cat":["zele"]},{"id":51,"name":{"sk":"Produkt 51"},"images":[],"priceEUR":1.82,"url":"#","cat":["mix"]},{"id":52,"name":{"sk":"Produkt 52"},"images":["https://via.placeholder.com/300?text=Produkt+52"],"priceEUR":4.5,"url":"#","cat":["zele"]},{"id":53,"name":{"sk":"Produkt 53"},"images":["https://via.placeholder.com/300?text=Produkt+53"],"priceEUR":6.65,"url":"#","cat":["mix"]},{"id":54,"name":{"sk":"Produkt 54"},"images":[],"priceEUR":2.78,"url":"#","cat":["zele"]},{"id":55,"name":{"sk":"Produkt 55"},"images":["https://via.placeholder.com/300?text=Produkt+55"],"priceEUR":9.21,"url":"#","cat":["mix"]},{"id":56,"name":{"sk":"Produkt 56"},"images":["https://via.placeholder.com/300?text=Produkt+56"],"priceEUR":4.08,"url":"#","cat":["zele"]},{"id":57,"name":{"sk":"Produkt 57"},"images":[],"priceEUR":2.92,"url":"#","cat":["mix"]},{"id":58,"name":{"sk":"Produkt 58"},"images":["https://via.placeholder.com/300?text=Produkt+58"],"priceEUR":6.98,"url":"#","cat":["zele"]},{"id":59,"name":{"sk":"Produkt 59"},"images":["https://via.placeholder.com/300?text=Produkt+59"],"priceEUR":7.54,"url":"#","cat":["mix"]},{"id":60,"name":{"sk":"Produkt 60"},"images":[],"priceEUR":4.98,"url":"#","cat":["zele"]},{"id":61,"name":{"sk":"Produkt 61"},"images":["https://via.placeholder.com/300?text=Produkt+61"],"priceEUR":2.84,"url":"#","cat":["mix"]},{"id":62,"name":{"sk":"Produkt 62"},"images":["https://via.placeholder.com/300?text=Produkt+62"],"priceEUR":1.69,"url":"#","cat":["zele"]},{"id":63,"name":{"sk":"Produkt 63"},"images":[],"priceEUR":7.06,"url":"#","cat":["mix"]},{"id":64,"name":{"sk":"Produkt 64"},"images":["https://via.placeholder.com/300?text=Produkt+64"],"priceEUR":1.78,"url":"#","cat":["zele"]},{"id":65,"name":{"sk":"Produkt 65"},"images":["https://via.placeholder.com/300?text=Produkt+65"],"priceEUR":9.93,"url":"#","cat":["mix"]},{"id":66,"name":{"sk":"Produkt 66"},"images":[],"priceEUR":4.27,"url":"#","cat":["zele"]},{"id":67,"name":{"sk":"Produkt 67"},"images":["https://via.placeholder.com/300?text=Produkt+67"],"priceEUR":6.22,"url":"#","cat":["mix"]},{"id":68,"name":{"sk":"Produkt 68"},"images":["https://via.placeholder.com/300?text=Produkt+68"],"priceEUR":8.55,"url":"#","cat":["zele"]},{"id":69,"name":{"sk":"Produkt 69"},"images":[],"priceEUR":7.64,"url":"#","cat":["mix"]},{"id":70,"name":{"sk":"Produkt 70"},"images":["https://via.placeholder.com/300?text=Produkt+70"],"priceEUR":1.88,"url":"#","cat":["zele"]},{"id":71,"name":{"sk":"Produkt 71"},"images":["https://via.placeholder.com/300?text=Produkt+71"],"priceEUR":2.66,"url":"#","cat":["mix"]},{"id":72,"name":{"sk":"Produkt 72"},"images":[],"priceEUR":5.54,"url":"#","cat":["zele"]},{"id":73,"name":{"sk":"Produkt 73"},"images":["https://via.placeholder.com/300?text=Produkt+73"],"priceEUR":1.96,"url":"#","cat":["mix"]},{"id":74,"name":{"sk":"Produkt 74"},"images":["https://via.placeholder.com/300?text=Produkt+74"],"priceEUR":3.16,"url":"#","cat":["zele"]},{"id":75,"name":{"sk":"Produkt 75"},"images":[],"priceEUR":2.27,"url":"#","cat":["mix"]},{"id":76,"name":{"sk":"Produkt 76"},"images":["https://via.placeholder.com/300?text=Produkt+76"],"priceEUR":1.72,"url":"#","cat":["zele"]},{"id":77,"name":{"sk":"Produkt 77"},"images":["https://via.placeholder.com/300?text=Produkt+77"],"priceEUR":9.12,"url":"#","cat":["mix"]},{"id":78,"name":{"sk":"Produkt 78"},"images":[],"priceEUR":5.43,"url":"#","cat":["zele"]},{"id":79,"name":{"sk":"Produkt 79"},"images":["https://via.placeholder.com/300?text=Produkt+79"],"priceEUR":10.44,"url":"#","cat":["mix"]},{"id":80,"name":{"sk":"Produkt 80"},"images":["https://via.placeholder.com/300?text=Produkt+80"],"priceEUR":9.05,"url":"#","cat":["zele"]},{"id":81,"name":{"sk":"Produkt 81"},"images":[],"priceEUR":8.49,"url":"#","cat":["mix"]},{"id":82,"name":{"sk":"Produkt 82"},"images":["https://via.placeholder.com/300?text=Produkt+82"],"priceEUR":6.03,"url":"#","cat":["zele"]},{"id":83,"name":{"sk":"Produkt 83"},"images":["https://via.placeholder.com/300?text=Produkt+83"],"priceEUR":10.11,"url":"#","cat":["mix"]},{"id":84,"name":{"sk":"Produkt 84"},"images":[],"priceEUR":7.02,"url":"#","cat":["zele"]},{"id":85,"name":{"sk":"Produkt 85"},"images":["https://via.placeholder.com/300?text=Produkt+85"],"priceEUR":1.54,"url":"#","cat":["mix"]},{"id":86,"name":{"sk":"Produkt 86"},"images":["https://via.placeholder.com/300?text=Produkt+86"],"priceEUR":8.44,"url":"#","cat":["zele"]},{"id":87,"name":{"sk":"Produkt 87"},"images":[],"priceEUR":3.38,"url":"#","cat":["mix"]},{"id":88,"name":{"sk":"Produkt 88"},"images":["https://via.placeholder.com/300?text=Produkt+88"],"priceEUR":5.58,"url":"#","cat":["zele"]},{"id":89,"name":{"sk":"Produkt 89"},"images":["https://via.placeholder.com/300?text=Produkt+89"],"priceEUR":8.76,"url":"#","cat":["mix"]},{"id":90,"name":{"sk":"Produkt 90"},"images":[],"priceEUR":1.74,"url":"#","cat":["zele"]},{"id":91,"name":{"sk":"Produkt 91"},"images":["https://via.placeholder.com/300?text=Produkt+91"],"priceEUR":7.49,"url":"#","cat":["mix"]},{"id":92,"name":{"sk":"Produkt 92"},"images":["https://via.placeholder.com/300?text=Produkt+92"],"priceEUR":5.05,"url":"#","cat":["zele"]},{"id":93,"name":{"sk":"Produkt 93"},"images":[],"priceEUR":1.66,"url":"#","cat":["mix"]},{"id":94,"name":{"sk":"Produkt 94"},"images":["https://via.placeholder.com/300?text=Produkt+94"],"priceEUR":8.84,"url":"#","cat":["zele"]},{"id":95,"name":{"sk":"Produkt 95"},"images":["https://via.placeholder.com/300?text=Produkt+95"],"priceEUR":1.93,"url":"#","cat":["mix"]},{"id":96,"name":{"sk":"Produkt 96"},"images":[],"priceEUR":2.84,"url":"#","cat":["zele"]},{"id":97,"name":{"sk":"Produkt 97"},"images":["https://via.placeholder.com/300?text=Produkt+97"],"priceEUR":8.5,"url":"#","cat":["mix"]},{"id":98,"name":{"sk":"Produkt 98"},"images":["https://via.placeholder.com/300?text=Produkt+98"],"priceEUR":9.62,"url":"#","cat":["zele"]},{"id":99,"name":{"sk":"Produkt 99"},"images":[],"priceEUR":10.23,"url":"#","cat":["mix"]},{"id":100,"name":{"sk":"Produkt 100"},"images":["https://via.placeholder.com/300?text=Produkt+100"],"priceEUR":2.15,"url":"#","cat":["zele"]},{"id":101,"name":{"sk":"Produkt 101"},"images":["https://via.placeholder.com/300?text=Produkt+101"],"priceEUR":2.21,"url":"#","cat":["mix"]},{"id":102,"name":{"sk":"Produkt 102"},"images":[],"priceEUR":8.72,"url":"#","cat":["zele"]},{"id":103,"name":{"sk":"Produkt 103"},"images":["https://via.placeholder.com/300?text=Produkt+103"],"priceEUR":6.65,"url":"#","cat":["mix"]},{"id":104,"name":{"sk":"Produkt 104"},"images":["https://via.placeholder.com/300?text=Produkt+104"],"priceEUR":9.24,"url":"#","cat":["zele"]},{"id":105,"name":{"sk":"Produkt 105"},"images":[],"priceEUR":3.85,"url":"#","cat":["mix"]},{"id":106,"name":{"sk":"Produkt 106"},"images":["https://via.placeholder.com/300?text=Produkt+106"],"priceEUR":3.34,"url":"#","cat":["zele"]},{"id":107,"name":{"sk":"Produkt 107"},"images":["https://via.placeholder.com/300?text=Produkt+107"],"priceEUR":7.51,"url":"#","cat":["mix"]},{"id":108,"name":{"sk":"Produkt 108"},"images":[],"priceEUR":7.6,"url":"#","cat":["zele"]},{"id":109,"name":{"sk":"Produkt 109"},"images":["https://via.placeholder.com/300?text=Produkt+109"],"priceEUR":3.55,"url":"#","cat":["mix"]},{"id":110,"name":{"sk":"Produkt 110"},"images":["https://via.placeholder.com/300?text=Produkt+110"],"priceEUR":3.22,"url":"#","cat":["zele"]},{"id":111,"name":{"sk":"Produkt 111"},"images":[],"priceEUR":10.18,"url":"#","cat":["mix"]},{"id":112,"name":{"sk":"Produkt 112"},"images":["https://via.placeholder.com/300?text=Produkt+112"],"priceEUR":7.52,"url":"#","cat":["zele"]},{"id":113,"name":{"sk":"Produkt 113"},"images":["https://via.placeholder.com/300?text=Produkt+113"],"priceEUR":4.48,"url":"#","cat":["mix"]},{"id":114,"name":{"sk":"Produkt 114"},"images":[],"priceEUR":4.59,"url":"#","cat":["zele"]},{"id":115,"name":{"sk":"Produkt 115"},"images":["https://via.placeholder.com/300?text=Produkt+115"],"priceEUR":5.2,"url":"#","cat":["mix"]},{"id":116,"name":{"sk":"Produkt 116"},"images":["https://via.placeholder.com/300?text=Produkt+116"],"priceEUR":4.48,"url":"#","cat":["zele"]},{"id":117,"name":{"sk":"Produkt 117"},"images":[],"priceEUR":1.79,"url":"#","cat":["mix"]},{"id":118,"name":{"sk":"Produkt 118"},"images":["https://via.placeholder.com/300?text=Produkt+118"],"priceEUR":4.93,"url":"#","cat":["zele"]},{"id":119,"name":{"sk":"Produkt 119"},"images":["https://via.placeholder.com/300?text=Produkt+119"],"priceEUR":10.38,"url":"#","cat":["mix"]},{"id":120,"name":{"sk":"Produkt 120"},"images":[],"priceEUR":4.61,"url":"#","cat":["zele"]},{"id":121,"name":{"sk":"Produkt 121"},"images":["https://via.placeholder.com/300?text=Produkt+121"],"priceEUR":7.95,"url":"#","cat":["mix"]},{"id":122,"name":{"sk":"Produkt 122"},"images":["https://via.placeholder.com/300?text=Produkt+122"],"priceEUR":6.72,"url":"#","cat":["zele"]},{"id":123,"name":{"sk":"Produkt 123"},"images":[],"priceEUR":10.04,"url":"#","cat":["mix"]},{"id":124,"name":{"sk":"Produkt 124"},"images":["https://via.placeholder.com/300?text=Produkt+124"],"priceEUR":1.56,"url":"#","cat":["zele"]},{"id":125,"name":{"sk":"Produkt 125"},"images":["https://via.placeholder.com/300?text=Produkt+125"],"priceEUR":7.95,"url":"#","cat":["mix"]},{"id":126,"name":{"sk":"Produkt 126"},"images":[],"priceEUR":3.04,"url":"#","cat":["zele"]},{"id":127,"name":{"sk":"Produkt 127"},"images":["https://via.placeholder.com/300?text=Produkt+127"],"priceEUR":8.15,"url":"#","cat":["mix"]},{"id":128,"name":{"sk":"Produkt 128"},"images":["https://via.placeholder.com/300?text=Produkt+128"],"priceEUR":1.87,"url":"#","cat":["zele"]},{"id":129,"name":{"sk":"Produkt 129"},"images":[],"priceEUR":8.18,"url":"#","cat":["mix"]},{"id":130,"name":{"sk":"Produkt 130"},"images":["https://via.placeholder.com/300?text=Produkt+130"],"priceEUR":7.93,"url":"#","cat":["zele"]},{"id":131,"name":{"sk":"Produkt 131"},"images":["https://via.placeholder.com/300?text=Produkt+131"],"priceEUR":4.68,"url":"#","cat":["mix"]},{"id":132,"name":{"sk":"Produkt 132"},"images":[],"priceEUR":8.45,"url":"#","cat":["zele"]},{"id":133,"name":{"sk":"Produkt 133"},"images":["https://via.placeholder.com/300?text=Produkt+133"],"priceEUR":10.11,"url":"#","cat":["mix"]},{"id":134,"name":{"sk":"Produkt 134"},"images":["https://via.placeholder.com/300?text=Produkt+134"],"priceEUR":10.48,"url":"#","cat":["zele"]},{"id":135,"name":{"sk":"Produkt 135"},"images":[],"priceEUR":5.36,"url":"#","cat":["mix"]},{"id":136,"name":{"sk":"Produkt 136"},"images":["https://via.placeholder.com/300?text=Produkt+136"],"priceEUR":6.54,"url":"#","cat":["zele"]},{"id":137,"name":{"sk":"Produkt 137"},"images":["https://via.placeholder.com/300?text=Produkt+137"],"priceEUR":10.11,"url":"#","cat":["mix"]},{"id":138,"name":{"sk":"Produkt 138"},"images":[],"priceEUR":5.53,"url":"#","cat":["zele"]},{"id":139,"name":{"sk":"Produkt 139"},"images":["https://via.placeholder.com/300?text=Produkt+139"],"priceEUR":6.72,"url":"#","cat":["mix"]},{"id":140,"name":{"sk":"Produkt 140"},"images":["https://via.placeholder.com/300?text=Produkt+140"],"priceEUR":8.12,"url":"#","cat":["zele"]},{"id":141,"name":{"sk":"Produkt 141"},"images":[],"priceEUR":1.55,"url":"#","cat":["mix"]},{"id":142,"name":{"sk":"Produkt 142"},"images":["https://via.placeholder.com/300?text=Produkt+142"],"priceEUR":7.29,"url":"#","cat":["zele"]},{"id":143,"name":{"sk":"Produkt 143"},"images":["https://via.placeholder.com/300?text=Produkt+143"],"priceEUR":8.39,"url":"#","cat":["mix"]},{"id":144,"name":{"sk":"Produkt 144"},"images":[],"priceEUR":7.84,"url":"#","cat":["zele"]},{"id":145,"name":{"sk":"Produkt 145"},"images":["https://via.placeholder.com/300?text=Produkt+145"],"priceEUR":10.4,"url":"#","cat":["mix"]},{"id":146,"name":{"sk":"Produkt 146"},"images":["https://via.placeholder.com/300?text=Produkt+146"],"priceEUR":8.46,"url":"#","cat":["zele"]},{"id":147,"name":{"sk":"Produkt 147"},"images":[],"priceEUR":9.56,"url":"#","cat":["mix"]},{"id":148,"name":{"sk":"Produkt 148"},"images":["https://via.placeholder.com/300?text=Produkt+148"],"priceEUR":9.37,"url":"#","cat":["zele"]},{"id":149,"name":{"sk":"Produkt 149"},"images":["https://via.placeholder.com/300?text=Produkt+149"],"priceEUR":7.73,"url":"#","cat":["mix"]},{"id":150,"name":{"sk":"Produkt 150"},"images":[],"priceEUR":7.85,"url":"#","cat":["zele"]},{"id":151,"name":{"sk":"Produkt 151"},"images":["https://via.placeholder.com/300?text=Produkt+151"],"priceEUR":5.95,"url":"#","cat":["mix"]},{"id":152,"name":{"sk":"Produkt 152"},"images":["https://via.placeholder.com/300?text=Produkt+152"],"priceEUR":7.46,"url":"#","cat":["zele"]},{"id":153,"name":{"sk":"Produkt 153"},"images":[],"priceEUR":7.47,"url":"#","cat":["mix"]},{"id":154,"name":{"sk":"Produkt 154"},"images":["https://via.placeholder.com/300?text=Produkt+154"],"priceEUR":6.66,"url":"#","cat":["zele"]},{"id":155,"name":{"sk":"Produkt 155"},"images":["https://via.placeholder.com/300?text=Produkt+155"],"priceEUR":4.07,"url":"#","cat":["mix"]},{"id":156,"name":{"sk":"Produkt 156"},"images":[],"priceEUR":2.4,"url":"#","cat":["zele"]},{"id":157,"name":{"sk":"Produkt 157"},"images":["https://via.placeholder.com/300?text=Produkt+157"],"priceEUR":6.18,"url":"#","cat":["mix"]},{"id":158,"name":{"sk":"Produkt 158"},"images":["https://via.placeholder.com/300?text=Produkt+158"],"priceEUR":4.59,"url":"#","cat":["zele"]},{"id":159,"name":{"sk":"Produkt 159"},"images":[],"priceEUR":5.89,"url":"#","cat":["mix"]},{"id":160,"name":{"sk":"Produkt 160"},"images":["https://via.placeholder.com/300?text=Produkt+160"],"priceEUR":4.11,"url":"#","cat":["zele"]},{"id":161,"name":{"sk":"Produkt 161"},"images":["https://via.placeholder.com/300?text=Produkt+161"],"priceEUR":9.39,"url":"#","cat":["mix"]},{"id":162,"name":{"sk":"Produkt 162"},"images":[],"priceEUR":5.97,"url":"#","cat":["zele"]},{"id":163,"name":{"sk":"Produkt 163"},"images":["https://via.placeholder.com/300?text=Produkt+163"],"priceEUR":2.88,"url":"#","cat":["mix"]},{"id":164,"name":{"sk":"Produkt 164"},"images":["https://via.placeholder.com/300?text=Produkt+164"],"priceEUR":7.76,"url":"#","cat":["zele"]},{"id":165,"name":{"sk":"Produkt 165"},"images":[],"priceEUR":4.78,"url":"#","cat":["mix"]},{"id":166,"name":{"sk":"Produkt 166"},"images":["https://via.placeholder.com/300?text=Produkt+166"],"priceEUR":2.56,"url":"#","cat":["zele"]},{"id":167,"name":{"sk":"Produkt 167"},"images":["https://via.placeholder.com/300?text=Produkt+167"],"priceEUR":6.44,"url":"#","cat":["mix"]},{"id":168,"name":{"sk":"Produkt 168"},"images":[],"priceEUR":10.39,"url":"#","cat":["zele"]},{"id":169,"name":{"sk":"Produkt 169"},"images":["https://via.placeholder.com/300?text=Produkt+169"],"priceEUR":9.56,"url":"#","cat":["mix"]},{"id":170,"name":{"sk":"Produkt 170"},"images":["https://via.placeholder.com/300?text=Produkt+170"],"priceEUR":1.54,"url":"#","cat":["zele"]},{"id":171,"name":{"sk":"Produkt 171"},"images":[],"priceEUR":1.76,"url":"#","cat":["mix"]},{"id":172,"name":{"sk":"Produkt 172"},"images":["https://via.placeholder.com/300?text=Produkt+172"],"priceEUR":6.07,"url":"#","cat":["zele"]},{"id":173,"name":{"sk":"Produkt 173"},"images":["https://via.placeholder.com/300?text=Produkt+173"],"priceEUR":4.33,"url":"#","cat":["mix"]},{"id":174,"name":{"sk":"Produkt 174"},"images":[],"priceEUR":7.2,"url":"#","cat":["zele"]},{"id":175,"name":{"sk":"Produkt 175"},"images":["https://via.placeholder.com/300?text=Produkt+175"],"priceEUR":5.95,"url":"#","cat":["mix"]},{"id":176,"name":{"sk":"Produkt 176"},"images":["https://via.placeholder.com/300?text=Produkt+176"],"priceEUR":5.99,"url":"#","cat":["zele"]},{"id":177,"name":{"sk":"Produkt 177"},"images":[],"priceEUR":5.6,"url":"#","cat":["mix"]},{"id":178,"name":{"sk":"Produkt 178"},"images":["https://via.placeholder.com/300?text=Produkt+178"],"priceEUR":2.18,"url":"#","cat":["zele"]},{"id":179,"name":{"sk":"Produkt 179"},"images":["https://via.placeholder.com/300?text=Produkt+179"],"priceEUR":5.74,"url":"#","cat":["mix"]},{"id":180,"name":{"sk":"Produkt 180"},"images":[],"priceEUR":5.74,"url":"#","cat":["zele"]},{"id":181,"name":{"sk":"Produkt 181"},"images":["https://via.placeholder.com/300?text=Produkt+181"],"priceEUR":8.29,"url":"#","cat":["mix"]},{"id":182,"name":{"sk":"Produkt 182"},"images":["https://via.placeholder.com/300?text=Produkt+182"],"priceEUR":9.18,"url":"#","cat":["zele"]},{"id":183,"name":{"sk":"Produkt 183"},"images":[],"priceEUR":3.48,"url":"#","cat":["mix"]},{"id":184,"name":{"sk":"Produkt 184"},"images":["https://via.placeholder.com/300?text=Produkt+184"],"priceEUR":10.19,"url":"#","cat":["zele"]},{"id":185,"name":{"sk":"Produkt 185"},"images":["https://via.placeholder.com/300?text=Produkt+185"],"priceEUR":7.39,"url":"#","cat":["mix"]},{"id":186,"name":{"sk":"Produkt 186"},"images":[],"priceEUR":4.69,"url":"#","cat":["zele"]},{"id":187,"name":{"sk":"Produkt 187"},"images":["https://via.placeholder.com/300?text=Produkt+187"],"priceEUR":4.99,"url":"#","cat":["mix"]},{"id":188,"name":{"sk":"Produkt 188"},"images":["https://via.placeholder.com/300?text=Produkt+188"],"priceEUR":9.07,"url":"#","cat":["zele"]},{"id":189,"name":{"sk":"Produkt 189"},"images":[],"priceEUR":4.64,"url":"#","cat":["mix"]},{"id":190,"name":{"sk":"Produkt 190"},"images":["https://via.placeholder.com/300?text=Produkt+190"],"priceEUR":5.86,"url":"#","cat":["zele"]},{"id":191,"name":{"sk":"Produkt 191"},"images":["https://via.placeholder.com/300?text=Produkt+191"],"priceEUR":2.76,"url":"#","cat":["mix"]},{"id":192,"name":{"sk":"Produkt 192"},"images":[],"priceEUR":5.58,"url":"#","cat":["zele"]},{"id":193,"name":{"sk":"Produkt 193"},"images":["https://via.placeholder.com/300?text=Produkt+193"],"priceEUR":1.92,"url":"#","cat":["mix"]},{"id":194,"name":{"sk":"Produkt 194"},"images":["https://via.placeholder.com/300?text=Produkt+194"],"priceEUR":7.85,"url":"#","cat":["zele"]},{"id":195,"name":{"sk":"Produkt 195"},"images":[],"priceEUR":10.38,"url":"#","cat":["mix"]},{"id":196,"name":{"sk":"Produkt 196"},"images":["https://via.placeholder.com/300?text=Produkt+196"],"priceEUR":3.99,"url":"#","cat":["zele"]},{"id":197,"name":{"sk":"Produkt 197"},"images":["https://via.placeholder.com/300?text=Produkt+197"],"priceEUR":8.54,"url":"#","cat":["mix"]},{"id":198,"name":{"sk":"Produkt 198"},"images":[],"priceEUR":3.62,"url":"#","cat":["zele"]},{"id":199,"name":{"sk":"Produkt 199"},"images":["https://via.placeholder.com/300?text=Produkt+199"],"priceEUR":7.18,"url":"#","cat":["mix"]},{"id":200,"name":{"sk":"Produkt 200"},"images":["https://via.placeholder.com/300?text=Produkt+200"],"priceEUR":7.87,"url":"#","cat":["zele"]},{"id":201,"name":{"sk":"Produkt 201"},"images":[],"priceEUR":4.75,"url":"#","cat":["mix"]},{"id":202,"name":{"sk":"Produkt 202"},"images":["https://via.placeholder.com/300?text=Produkt+202"],"priceEUR":9.55,"url":"#","cat":["zele"]},{"id":203,"name":{"sk":"Produkt 203"},"images":["https://via.placeholder.com/300?text=Produkt+203"],"priceEUR":4.53,"url":"#","cat":["mix"]},{"id":204,"name":{"sk":"Produkt 204"},"images":[],"priceEUR":6.95,"url":"#","cat":["zele"]},{"id":205,"name":{"sk":"Produkt 205"},"images":["https://via.placeholder.com/300?text=Produkt+205"],"priceEUR":6.57,"url":"#","cat":["mix"]},{"id":206,"name":{"sk":"Produkt 206"},"images":["https://via.placeholder.com/300?text=Produkt+206"],"priceEUR":8.68,"url":"#","cat":["zele"]},{"id":207,"name":{"sk":"Produkt 207"},"images":[],"priceEUR":5.0,"url":"#","cat":["mix"]},{"id":208,"name":{"sk":"Produkt 208"},"images":["https://via.placeholder.com/300?text=Produkt+208"],"priceEUR":8.02,"url":"#","cat":["zele"]},{"id":209,"name":{"sk":"Produkt 209"},"images":["https://via.placeholder.com/300?text=Produkt+209"],"priceEUR":10.14,"url":"#","cat":["mix"]},{"id":210,"name":{"sk":"Produkt 210"},"images":[],"priceEUR":8.07,"url":"#","cat":["zele"]},{"id":211,"name":{"sk":"Produkt 211"},"images":["https://via.placeholder.com/300?text=Produkt+211"],"priceEUR":9.26,"url":"#","cat":["mix"]},{"id":212,"name":{"sk":"Produkt 212"},"images":["https://via.placeholder.com/300?text=Produkt+212"],"priceEUR":8.85,"url":"#","cat":["zele"]},{"id":213,"name":{"sk":"Produkt 213"},"images":[],"priceEUR":4.66,"url":"#","cat":["mix"]},{"id":214,"name":{"sk":"Produkt 214"},"images":["https://via.placeholder.com/300?text=Produkt+214"],"priceEUR":1.59,"url":"#","cat":["zele"]},{"id":215,"name":{"sk":"Produkt 215"},"images":["https://via.placeholder.com/300?text=Produkt+215"],"priceEUR":8.59,"url":"#","cat":["mix"]},{"id":216,"name":{"sk":"Produkt 216"},"images":[],"priceEUR":8.88,"url":"#","cat":["zele"]},{"id":217,"name":{"sk":"Produkt 217"},"images":["https://via.placeholder.com/300?text=Produkt+217"],"priceEUR":4.75,"url":"#","cat":["mix"]},{"id":218,"name":{"sk":"Produkt 218"},"images":["https://via.placeholder.com/300?text=Produkt+218"],"priceEUR":7.57,"url":"#","cat":["zele"]},{"id":219,"name":{"sk":"Produkt 219"},"images":[],"priceEUR":7.94,"url":"#","cat":["mix"]},{"id":220,"name":{"sk":"Produkt 220"},"images":["https://via.placeholder.com/300?text=Produkt+220"],"priceEUR":6.87,"url":"#","cat":["zele"]},{"id":221,"name":{"sk":"Produkt 221"},"images":["https://via.placeholder.com/300?text=Produkt+221"],"priceEUR":8.53,"url":"#","cat":["mix"]},{"id":222,"name":{"sk":"Produkt 222"},"images":[],"priceEUR":7.98,"url":"#","cat":["zele"]}]
+[
+  {
+    "id": 1,
+    "name": { "sk": "Pedro želé medvedíky 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/29-home_default/008-pedro-zele-medvediky1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+  {
+    "id": 2,
+    "name": { "sk": "Pedro želé hady 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/31-home_default/010-pedro-zele-hady-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+  {
+    "id": 3,
+    "name": { "sk": "Pedro kyslé červy 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/33-home_default/012-pedro-zele-kysli-cervy-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele","kysle"]
+  },
+  {
+    "id": 4,
+    "name": { "sk": "Pedro cola fľaštičky 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/37-home_default/018-pedro-cola-flasticky-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+  {
+    "id": 5,
+    "name": { "sk": "Pedro kyslé srdiečka broskyňa 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/41-home_default/022-pedro-kysla-srdiecka-broskyna-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele","kysle"]
+  },
+  {
+    "id": 6,
+    "name": { "sk": "Pedro ovocný mix želé 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/28-home_default/007-pedro-zele-ovocny-mix-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele","mix"]
+  },
+  {
+    "id": 7,
+    "name": { "sk": "Pedro pelendreky Rainbow 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/22-home_default/001-pedro-pelendreky-rainbow-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["pelendreky"]
+  },
+  {
+    "id": 8,
+    "name": { "sk": "Pedro pelendreky jahoda 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/23-home_default/002-pedro-pelendreky-jahoda-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["pelendreky"]
+  },
+  {
+    "id": 9,
+    "name": { "sk": "Pedro čierne pelendreky 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/26-home_default/005-pedro-cierne-pelendreky-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["pelendreky"]
+  },
+  {
+    "id": 10,
+    "name": { "sk": "Pedro želé dážďovky 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/32-home_default/011-pedro-zele-sladke-dazdovky-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+
+  {
+    "id": 11,
+    "name": { "sk": "Kyslý mix želé 500g" },
+    "images": ["https://global.ceskecukrovinky.sk/246-home_default/kysly-mix-zele-500g.jpg"],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": ["zele","mix","kysle"]
+  },
+  {
+    "id": 12,
+    "name": { "sk": "Sladký mix želé 500g" },
+    "images": ["https://global.ceskecukrovinky.sk/245-home_default/sladky-mix-zele-500g.jpg"],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": ["zele","mix"]
+  },
+  {
+    "id": 13,
+    "name": { "sk": "MAXI pelendreky mix 425g" },
+    "images": ["https://global.ceskecukrovinky.sk/276-home_default/maxi-pelendreky-mix-425g.jpg"],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": ["pelendreky","mix"]
+  },
+  {
+    "id": 14,
+    "name": { "sk": "Čoko kamienky 400g" },
+    "images": ["https://global.ceskecukrovinky.sk/189-home_default/025-coko-kamienky-400g.jpg"],
+    "priceEUR": 6.49,
+    "url": "#",
+    "cat": ["cokolada"]
+  },
+  {
+    "id": 15,
+    "name": { "sk": "Hors ovocné lízanky 500g" },
+    "images": ["https://global.ceskecukrovinky.sk/43-home_default/024-hors-ovocne-roksove-lizanky-500g.jpg"],
+    "priceEUR": 5.49,
+    "url": "#",
+    "cat": ["lizanky"]
+  },
+
+  {
+    "id": 16,
+    "name": { "sk": "Marshmallow twist 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/48-home_default/033-pedro-marshmallow-twist-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+  {
+    "id": 17,
+    "name": { "sk": "Marshmallow srdiečka 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/52-home_default/037-pedro-marshmallow-srdiecka-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+  {
+    "id": 18,
+    "name": { "sk": "Marshmallow mix 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/55-home_default/040-pedro-marshmallow-ovocny-mix-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele","mix"]
+  },
+  {
+    "id": 19,
+    "name": { "sk": "Marshmallow jahody 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/56-home_default/041-pedro-marshmallow-jahody-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  },
+  {
+    "id": 20,
+    "name": { "sk": "Marshmallow banány 1000g" },
+    "images": ["https://global.ceskecukrovinky.sk/57-home_default/042-pedro-marshmallow-banany-1000g.jpg"],
+    "priceEUR": 8.49,
+    "url": "#",
+    "cat": ["zele"]
+  }
+]
