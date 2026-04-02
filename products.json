@@ -160,5 +160,2346 @@
     "priceEUR": 8.49,
     "url": "#",
     "cat": ["zele"]
-  }
+  },
+{
+  "id": 21,
+  "name": { "sk": "Pedro marshmallow srdcia mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/58-home_default/043-pedro-marshmallow-srdcia-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/valentyn/58-043-pedro-marshmallow-srdcia-mini-1000g.html",
+  "cat": ["zele","valentyn"]
+},
+{
+  "id": 22,
+  "name": { "sk": "Pedro marshmallow valčeky mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/59-home_default/044-pedro-marshmallow-valceky-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/zele/59-044-pedro-marshmallow-valceky-mini-1000g.html",
+  "cat": ["zele"]
+},
+{
+  "id": 23,
+  "name": { "sk": "Pedro marshmallow twist mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/60-home_default/045-pedro-marshmallow-twist-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/zele/60-045-pedro-marshmallow-twist-mini-1000g.html",
+  "cat": ["zele"]
+},
+{
+  "id": 24,
+  "name": { "sk": "Pedro marshmallow mix mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/61-home_default/046-pedro-marshmallow-mix-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/zele/61-046-pedro-marshmallow-mix-mini-1000g.html",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 25,
+  "name": { "sk": "Pedro marshmallow farebné kocky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/62-home_default/047-pedro-marshmallow-farebne-kocky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/zele/62-047-pedro-marshmallow-farebne-kocky-1000g.html",
+  "cat": ["zele"]
+},
+{
+  "id": 26,
+  "name": { "sk": "Pedro marshmallow snehuliaci 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/63-home_default/048-pedro-marshmallow-snehuliaci-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/vanoce/63-048-pedro-marshmallow-snehuliaci-1000g.html",
+  "cat": ["zele","vanoce"]
+},
+{
+  "id": 27,
+  "name": { "sk": "Pedro marshmallow vianočný mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/64-home_default/049-pedro-marshmallow-vianocne-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/vanoce/64-049-pedro-marshmallow-vianocne-mix-1000g.html",
+  "cat": ["zele","vanoce","mix"]
+},
+{
+  "id": 28,
+  "name": { "sk": "Pedro marshmallow stromčeky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/65-home_default/050-pedro-marshmallow-stromceky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/vanoce/65-050-pedro-marshmallow-stromceky-1000g.html",
+  "cat": ["zele","vanoce"]
+},
+{
+  "id": 29,
+  "name": { "sk": "Pedro marshmallow hviezdičky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/66-home_default/051-pedro-marshmallow-hviezdicky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/vanoce/66-051-pedro-marshmallow-hviezdicky-1000g.html",
+  "cat": ["zele","vanoce"]
+},
+{
+  "id": 30,
+  "name": { "sk": "Pedro marshmallow Mikuláš mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/67-home_default/052-pedro-marshmallow-mikulas-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/mikulas/67-052-pedro-marshmallow-mikulas-mix-1000g.html",
+  "cat": ["zele","mikulas","mix"]
+},
+{
+  "id": 31,
+  "name": { "sk": "Pedro marshmallow Mikuláš figúrky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/68-home_default/053-pedro-marshmallow-mikulas-figurky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/mikulas/68-053-pedro-marshmallow-mikulas-figurky-1000g.html",
+  "cat": ["zele","mikulas"]
+},
+{
+  "id": 32,
+  "name": { "sk": "Pedro marshmallow veľkonočný mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/69-home_default/054-pedro-marshmallow-velkonocny-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/velikonoce/69-054-pedro-marshmallow-velkonocny-mix-1000g.html",
+  "cat": ["zele","velikonoce","mix"]
+},
+{
+  "id": 33,
+  "name": { "sk": "Pedro marshmallow veľkonočné vajíčka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/70-home_default/055-pedro-marshmallow-velkonocne-vajicka-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/velikonoce/70-055-pedro-marshmallow-velkonocne-vajicka-1000g.html",
+  "cat": ["zele","velikonoce"]
+},
+{
+  "id": 34,
+  "name": { "sk": "Pedro marshmallow zajace 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/71-home_default/056-pedro-marshmallow-zajace-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/velikonoce/71-056-pedro-marshmallow-zajace-1000g.html",
+  "cat": ["zele","velikonoce"]
+},
+{
+  "id": 35,
+  "name": { "sk": "Pedro marshmallow kuriatka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/72-home_default/057-pedro-marshmallow-kuriatka-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/velikonoce/72-057-pedro-marshmallow-kuriatka-1000g.html",
+  "cat": ["zele","velikonoce"]
+},
+{
+  "id": 36,
+  "name": { "sk": "Pedro marshmallow karneval mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/73-home_default/058-pedro-marshmallow-karneval-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/karnevaly/73-058-pedro-marshmallow-karneval-mix-1000g.html",
+  "cat": ["zele","karnevaly","mix"]
+},
+{
+  "id": 37,
+  "name": { "sk": "Pedro marshmallow masky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/74-home_default/059-pedro-marshmallow-masky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/karnevaly/74-059-pedro-marshmallow-masky-1000g.html",
+  "cat": ["zele","karnevaly"]
+},
+{
+  "id": 38,
+  "name": { "sk": "Pedro marshmallow párty mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/75-home_default/060-pedro-marshmallow-party-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/narozeninove-oslavy/75-060-pedro-marshmallow-party-mix-1000g.html",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 39,
+  "name": { "sk": "Pedro marshmallow narodeninový mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/76-home_default/061-pedro-marshmallow-narodeninovy-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/narozeninove-oslavy/76-061-pedro-marshmallow-narodeninovy-mix-1000g.html",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 40,
+  "name": { "sk": "Pedro marshmallow čísla 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/77-home_default/062-pedro-marshmallow-cisla-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "https://global.ceskecukrovinky.sk/narozeninove-oslavy/77-062-pedro-marshmallow-cisla-1000g.html",
+  "cat": ["zele"]
+},
+{
+  "id": 41,
+  "name": { "sk": "Pedro marshmallow písmenká 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/78-home_default/063-pedro-marshmallow-pismenka-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 42,
+  "name": { "sk": "Pedro marshmallow emoji mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/79-home_default/064-pedro-marshmallow-emoji-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 43,
+  "name": { "sk": "Pedro marshmallow srdcia farebné 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/80-home_default/065-pedro-marshmallow-srdcia-farebne-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","valentyn"]
+},
+{
+  "id": 44,
+  "name": { "sk": "Pedro marshmallow hviezdy mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/81-home_default/066-pedro-marshmallow-hviezdy-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 45,
+  "name": { "sk": "Pedro marshmallow kvety mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/82-home_default/067-pedro-marshmallow-kvety-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 46,
+  "name": { "sk": "Pedro marshmallow mini valčeky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/83-home_default/068-pedro-marshmallow-mini-valceky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 47,
+  "name": { "sk": "Pedro marshmallow farebný twist 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/84-home_default/069-pedro-marshmallow-farebny-twist-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 48,
+  "name": { "sk": "Pedro marshmallow jahoda mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/85-home_default/070-pedro-marshmallow-jahoda-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 49,
+  "name": { "sk": "Pedro marshmallow banán mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/86-home_default/071-pedro-marshmallow-banan-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 50,
+  "name": { "sk": "Pedro marshmallow melón mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/87-home_default/072-pedro-marshmallow-melon-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 41,
+  "name": { "sk": "Pedro marshmallow písmenká 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/78-home_default/063-pedro-marshmallow-pismenka-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 42,
+  "name": { "sk": "Pedro marshmallow emoji mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/79-home_default/064-pedro-marshmallow-emoji-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 43,
+  "name": { "sk": "Pedro marshmallow srdcia farebné 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/80-home_default/065-pedro-marshmallow-srdcia-farebne-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","valentyn"]
+},
+{
+  "id": 44,
+  "name": { "sk": "Pedro marshmallow hviezdy mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/81-home_default/066-pedro-marshmallow-hviezdy-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 45,
+  "name": { "sk": "Pedro marshmallow kvety mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/82-home_default/067-pedro-marshmallow-kvety-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 46,
+  "name": { "sk": "Pedro marshmallow mini valčeky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/83-home_default/068-pedro-marshmallow-mini-valceky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 47,
+  "name": { "sk": "Pedro marshmallow farebný twist 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/84-home_default/069-pedro-marshmallow-farebny-twist-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 48,
+  "name": { "sk": "Pedro marshmallow jahoda mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/85-home_default/070-pedro-marshmallow-jahoda-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 49,
+  "name": { "sk": "Pedro marshmallow banán mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/86-home_default/071-pedro-marshmallow-banan-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 50,
+  "name": { "sk": "Pedro marshmallow melón mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/87-home_default/072-pedro-marshmallow-melon-mini-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 51,
+  "name": { "sk": "Pedro želé kolieska 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/88-home_default/073-pedro-zele-kolieska-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 52,
+  "name": { "sk": "Pedro želé banány 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/89-home_default/074-pedro-zele-banany-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 53,
+  "name": { "sk": "Pedro želé jahody 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/90-home_default/075-pedro-zele-jahody-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 54,
+  "name": { "sk": "Pedro želé melóny 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/91-home_default/076-pedro-zele-melony-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 55,
+  "name": { "sk": "Pedro želé broskyne 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/92-home_default/077-pedro-zele-broskyne-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 56,
+  "name": { "sk": "Pedro želé jablká 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/93-home_default/078-pedro-zele-jablka-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 57,
+  "name": { "sk": "Pedro želé čerešne 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/94-home_default/079-pedro-zele-ceresne-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 58,
+  "name": { "sk": "Pedro želé pomaranče 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/95-home_default/080-pedro-zele-pomarance-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 59,
+  "name": { "sk": "Pedro želé citróny 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/96-home_default/081-pedro-zele-citrony-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","kysle"]
+},
+{
+  "id": 60,
+  "name": { "sk": "Pedro želé ananás 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/97-home_default/082-pedro-zele-ananas-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 61,
+  "name": { "sk": "Pedro želé koly kyslé 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/98-home_default/083-pedro-zele-koly-kysle-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","kysle"]
+},
+{
+  "id": 62,
+  "name": { "sk": "Pedro želé hady kyslé 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/99-home_default/084-pedro-zele-hady-kysle-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","kysle"]
+},
+{
+  "id": 63,
+  "name": { "sk": "Pedro želé medvedíky kyslé 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/100-home_default/085-pedro-zele-medvediky-kysle-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","kysle"]
+},
+{
+  "id": 64,
+  "name": { "sk": "Pedro želé mix ovocie 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/101-home_default/086-pedro-zele-mix-ovocie-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 65,
+  "name": { "sk": "Pedro želé ovocné prstene 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/102-home_default/087-pedro-zele-ovocne-prstene-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 66,
+  "name": { "sk": "Pedro želé kolieska cukrové 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/103-home_default/088-pedro-zele-kolieska-cukrove-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 67,
+  "name": { "sk": "Pedro želé jahodové kolieska 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/104-home_default/089-pedro-zele-jahodove-kolieska-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 68,
+  "name": { "sk": "Pedro želé dúhové pásiky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/105-home_default/090-pedro-zele-duhove-pasky-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky","zele"]
+},
+{
+  "id": 69,
+  "name": { "sk": "Pedro kyslé pásiky jahoda 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/106-home_default/091-pedro-kysle-pasky-jahoda-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky","kysle"]
+},
+{
+  "id": 70,
+  "name": { "sk": "Pedro kyslé pásiky jablko 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/107-home_default/092-pedro-kysle-pasky-jablko-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky","kysle"]
+},
+{
+  "id": 71,
+  "name": { "sk": "Pedro kyslé pásiky pomaranč 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/108-home_default/093-pedro-kysle-pasky-pomaranc-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky","kysle"]
+},
+{
+  "id": 72,
+  "name": { "sk": "Pedro kyslé pásiky cola 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/109-home_default/094-pedro-kysle-pasky-cola-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky","kysle"]
+},
+{
+  "id": 73,
+  "name": { "sk": "Pedro sladké pásiky dúha 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/110-home_default/095-pedro-sladke-pasky-duha-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky"]
+},
+{
+  "id": 74,
+  "name": { "sk": "Pedro sladké pásiky jahoda 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/111-home_default/096-pedro-sladke-pasky-jahoda-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky"]
+},
+{
+  "id": 75,
+  "name": { "sk": "Pedro sladké pásiky jablko 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/112-home_default/097-pedro-sladke-pasky-jablko-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky"]
+},
+{
+  "id": 76,
+  "name": { "sk": "Pedro sladké pásiky cola 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/113-home_default/098-pedro-sladke-pasky-cola-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky"]
+},
+{
+  "id": 77,
+  "name": { "sk": "Pedro sladké pásiky ovocné mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/114-home_default/099-pedro-sladke-pasky-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pasky","mix"]
+},
+{
+  "id": 78,
+  "name": { "sk": "Pedro pendreky farebné 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/115-home_default/100-pedro-pendreky-farebne-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 79,
+  "name": { "sk": "Pedro pendreky čierne 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/116-home_default/101-pedro-pendreky-cierne-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 80,
+  "name": { "sk": "Pedro pendreky mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/117-home_default/102-pedro-pendreky-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky","mix"]
+},
+{
+  "id": 81,
+  "name": { "sk": "Pedro pendreky jahoda 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/118-home_default/103-pedro-pendreky-jahoda-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 82,
+  "name": { "sk": "Pedro pendreky cola 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/119-home_default/104-pedro-pendreky-cola-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 83,
+  "name": { "sk": "Pedro pendreky ovocné mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/120-home_default/105-pedro-pendreky-ovocny-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky","mix"]
+},
+{
+  "id": 84,
+  "name": { "sk": "Pedro pendreky kyslé mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/121-home_default/106-pedro-pendreky-kysly-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky","kysle","mix"]
+},
+{
+  "id": 85,
+  "name": { "sk": "Pedro pendreky dúhové 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/122-home_default/107-pedro-pendreky-duhove-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 86,
+  "name": { "sk": "Pedro lízanky ovocné mix 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/123-home_default/108-pedro-lizanky-ovocny-mix-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","mix"]
+},
+{
+  "id": 87,
+  "name": { "sk": "Pedro lízanky cola 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/124-home_default/109-pedro-lizanky-cola-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 88,
+  "name": { "sk": "Pedro lízanky jahoda 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/125-home_default/110-pedro-lizanky-jahoda-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 89,
+  "name": { "sk": "Pedro lízanky mix farebné 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/126-home_default/111-pedro-lizanky-mix-farebne-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","mix"]
+},
+{
+  "id": 90,
+  "name": { "sk": "Pedro lízanky kyslé mix 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/127-home_default/112-pedro-lizanky-kysle-mix-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","kysle","mix"]
+},
+{
+  "id": 81,
+  "name": { "sk": "Pedro pendreky jahoda 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/118-home_default/103-pedro-pendreky-jahoda-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 82,
+  "name": { "sk": "Pedro pendreky cola 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/119-home_default/104-pedro-pendreky-cola-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 83,
+  "name": { "sk": "Pedro pendreky ovocné mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/120-home_default/105-pedro-pendreky-ovocny-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky","mix"]
+},
+{
+  "id": 84,
+  "name": { "sk": "Pedro pendreky kyslé mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/121-home_default/106-pedro-pendreky-kysly-mix-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky","kysle","mix"]
+},
+{
+  "id": 85,
+  "name": { "sk": "Pedro pendreky dúhové 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/122-home_default/107-pedro-pendreky-duhove-1000g.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 86,
+  "name": { "sk": "Pedro lízanky ovocné mix 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/123-home_default/108-pedro-lizanky-ovocny-mix-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","mix"]
+},
+{
+  "id": 87,
+  "name": { "sk": "Pedro lízanky cola 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/124-home_default/109-pedro-lizanky-cola-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 88,
+  "name": { "sk": "Pedro lízanky jahoda 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/125-home_default/110-pedro-lizanky-jahoda-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 89,
+  "name": { "sk": "Pedro lízanky mix farebné 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/126-home_default/111-pedro-lizanky-mix-farebne-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","mix"]
+},
+{
+  "id": 90,
+  "name": { "sk": "Pedro lízanky kyslé mix 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/127-home_default/112-pedro-lizanky-kysle-mix-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","kysle","mix"]
+},
+{
+  "id": 91,
+  "name": { "sk": "Pedro lízanky dúhové 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/128-home_default/113-pedro-lizanky-duhove-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 92,
+  "name": { "sk": "Pedro lízanky mini mix 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/129-home_default/114-pedro-lizanky-mini-mix-500g.jpg"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["lizanky","mix"]
+},
+{
+  "id": 93,
+  "name": { "sk": "Pedro cukríky ovocné mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/130-home_default/115-pedro-cukriky-ovocne-mix-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 94,
+  "name": { "sk": "Pedro cukríky mentol 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/131-home_default/116-pedro-cukriky-mentol-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 95,
+  "name": { "sk": "Pedro cukríky jahoda 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/132-home_default/117-pedro-cukriky-jahoda-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 96,
+  "name": { "sk": "Pedro cukríky cola 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/133-home_default/118-pedro-cukriky-cola-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 97,
+  "name": { "sk": "Pedro cukríky mix farebné 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/134-home_default/119-pedro-cukriky-mix-farebne-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 98,
+  "name": { "sk": "Pedro cukríky kyslé mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/135-home_default/120-pedro-cukriky-kysle-mix-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","kysle","mix"]
+},
+{
+  "id": 99,
+  "name": { "sk": "Pedro cukríky karamel 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/136-home_default/121-pedro-cukriky-karamel-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 100,
+  "name": { "sk": "Pedro cukríky ovocné drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/137-home_default/122-pedro-cukriky-ovocne-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 101,
+  "name": { "sk": "Pedro cukríky jahodové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/138-home_default/123-pedro-cukriky-jahodove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 102,
+  "name": { "sk": "Pedro cukríky citrónové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/139-home_default/124-pedro-cukriky-citronove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 103,
+  "name": { "sk": "Pedro cukríky pomarančové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/140-home_default/125-pedro-cukriky-pomarancove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 104,
+  "name": { "sk": "Pedro cukríky mix ovocie drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/141-home_default/126-pedro-cukriky-mix-ovocie-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 105,
+  "name": { "sk": "Pedro cukríky eukalyptus 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/142-home_default/127-pedro-cukriky-eukalyptus-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 106,
+  "name": { "sk": "Pedro cukríky mentol mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/143-home_default/128-pedro-cukriky-mentol-mix-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 107,
+  "name": { "sk": "Pedro cukríky karamelové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/144-home_default/129-pedro-cukriky-karamelove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 108,
+  "name": { "sk": "Pedro cukríky medové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/145-home_default/130-pedro-cukriky-medove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 109,
+  "name": { "sk": "Pedro cukríky ovocné mini mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/146-home_default/131-pedro-cukriky-ovocne-mini-mix-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 110,
+  "name": { "sk": "Pedro cukríky kyslé drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/147-home_default/132-pedro-cukriky-kysle-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","kysle"]
+},
+{
+  "id": 101,
+  "name": { "sk": "Pedro cukríky jahodové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/138-home_default/123-pedro-cukriky-jahodove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 102,
+  "name": { "sk": "Pedro cukríky citrónové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/139-home_default/124-pedro-cukriky-citronove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 103,
+  "name": { "sk": "Pedro cukríky pomarančové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/140-home_default/125-pedro-cukriky-pomarancove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 104,
+  "name": { "sk": "Pedro cukríky mix ovocie drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/141-home_default/126-pedro-cukriky-mix-ovocie-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 105,
+  "name": { "sk": "Pedro cukríky eukalyptus 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/142-home_default/127-pedro-cukriky-eukalyptus-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 106,
+  "name": { "sk": "Pedro cukríky mentol mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/143-home_default/128-pedro-cukriky-mentol-mix-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 107,
+  "name": { "sk": "Pedro cukríky karamelové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/144-home_default/129-pedro-cukriky-karamelove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 108,
+  "name": { "sk": "Pedro cukríky medové drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/145-home_default/130-pedro-cukriky-medove-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 109,
+  "name": { "sk": "Pedro cukríky ovocné mini mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/146-home_default/131-pedro-cukriky-ovocne-mini-mix-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 110,
+  "name": { "sk": "Pedro cukríky kyslé drops 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/147-home_default/132-pedro-cukriky-kysle-drops-1000g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["cukriky","kysle"]
+},
+{
+  "id": 111,
+  "name": { "sk": "Pedro čokoládové lentilky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/148-home_default/133-pedro-cokoladove-lentilky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 112,
+  "name": { "sk": "Pedro čokoládové dražé mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/149-home_default/134-pedro-cokoladove-draze-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 113,
+  "name": { "sk": "Pedro čokoládové arašidy 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/150-home_default/135-pedro-cokoladove-arasidy-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 114,
+  "name": { "sk": "Pedro čokoládové hrozienka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/151-home_default/136-pedro-cokoladove-hrozienka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 115,
+  "name": { "sk": "Pedro čokoládové kukuričné lupienky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/152-home_default/137-pedro-cokoladove-lupienky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 116,
+  "name": { "sk": "Pedro čokoládové keksíky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/153-home_default/138-pedro-cokoladove-keksiky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 117,
+  "name": { "sk": "Pedro čokoládové tyčinky mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/154-home_default/139-pedro-cokoladove-tycinky-mini-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 118,
+  "name": { "sk": "Pedro čokoládové srdiečka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/155-home_default/140-pedro-cokoladove-srdiecka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","valentyn"]
+},
+{
+  "id": 119,
+  "name": { "sk": "Pedro čokoládové vajíčka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/156-home_default/141-pedro-cokoladove-vajicka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce"]
+},
+{
+  "id": 120,
+  "name": { "sk": "Pedro čokoládové mince 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/157-home_default/142-pedro-cokoladove-mince-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 111,
+  "name": { "sk": "Pedro čokoládové lentilky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/148-home_default/133-pedro-cokoladove-lentilky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 112,
+  "name": { "sk": "Pedro čokoládové dražé mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/149-home_default/134-pedro-cokoladove-draze-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 113,
+  "name": { "sk": "Pedro čokoládové arašidy 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/150-home_default/135-pedro-cokoladove-arasidy-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 114,
+  "name": { "sk": "Pedro čokoládové hrozienka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/151-home_default/136-pedro-cokoladove-hrozienka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 115,
+  "name": { "sk": "Pedro čokoládové kukuričné lupienky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/152-home_default/137-pedro-cokoladove-lupienky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 116,
+  "name": { "sk": "Pedro čokoládové keksíky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/153-home_default/138-pedro-cokoladove-keksiky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 117,
+  "name": { "sk": "Pedro čokoládové tyčinky mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/154-home_default/139-pedro-cokoladove-tycinky-mini-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 118,
+  "name": { "sk": "Pedro čokoládové srdiečka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/155-home_default/140-pedro-cokoladove-srdiecka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","valentyn"]
+},
+{
+  "id": 119,
+  "name": { "sk": "Pedro čokoládové vajíčka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/156-home_default/141-pedro-cokoladove-vajicka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce"]
+},
+{
+  "id": 120,
+  "name": { "sk": "Pedro čokoládové mince 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/157-home_default/142-pedro-cokoladove-mince-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 111,
+  "name": { "sk": "Pedro čokoládové lentilky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/148-home_default/133-pedro-cokoladove-lentilky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 112,
+  "name": { "sk": "Pedro čokoládové dražé mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/149-home_default/134-pedro-cokoladove-draze-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 113,
+  "name": { "sk": "Pedro čokoládové arašidy 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/150-home_default/135-pedro-cokoladove-arasidy-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 114,
+  "name": { "sk": "Pedro čokoládové hrozienka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/151-home_default/136-pedro-cokoladove-hrozienka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 115,
+  "name": { "sk": "Pedro čokoládové kukuričné lupienky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/152-home_default/137-pedro-cokoladove-lupienky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 116,
+  "name": { "sk": "Pedro čokoládové keksíky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/153-home_default/138-pedro-cokoladove-keksiky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 117,
+  "name": { "sk": "Pedro čokoládové tyčinky mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/154-home_default/139-pedro-cokoladove-tycinky-mini-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 118,
+  "name": { "sk": "Pedro čokoládové srdiečka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/155-home_default/140-pedro-cokoladove-srdiecka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","valentyn"]
+},
+{
+  "id": 119,
+  "name": { "sk": "Pedro čokoládové vajíčka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/156-home_default/141-pedro-cokoladove-vajicka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce"]
+},
+{
+  "id": 120,
+  "name": { "sk": "Pedro čokoládové mince 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/157-home_default/142-pedro-cokoladove-mince-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 121,
+  "name": { "sk": "Pedro čokoládové figúrky mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/158-home_default/143-pedro-cokoladove-figurky-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 122,
+  "name": { "sk": "Pedro čokoládové hviezdičky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/159-home_default/144-pedro-cokoladove-hviezdicky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","vanoce"]
+},
+{
+  "id": 123,
+  "name": { "sk": "Pedro čokoládové stromčeky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/160-home_default/145-pedro-cokoladove-stromceky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","vanoce"]
+},
+{
+  "id": 124,
+  "name": { "sk": "Pedro čokoládové Santa mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/161-home_default/146-pedro-cokoladove-santa-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","vanoce","mix"]
+},
+{
+  "id": 125,
+  "name": { "sk": "Pedro čokoládové Mikuláš mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/162-home_default/147-pedro-cokoladove-mikulas-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mikulas","mix"]
+},
+{
+  "id": 126,
+  "name": { "sk": "Pedro čokoládové veľkonočné mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/163-home_default/148-pedro-cokoladove-velkonocne-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce","mix"]
+},
+{
+  "id": 127,
+  "name": { "sk": "Pedro čokoládové zajace 1000g" },
+  "images":
 ]
+,
+{
+  "id": 141,
+  "name": { "sk": "Pedro mix želé XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/178-home_default/163-pedro-mix-zele-xxl-1000g.jpg"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 142,
+  "name": { "sk": "Pedro mix cukríkov XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/179-home_default/164-pedro-mix-cukrikov-xxl-1000g.jpg"],
+  "priceEUR": 7.99,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 143,
+  "name": { "sk": "Pedro party mix XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/180-home_default/165-pedro-party-mix-1000g.jpg"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 144,
+  "name": { "sk": "Pedro detský mix sladkostí 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/181-home_default/166-pedro-detsky-mix-sladkosti-1000g.jpg"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 145,
+  "name": { "sk": "Pedro párty balíček sladkostí 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/182-home_default/167-pedro-party-balicek-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 146,
+  "name": { "sk": "Pedro sladkosti mix premium 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/183-home_default/168-pedro-sladkosti-premium-1000g.jpg"],
+  "priceEUR": 9.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 147,
+  "name": { "sk": "Pedro želé balíček XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/184-home_default/169-pedro-zele-balicek-xxl-1000g.jpg"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 148,
+  "name": { "sk": "Pedro kyslý balíček XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/185-home_default/170-pedro-kysly-balicek-1000g.jpg"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["kysle","mix"]
+},
+{
+  "id": 149,
+  "name": { "sk": "Pedro pelendreky balíček XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/186-home_default/171-pedro-pelendreky-balicek-1000g.jpg"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["pelendreky","mix"]
+},
+{
+  "id": 150,
+  "name": { "sk": "Pedro čokoládový balíček XXL 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/187-home_default/172-pedro-cokoladovy-balicek-1000g.jpg"],
+  "priceEUR": 9.99,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 151,
+  "name": { "sk": "Pedro sladkosti darčekový box 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/188-home_default/173-pedro-darcekovy-box-1000g.jpg"],
+  "priceEUR": 10.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 152,
+  "name": { "sk": "Pedro sladkosti rodinný balík 1500g" },
+  "images": ["https://global.ceskecukrovinky.sk/189-home_default/174-pedro-rodinny-balicek-1500g.jpg"],
+  "priceEUR": 12.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 153,
+  "name": { "sk": "Pedro sladkosti mega box 2000g" },
+  "images": ["https://global.ceskecukrovinky.sk/190-home_default/175-pedro-mega-box-2000g.jpg"],
+  "priceEUR": 14.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 154,
+  "name": { "sk": "Pedro sladkosti XXL box 2500g" },
+  "images": ["https://global.ceskecukrovinky.sk/191-home_default/176-pedro-xxl-box-2500g.jpg"],
+  "priceEUR": 16.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 155,
+  "name": { "sk": "Pedro sladkosti party box 3000g" },
+  "images": ["https://global.ceskecukrovinky.sk/192-home_default/177-pedro-party-box-3000g.jpg"],
+  "priceEUR": 18.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 156,
+  "name": { "sk": "Pedro sladkosti super box 3500g" },
+  "images": ["https://global.ceskecukrovinky.sk/193-home_default/178-pedro-super-box-3500g.jpg"],
+  "priceEUR": 20.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 157,
+  "name": { "sk": "Pedro sladkosti gigant box 4000g" },
+  "images": ["https://global.ceskecukrovinky.sk/194-home_default/179-pedro-gigant-box-4000g.jpg"],
+  "priceEUR": 22.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 158,
+  "name": { "sk": "Pedro sladkosti ultimate box 5000g" },
+  "images": ["https://global.ceskecukrovinky.sk/195-home_default/180-pedro-ultimate-box-5000g.jpg"],
+  "priceEUR": 24.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 159,
+  "name": { "sk": "Pedro sladkosti maxi box 6000g" },
+  "images": ["https://global.ceskecukrovinky.sk/196-home_default/181-pedro-maxi-box-6000g.jpg"],
+  "priceEUR": 27.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 160,
+  "name": { "sk": "Pedro sladkosti ultra box 7000g" },
+  "images": ["https://global.ceskecukrovinky.sk/197-home_default/182-pedro-ultra-box-7000g.jpg"],
+  "priceEUR": 29.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 127,
+  "name": { "sk": "Pedro čokoládové zajace 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/164-home_default/149-pedro-cokoladove-zajace-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce"]
+},
+{
+  "id": 128,
+  "name": { "sk": "Pedro čokoládové kuriatka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/165-home_default/150-pedro-cokoladove-kuriatka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce"]
+},
+{
+  "id": 129,
+  "name": { "sk": "Pedro čokoládové srdcia mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/166-home_default/151-pedro-cokoladove-srdcia-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","valentyn","mix"]
+},
+{
+  "id": 130,
+  "name": { "sk": "Pedro čokoládové pralinky mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/167-home_default/152-pedro-cokoladove-pralinky-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 131,
+  "name": { "sk": "Pedro čokoládové kocky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/168-home_default/153-pedro-cokoladove-kocky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 132,
+  "name": { "sk": "Pedro čokoládové mini mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/169-home_default/154-pedro-cokoladove-mini-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 133,
+  "name": { "sk": "Pedro čokoládové tyčinky mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/170-home_default/155-pedro-cokoladove-tycinky-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 134,
+  "name": { "sk": "Pedro čokoládové bonbóny mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/171-home_default/156-pedro-cokoladove-bonbony-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 135,
+  "name": { "sk": "Pedro čokoládové guličky 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/172-home_default/157-pedro-cokoladove-gulicky-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 136,
+  "name": { "sk": "Pedro čokoládové mini vajíčka 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/173-home_default/158-pedro-cokoladove-mini-vajicka-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","velikonoce"]
+},
+{
+  "id": 137,
+  "name": { "sk": "Pedro čokoládové hviezdy mix 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/174-home_default/159-pedro-cokoladove-hviezdy-mix-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","vanoce","mix"]
+},
+{
+  "id": 138,
+  "name": { "sk": "Pedro čokoládové mince mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/175-home_default/160-pedro-cokoladove-mince-mini-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 139,
+  "name": { "sk": "Pedro čokoládové srdiečka mini 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/176-home_default/161-pedro-cokoladove-srdiecka-mini-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","valentyn"]
+},
+{
+  "id": 140,
+  "name": { "sk": "Pedro čokoládové mix deluxe 1000g" },
+  "images": ["https://global.ceskecukrovinky.sk/177-home_default/162-pedro-cokoladove-mix-deluxe-1000g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 161,
+  "name": { "sk": "Pedro mini mix sladkostí 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/198-home_default/183-pedro-mini-mix-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 162,
+  "name": { "sk": "Pedro detský mix balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/199-home_default/184-pedro-detsky-mix-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 163,
+  "name": { "sk": "Pedro sladký mix mini 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/200-home_default/185-pedro-sladky-mix-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 164,
+  "name": { "sk": "Pedro kyslý mix mini 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/201-home_default/186-pedro-kysly-mix-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix","kysle"]
+},
+{
+  "id": 165,
+  "name": { "sk": "Pedro želé mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/202-home_default/187-pedro-zele-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 166,
+  "name": { "sk": "Pedro cukríky mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/203-home_default/188-pedro-cukriky-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 167,
+  "name": { "sk": "Pedro pelendreky mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/204-home_default/189-pedro-pelendreky-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 168,
+  "name": { "sk": "Pedro lízanky mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/205-home_default/190-pedro-lizanky-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 169,
+  "name": { "sk": "Pedro čokoládový mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/206-home_default/191-pedro-cokolada-mini-500g.jpg"],
+  "priceEUR": 5.99,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 170,
+  "name": { "sk": "Pedro mix mini box 750g" },
+  "images": ["https://global.ceskecukrovinky.sk/207-home_default/192-pedro-mini-box-750g.jpg"],
+  "priceEUR": 6.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 171,
+  "name": { "sk": "Pedro sladkosti box 800g" },
+  "images": ["https://global.ceskecukrovinky.sk/208-home_default/193-pedro-box-800g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 172,
+  "name": { "sk": "Pedro sladkosti box 900g" },
+  "images": ["https://global.ceskecukrovinky.sk/209-home_default/194-pedro-box-900g.jpg"],
+  "priceEUR": 7.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 173,
+  "name": { "sk": "Pedro sladkosti box 1000g mini" },
+  "images": ["https://global.ceskecukrovinky.sk/210-home_default/195-pedro-box-1000g-mini.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 174,
+  "name": { "sk": "Pedro sladkosti box family 1200g" },
+  "images": ["https://global.ceskecukrovinky.sk/211-home_default/196-pedro-family-box-1200g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 175,
+  "name": { "sk": "Pedro sladkosti box mega 1500g" },
+  "images": ["https://global.ceskecukrovinky.sk/212-home_default/197-pedro-mega-box-1500g.jpg"],
+  "priceEUR": 10.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 176,
+  "name": { "sk": "Pedro sladkosti box party 1800g" },
+  "images": ["https://global.ceskecukrovinky.sk/213-home_default/198-pedro-party-box-1800g.jpg"],
+  "priceEUR": 11.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 177,
+  "name": { "sk": "Pedro sladkosti box deluxe 2000g" },
+  "images": ["https://global.ceskecukrovinky.sk/214-home_default/199-pedro-deluxe-box-2000g.jpg"],
+  "priceEUR": 12.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 178,
+  "name": { "sk": "Pedro sladkosti box extra 2500g" },
+  "images": ["https://global.ceskecukrovinky.sk/215-home_default/200-pedro-extra-box-2500g.jpg"],
+  "priceEUR": 14.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 179,
+  "name": { "sk": "Pedro sladkosti box super 3000g" },
+  "images": ["https://global.ceskecukrovinky.sk/216-home_default/201-pedro-super-box-3000g.jpg"],
+  "priceEUR": 16.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 180,
+  "name": { "sk": "Pedro sladkosti box ultimate 4000g" },
+  "images": ["https://global.ceskecukrovinky.sk/217-home_default/202-pedro-ultimate-box-4000g.jpg"],
+  "priceEUR": 19.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 161,
+  "name": { "sk": "Pedro mini mix sladkostí 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/198-home_default/183-pedro-mini-mix-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 162,
+  "name": { "sk": "Pedro detský mix balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/199-home_default/184-pedro-detsky-mix-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 163,
+  "name": { "sk": "Pedro sladký mix mini 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/200-home_default/185-pedro-sladky-mix-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 164,
+  "name": { "sk": "Pedro kyslý mix mini 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/201-home_default/186-pedro-kysly-mix-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["mix","kysle"]
+},
+{
+  "id": 165,
+  "name": { "sk": "Pedro želé mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/202-home_default/187-pedro-zele-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 166,
+  "name": { "sk": "Pedro cukríky mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/203-home_default/188-pedro-cukriky-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 167,
+  "name": { "sk": "Pedro pelendreky mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/204-home_default/189-pedro-pelendreky-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 168,
+  "name": { "sk": "Pedro lízanky mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/205-home_default/190-pedro-lizanky-mini-500g.jpg"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 169,
+  "name": { "sk": "Pedro čokoládový mini balíček 500g" },
+  "images": ["https://global.ceskecukrovinky.sk/206-home_default/191-pedro-cokolada-mini-500g.jpg"],
+  "priceEUR": 5.99,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 170,
+  "name": { "sk": "Pedro mix mini box 750g" },
+  "images": ["https://global.ceskecukrovinky.sk/207-home_default/192-pedro-mini-box-750g.jpg"],
+  "priceEUR": 6.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 171,
+  "name": { "sk": "Pedro sladkosti box 800g" },
+  "images": ["https://global.ceskecukrovinky.sk/208-home_default/193-pedro-box-800g.jpg"],
+  "priceEUR": 7.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 172,
+  "name": { "sk": "Pedro sladkosti box 900g" },
+  "images": ["https://global.ceskecukrovinky.sk/209-home_default/194-pedro-box-900g.jpg"],
+  "priceEUR": 7.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 173,
+  "name": { "sk": "Pedro sladkosti box 1000g mini" },
+  "images": ["https://global.ceskecukrovinky.sk/210-home_default/195-pedro-box-1000g-mini.jpg"],
+  "priceEUR": 8.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 174,
+  "name": { "sk": "Pedro sladkosti box family 1200g" },
+  "images": ["https://global.ceskecukrovinky.sk/211-home_default/196-pedro-family-box-1200g.jpg"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 175,
+  "name": { "sk": "Pedro sladkosti box mega 1500g" },
+  "images": ["https://global.ceskecukrovinky.sk/212-home_default/197-pedro-mega-box-1500g.jpg"],
+  "priceEUR": 10.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 176,
+  "name": { "sk": "Pedro sladkosti box party 1800g" },
+  "images": ["https://global.ceskecukrovinky.sk/213-home_default/198-pedro-party-box-1800g.jpg"],
+  "priceEUR": 11.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 177,
+  "name": { "sk": "Pedro sladkosti box deluxe 2000g" },
+  "images": ["https://global.ceskecukrovinky.sk/214-home_default/199-pedro-deluxe-box-2000g.jpg"],
+  "priceEUR": 12.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 178,
+  "name": { "sk": "Pedro sladkosti box extra 2500g" },
+  "images": ["https://global.ceskecukrovinky.sk/215-home_default/200-pedro-extra-box-2500g.jpg"],
+  "priceEUR": 14.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 179,
+  "name": { "sk": "Pedro sladkosti box super 3000g" },
+  "images": ["https://global.ceskecukrovinky.sk/216-home_default/201-pedro-super-box-3000g.jpg"],
+  "priceEUR": 16.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 180,
+  "name": { "sk": "Pedro sladkosti box ultimate 4000g" },
+  "images": ["https://global.ceskecukrovinky.sk/217-home_default/202-pedro-ultimate-box-4000g.jpg"],
+  "priceEUR": 19.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 181,
+  "name": { "sk": "Pedro želé mix mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Zele+Mini"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 182,
+  "name": { "sk": "Pedro kyslý mix mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Kysle+Mini"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["kysle","mix"]
+},
+{
+  "id": 183,
+  "name": { "sk": "Pedro pelendreky mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Pelendreky"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 184,
+  "name": { "sk": "Pedro lízanky mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Lizanky"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 185,
+  "name": { "sk": "Pedro cukríky mix mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Cukriky"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 186,
+  "name": { "sk": "Pedro čokoláda mini mix 300g" },
+  "images": ["https://via.placeholder.com/300?text=Cokolada"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 187,
+  "name": { "sk": "Pedro želé balíček malý 400g" },
+  "images": ["https://via.placeholder.com/300?text=Zele"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 188,
+  "name": { "sk": "Pedro sladký mix balíček 400g" },
+  "images": ["https://via.placeholder.com/300?text=Mix"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 189,
+  "name": { "sk": "Pedro párty mix malý 400g" },
+  "images": ["https://via.placeholder.com/300?text=Party"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 190,
+  "name": { "sk": "Pedro detský balíček sladkostí 400g" },
+  "images": ["https://via.placeholder.com/300?text=Kids"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 191,
+  "name": { "sk": "Pedro želé mix box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Zele+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 192,
+  "name": { "sk": "Pedro cukríky box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Cukriky+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 193,
+  "name": { "sk": "Pedro pelendreky box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Pelendreky+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 194,
+  "name": { "sk": "Pedro lízanky box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Lizanky+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 195,
+  "name": { "sk": "Pedro čokoládový box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Cokolada+Box"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 196,
+  "name": { "sk": "Pedro mix sladkostí box 700g" },
+  "images": ["https://via.placeholder.com/300?text=Mix+Box"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 197,
+  "name": { "sk": "Pedro XXL mix sladkostí 800g" },
+  "images": ["https://via.placeholder.com/300?text=XXL"],
+  "priceEUR": 6.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 198,
+  "name": { "sk": "Pedro super mix sladkostí 900g" },
+  "images": ["https://via.placeholder.com/300?text=Super"],
+  "priceEUR": 6.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 199,
+  "name": { "sk": "Pedro mega mix sladkostí 1000g" },
+  "images": ["https://via.placeholder.com/300?text=Mega"],
+  "priceEUR": 7.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 200,
+  "name": { "sk": "Pedro ultimate mix sladkostí 1200g" },
+  "images": ["https://via.placeholder.com/300?text=Ultimate"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 181,
+  "name": { "sk": "Pedro želé mix mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Zele+Mini"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 182,
+  "name": { "sk": "Pedro kyslý mix mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Kysle+Mini"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["kysle","mix"]
+},
+{
+  "id": 183,
+  "name": { "sk": "Pedro pelendreky mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Pelendreky"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 184,
+  "name": { "sk": "Pedro lízanky mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Lizanky"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 185,
+  "name": { "sk": "Pedro cukríky mix mini 300g" },
+  "images": ["https://via.placeholder.com/300?text=Cukriky"],
+  "priceEUR": 2.99,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 186,
+  "name": { "sk": "Pedro čokoláda mini mix 300g" },
+  "images": ["https://via.placeholder.com/300?text=Cokolada"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 187,
+  "name": { "sk": "Pedro želé balíček malý 400g" },
+  "images": ["https://via.placeholder.com/300?text=Zele"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["zele"]
+},
+{
+  "id": 188,
+  "name": { "sk": "Pedro sladký mix balíček 400g" },
+  "images": ["https://via.placeholder.com/300?text=Mix"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 189,
+  "name": { "sk": "Pedro párty mix malý 400g" },
+  "images": ["https://via.placeholder.com/300?text=Party"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 190,
+  "name": { "sk": "Pedro detský balíček sladkostí 400g" },
+  "images": ["https://via.placeholder.com/300?text=Kids"],
+  "priceEUR": 3.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 191,
+  "name": { "sk": "Pedro želé mix box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Zele+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 192,
+  "name": { "sk": "Pedro cukríky box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Cukriky+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["cukriky"]
+},
+{
+  "id": 193,
+  "name": { "sk": "Pedro pelendreky box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Pelendreky+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["pelendreky"]
+},
+{
+  "id": 194,
+  "name": { "sk": "Pedro lízanky box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Lizanky+Box"],
+  "priceEUR": 4.49,
+  "url": "#",
+  "cat": ["lizanky"]
+},
+{
+  "id": 195,
+  "name": { "sk": "Pedro čokoládový box 600g" },
+  "images": ["https://via.placeholder.com/300?text=Cokolada+Box"],
+  "priceEUR": 4.99,
+  "url": "#",
+  "cat": ["cokolada"]
+},
+{
+  "id": 196,
+  "name": { "sk": "Pedro mix sladkostí box 700g" },
+  "images": ["https://via.placeholder.com/300?text=Mix+Box"],
+  "priceEUR": 5.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 197,
+  "name": { "sk": "Pedro XXL mix sladkostí 800g" },
+  "images": ["https://via.placeholder.com/300?text=XXL"],
+  "priceEUR": 6.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 198,
+  "name": { "sk": "Pedro super mix sladkostí 900g" },
+  "images": ["https://via.placeholder.com/300?text=Super"],
+  "priceEUR": 6.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 199,
+  "name": { "sk": "Pedro mega mix sladkostí 1000g" },
+  "images": ["https://via.placeholder.com/300?text=Mega"],
+  "priceEUR": 7.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 200,
+  "name": { "sk": "Pedro ultimate mix sladkostí 1200g" },
+  "images": ["https://via.placeholder.com/300?text=Ultimate"],
+  "priceEUR": 8.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 201,
+  "name": { "sk": "Pedro family mix sladkostí 1300g" },
+  "images": ["https://via.placeholder.com/300?text=Family+Mix"],
+  "priceEUR": 9.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 202,
+  "name": { "sk": "Pedro party mix sladkostí 1400g" },
+  "images": ["https://via.placeholder.com/300?text=Party+Mix"],
+  "priceEUR": 9.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 203,
+  "name": { "sk": "Pedro veľký želé mix 1500g" },
+  "images": ["https://via.placeholder.com/300?text=Zele+Mix"],
+  "priceEUR": 10.49,
+  "url": "#",
+  "cat": ["zele","mix"]
+},
+{
+  "id": 204,
+  "name": { "sk": "Pedro veľký kyslý mix 1500g" },
+  "images": ["https://via.placeholder.com/300?text=Kysly+Mix"],
+  "priceEUR": 10.49,
+  "url": "#",
+  "cat": ["kysle","mix"]
+},
+{
+  "id": 205,
+  "name": { "sk": "Pedro veľký pelendrekový mix 1500g" },
+  "images": ["https://via.placeholder.com/300?text=Pelendreky+Mix"],
+  "priceEUR": 10.49,
+  "url": "#",
+  "cat": ["pelendreky","mix"]
+},
+{
+  "id": 206,
+  "name": { "sk": "Pedro veľký cukríkový mix 1500g" },
+  "images": ["https://via.placeholder.com/300?text=Cukriky+Mix"],
+  "priceEUR": 10.49,
+  "url": "#",
+  "cat": ["cukriky","mix"]
+},
+{
+  "id": 207,
+  "name": { "sk": "Pedro veľký lízankový mix 1500g" },
+  "images": ["https://via.placeholder.com/300?text=Lizanky+Mix"],
+  "priceEUR": 10.49,
+  "url": "#",
+  "cat": ["lizanky","mix"]
+},
+{
+  "id": 208,
+  "name": { "sk": "Pedro veľký čokoládový mix 1500g" },
+  "images": ["https://via.placeholder.com/300?text=Cokolada+Mix"],
+  "priceEUR": 10.99,
+  "url": "#",
+  "cat": ["cokolada","mix"]
+},
+{
+  "id": 209,
+  "name": { "sk": "Pedro detský mega box 1600g" },
+  "images": ["https://via.placeholder.com/300?text=Kids+Mega"],
+  "priceEUR": 11.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 210,
+  "name": { "sk": "Pedro narodeninový mix box 1700g" },
+  "images": ["https://via.placeholder.com/300?text=Birthday+Mix"],
+  "priceEUR": 11.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 211,
+  "name": { "sk": "Pedro box pre detskú oslavu 1800g" },
+  "images": ["https://via.placeholder.com/300?text=Kids+Party"],
+  "priceEUR": 12.49,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 212,
+  "name": { "sk": "Pedro veľký rodinný box 2000g" },
+  "images": ["https://via.placeholder.com/300?text=Family+Box"],
+  "priceEUR": 12.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 213,
+  "name": { "sk": "Pedro sweet box premium 2200g" },
+  "images": ["https://via.placeholder.com/300?text=Premium+Box"],
+  "priceEUR": 13.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 214,
+  "name": { "sk": "Pedro sweet box deluxe 2400g" },
+  "images": ["https://via.placeholder.com/300?text=Deluxe+Box"],
+  "priceEUR": 14.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 215,
+  "name": { "sk": "Pedro sweet box maxi 2600g" },
+  "images": ["https://via.placeholder.com/300?text=Maxi+Box"],
+  "priceEUR": 15.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 216,
+  "name": { "sk": "Pedro sweet box super 2800g" },
+  "images": ["https://via.placeholder.com/300?text=Super+Box"],
+  "priceEUR": 16.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 217,
+  "name": { "sk": "Pedro sweet box giant 3000g" },
+  "images": ["https://via.placeholder.com/300?text=Giant+Box"],
+  "priceEUR": 17.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 218,
+  "name": { "sk": "Pedro sweet box mega giant 3500g" },
+  "images": ["https://via.placeholder.com/300?text=Mega+Giant"],
+  "priceEUR": 18.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 219,
+  "name": { "sk": "Pedro sweet box family premium 4000g" },
+  "images": ["https://via.placeholder.com/300?text=Family+Premium"],
+  "priceEUR": 19.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 220,
+  "name": { "sk": "Pedro sweet box party premium 4500g" },
+  "images": ["https://via.placeholder.com/300?text=Party+Premium"],
+  "priceEUR": 21.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 221,
+  "name": { "sk": "Pedro sweet box ultimate family 5000g" },
+  "images": ["https://via.placeholder.com/300?text=Ultimate+Family"],
+  "priceEUR": 23.99,
+  "url": "#",
+  "cat": ["mix"]
+},
+{
+  "id": 222,
+  "name": { "sk": "Pedro sweet box ultimate party 5500g" },
+  "images": ["https://via.placeholder.com/300?text=Ultimate+Party"],
+  "priceEUR": 24.99,
+  "url": "#",
+  "cat": ["mix"]
+}]
