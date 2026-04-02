@@ -1,122 +1,2761 @@
 [
   {
     "id": 1,
-    "name": { "sk": "Pedro želé medvedíky 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/29-home_default/008-pedro-zele-medvediky1000g.jpg"],
+    "name": {
+      "sk": "Pedro želé medvedíky 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/29-home_default/008-pedro-zele-medvediky1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele"]
+    "cat": [
+      "zele"
+    ]
   },
   {
     "id": 2,
-    "name": { "sk": "Pedro želé hady 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/31-home_default/010-pedro-zele-hady-1000g.jpg"],
+    "name": {
+      "sk": "Pedro želé hady 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/31-home_default/010-pedro-zele-hady-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele"]
+    "cat": [
+      "zele"
+    ]
   },
   {
     "id": 3,
-    "name": { "sk": "Pedro kyslé červy 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/33-home_default/012-pedro-zele-kysli-cervy-1000g.jpg"],
+    "name": {
+      "sk": "Pedro kyslé červy 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/33-home_default/012-pedro-zele-kysli-cervy-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele","kysle"]
+    "cat": [
+      "zele",
+      "kysle"
+    ]
   },
   {
     "id": 4,
-    "name": { "sk": "Pedro cola fľaštičky 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/37-home_default/018-pedro-cola-flasticky-1000g.jpg"],
+    "name": {
+      "sk": "Pedro cola fľaštičky 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/37-home_default/018-pedro-cola-flasticky-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele"]
+    "cat": [
+      "zele"
+    ]
   },
   {
     "id": 5,
-    "name": { "sk": "Pedro želé ovocný mix 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/28-home_default/007-pedro-zele-ovocny-mix-1000g.jpg"],
+    "name": {
+      "sk": "Pedro želé ovocný mix 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/28-home_default/007-pedro-zele-ovocny-mix-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele","mix"]
+    "cat": [
+      "zele",
+      "mix"
+    ]
   },
   {
     "id": 6,
-    "name": { "sk": "Pedro pelendreky Rainbow 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/22-home_default/001-pedro-pelendreky-rainbow-1000g.jpg"],
+    "name": {
+      "sk": "Pedro pelendreky Rainbow 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/22-home_default/001-pedro-pelendreky-rainbow-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["pelendreky"]
+    "cat": [
+      "pelendreky"
+    ]
   },
   {
     "id": 7,
-    "name": { "sk": "Pedro pelendreky jahoda 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/23-home_default/002-pedro-pelendreky-jahoda-1000g.jpg"],
+    "name": {
+      "sk": "Pedro pelendreky jahoda 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/23-home_default/002-pedro-pelendreky-jahoda-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["pelendreky"]
+    "cat": [
+      "pelendreky"
+    ]
   },
   {
     "id": 8,
-    "name": { "sk": "Pedro čierne pelendreky 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/26-home_default/005-pedro-cierne-pelendreky-1000g.jpg"],
+    "name": {
+      "sk": "Pedro čierne pelendreky 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/26-home_default/005-pedro-cierne-pelendreky-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["pelendreky"]
+    "cat": [
+      "pelendreky"
+    ]
   },
   {
     "id": 9,
-    "name": { "sk": "Pedro želé dážďovky 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/32-home_default/011-pedro-zele-sladke-dazdovky-1000g.jpg"],
+    "name": {
+      "sk": "Pedro želé dážďovky 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/32-home_default/011-pedro-zele-sladke-dazdovky-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele"]
+    "cat": [
+      "zele"
+    ]
   },
   {
     "id": 10,
-    "name": { "sk": "Kyslý mix želé 500g" },
-    "images": ["https://global.ceskecukrovinky.sk/246-home_default/kysly-mix-zele-500g.jpg"],
+    "name": {
+      "sk": "Kyslý mix želé 500g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/246-home_default/kysly-mix-zele-500g.jpg"
+    ],
     "priceEUR": 4.49,
     "url": "#",
-    "cat": ["zele","mix","kysle"]
+    "cat": [
+      "zele",
+      "mix",
+      "kysle"
+    ]
   },
   {
     "id": 11,
-    "name": { "sk": "Sladký mix želé 500g" },
-    "images": ["https://global.ceskecukrovinky.sk/245-home_default/sladky-mix-zele-500g.jpg"],
+    "name": {
+      "sk": "Sladký mix želé 500g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/245-home_default/sladky-mix-zele-500g.jpg"
+    ],
     "priceEUR": 4.49,
     "url": "#",
-    "cat": ["zele","mix"]
+    "cat": [
+      "zele",
+      "mix"
+    ]
   },
   {
     "id": 12,
-    "name": { "sk": "MAXI pelendreky mix 425g" },
-    "images": ["https://global.ceskecukrovinky.sk/276-home_default/maxi-pelendreky-mix-425g.jpg"],
+    "name": {
+      "sk": "MAXI pelendreky mix 425g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/276-home_default/maxi-pelendreky-mix-425g.jpg"
+    ],
     "priceEUR": 4.49,
     "url": "#",
-    "cat": ["pelendreky","mix"]
+    "cat": [
+      "pelendreky",
+      "mix"
+    ]
   },
   {
     "id": 13,
-    "name": { "sk": "Čoko kamienky 400g" },
-    "images": ["https://global.ceskecukrovinky.sk/189-home_default/025-coko-kamienky-400g.jpg"],
+    "name": {
+      "sk": "Čoko kamienky 400g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/189-home_default/025-coko-kamienky-400g.jpg"
+    ],
     "priceEUR": 6.49,
     "url": "#",
-    "cat": ["cokolada"]
+    "cat": [
+      "cokolada"
+    ]
   },
   {
     "id": 14,
-    "name": { "sk": "Hors ovocné lízanky 500g" },
-    "images": ["https://global.ceskecukrovinky.sk/43-home_default/024-hors-ovocne-roksove-lizanky-500g.jpg"],
+    "name": {
+      "sk": "Hors ovocné lízanky 500g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/43-home_default/024-hors-ovocne-roksove-lizanky-500g.jpg"
+    ],
     "priceEUR": 5.49,
     "url": "#",
-    "cat": ["lizanky"]
+    "cat": [
+      "lizanky"
+    ]
   },
   {
     "id": 15,
-    "name": { "sk": "Marshmallow mix 1000g" },
-    "images": ["https://global.ceskecukrovinky.sk/55-home_default/040-pedro-marshmallow-ovocny-mix-1000g.jpg"],
+    "name": {
+      "sk": "Marshmallow mix 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/55-home_default/040-pedro-marshmallow-ovocny-mix-1000g.jpg"
+    ],
     "priceEUR": 8.49,
     "url": "#",
-    "cat": ["zele","mix"]
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 16,
+    "name": {
+      "sk": "Produkt 16"
+    },
+    "images": [],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 17,
+    "name": {
+      "sk": "Produkt 17"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+17"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 18,
+    "name": {
+      "sk": "Produkt 18"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+18"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 19,
+    "name": {
+      "sk": "Produkt 19"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+19"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 20,
+    "name": {
+      "sk": "Produkt 20"
+    },
+    "images": [],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 21,
+    "name": {
+      "sk": "Produkt 21"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+21"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 22,
+    "name": {
+      "sk": "Produkt 22"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+22"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 23,
+    "name": {
+      "sk": "Produkt 23"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+23"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 24,
+    "name": {
+      "sk": "Produkt 24"
+    },
+    "images": [],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 25,
+    "name": {
+      "sk": "Produkt 25"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+25"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 26,
+    "name": {
+      "sk": "Produkt 26"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+26"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 27,
+    "name": {
+      "sk": "Produkt 27"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+27"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 28,
+    "name": {
+      "sk": "Produkt 28"
+    },
+    "images": [],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 29,
+    "name": {
+      "sk": "Produkt 29"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+29"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 30,
+    "name": {
+      "sk": "Produkt 30"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+30"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 31,
+    "name": {
+      "sk": "Produkt 31"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+31"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 32,
+    "name": {
+      "sk": "Produkt 32"
+    },
+    "images": [],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 33,
+    "name": {
+      "sk": "Produkt 33"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+33"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 34,
+    "name": {
+      "sk": "Produkt 34"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+34"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 35,
+    "name": {
+      "sk": "Produkt 35"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+35"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 36,
+    "name": {
+      "sk": "Produkt 36"
+    },
+    "images": [],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 37,
+    "name": {
+      "sk": "Produkt 37"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+37"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 38,
+    "name": {
+      "sk": "Produkt 38"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+38"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 39,
+    "name": {
+      "sk": "Produkt 39"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+39"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 40,
+    "name": {
+      "sk": "Produkt 40"
+    },
+    "images": [],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 41,
+    "name": {
+      "sk": "Produkt 41"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+41"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 42,
+    "name": {
+      "sk": "Produkt 42"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+42"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 43,
+    "name": {
+      "sk": "Produkt 43"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+43"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 44,
+    "name": {
+      "sk": "Produkt 44"
+    },
+    "images": [],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 45,
+    "name": {
+      "sk": "Produkt 45"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+45"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 46,
+    "name": {
+      "sk": "Produkt 46"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+46"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 47,
+    "name": {
+      "sk": "Produkt 47"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+47"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 48,
+    "name": {
+      "sk": "Produkt 48"
+    },
+    "images": [],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 49,
+    "name": {
+      "sk": "Produkt 49"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+49"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 50,
+    "name": {
+      "sk": "Produkt 50"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+50"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 51,
+    "name": {
+      "sk": "Produkt 51"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+51"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 52,
+    "name": {
+      "sk": "Produkt 52"
+    },
+    "images": [],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 53,
+    "name": {
+      "sk": "Produkt 53"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+53"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 54,
+    "name": {
+      "sk": "Produkt 54"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+54"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 55,
+    "name": {
+      "sk": "Produkt 55"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+55"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 56,
+    "name": {
+      "sk": "Produkt 56"
+    },
+    "images": [],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 57,
+    "name": {
+      "sk": "Produkt 57"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+57"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 58,
+    "name": {
+      "sk": "Produkt 58"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+58"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 59,
+    "name": {
+      "sk": "Produkt 59"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+59"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 60,
+    "name": {
+      "sk": "Produkt 60"
+    },
+    "images": [],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 61,
+    "name": {
+      "sk": "Produkt 61"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+61"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 62,
+    "name": {
+      "sk": "Produkt 62"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+62"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 63,
+    "name": {
+      "sk": "Produkt 63"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+63"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 64,
+    "name": {
+      "sk": "Produkt 64"
+    },
+    "images": [],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 65,
+    "name": {
+      "sk": "Produkt 65"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+65"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 66,
+    "name": {
+      "sk": "Produkt 66"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+66"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 67,
+    "name": {
+      "sk": "Produkt 67"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+67"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 68,
+    "name": {
+      "sk": "Produkt 68"
+    },
+    "images": [],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 69,
+    "name": {
+      "sk": "Produkt 69"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+69"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 70,
+    "name": {
+      "sk": "Produkt 70"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+70"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 71,
+    "name": {
+      "sk": "Produkt 71"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+71"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 72,
+    "name": {
+      "sk": "Produkt 72"
+    },
+    "images": [],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 73,
+    "name": {
+      "sk": "Produkt 73"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+73"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 74,
+    "name": {
+      "sk": "Produkt 74"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+74"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 75,
+    "name": {
+      "sk": "Produkt 75"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+75"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 76,
+    "name": {
+      "sk": "Produkt 76"
+    },
+    "images": [],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 77,
+    "name": {
+      "sk": "Produkt 77"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+77"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 78,
+    "name": {
+      "sk": "Produkt 78"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+78"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 79,
+    "name": {
+      "sk": "Produkt 79"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+79"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 80,
+    "name": {
+      "sk": "Produkt 80"
+    },
+    "images": [],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 81,
+    "name": {
+      "sk": "Produkt 81"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+81"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 82,
+    "name": {
+      "sk": "Produkt 82"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+82"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 83,
+    "name": {
+      "sk": "Produkt 83"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+83"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 84,
+    "name": {
+      "sk": "Produkt 84"
+    },
+    "images": [],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 85,
+    "name": {
+      "sk": "Produkt 85"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+85"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 86,
+    "name": {
+      "sk": "Produkt 86"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+86"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 87,
+    "name": {
+      "sk": "Produkt 87"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+87"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 88,
+    "name": {
+      "sk": "Produkt 88"
+    },
+    "images": [],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 89,
+    "name": {
+      "sk": "Produkt 89"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+89"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 90,
+    "name": {
+      "sk": "Produkt 90"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+90"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 91,
+    "name": {
+      "sk": "Produkt 91"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+91"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 92,
+    "name": {
+      "sk": "Produkt 92"
+    },
+    "images": [],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 93,
+    "name": {
+      "sk": "Produkt 93"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+93"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 94,
+    "name": {
+      "sk": "Produkt 94"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+94"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 95,
+    "name": {
+      "sk": "Produkt 95"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+95"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 96,
+    "name": {
+      "sk": "Produkt 96"
+    },
+    "images": [],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 97,
+    "name": {
+      "sk": "Produkt 97"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+97"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 98,
+    "name": {
+      "sk": "Produkt 98"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+98"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 99,
+    "name": {
+      "sk": "Produkt 99"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+99"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 100,
+    "name": {
+      "sk": "Produkt 100"
+    },
+    "images": [],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 101,
+    "name": {
+      "sk": "Produkt 101"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+101"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 102,
+    "name": {
+      "sk": "Produkt 102"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+102"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 103,
+    "name": {
+      "sk": "Produkt 103"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+103"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 104,
+    "name": {
+      "sk": "Produkt 104"
+    },
+    "images": [],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 105,
+    "name": {
+      "sk": "Produkt 105"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+105"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 106,
+    "name": {
+      "sk": "Produkt 106"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+106"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 107,
+    "name": {
+      "sk": "Produkt 107"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+107"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 108,
+    "name": {
+      "sk": "Produkt 108"
+    },
+    "images": [],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 109,
+    "name": {
+      "sk": "Produkt 109"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+109"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 110,
+    "name": {
+      "sk": "Produkt 110"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+110"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 111,
+    "name": {
+      "sk": "Produkt 111"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+111"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 112,
+    "name": {
+      "sk": "Produkt 112"
+    },
+    "images": [],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 113,
+    "name": {
+      "sk": "Produkt 113"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+113"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 114,
+    "name": {
+      "sk": "Produkt 114"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+114"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 115,
+    "name": {
+      "sk": "Produkt 115"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+115"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 116,
+    "name": {
+      "sk": "Produkt 116"
+    },
+    "images": [],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 117,
+    "name": {
+      "sk": "Produkt 117"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+117"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 118,
+    "name": {
+      "sk": "Produkt 118"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+118"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 119,
+    "name": {
+      "sk": "Produkt 119"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+119"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 120,
+    "name": {
+      "sk": "Produkt 120"
+    },
+    "images": [],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 121,
+    "name": {
+      "sk": "Produkt 121"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+121"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 122,
+    "name": {
+      "sk": "Produkt 122"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+122"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 123,
+    "name": {
+      "sk": "Produkt 123"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+123"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 124,
+    "name": {
+      "sk": "Produkt 124"
+    },
+    "images": [],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 125,
+    "name": {
+      "sk": "Produkt 125"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+125"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 126,
+    "name": {
+      "sk": "Produkt 126"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+126"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 127,
+    "name": {
+      "sk": "Produkt 127"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+127"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 128,
+    "name": {
+      "sk": "Produkt 128"
+    },
+    "images": [],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 129,
+    "name": {
+      "sk": "Produkt 129"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+129"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 130,
+    "name": {
+      "sk": "Produkt 130"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+130"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 131,
+    "name": {
+      "sk": "Produkt 131"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+131"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 132,
+    "name": {
+      "sk": "Produkt 132"
+    },
+    "images": [],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 133,
+    "name": {
+      "sk": "Produkt 133"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+133"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 134,
+    "name": {
+      "sk": "Produkt 134"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+134"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 135,
+    "name": {
+      "sk": "Produkt 135"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+135"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 136,
+    "name": {
+      "sk": "Produkt 136"
+    },
+    "images": [],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 137,
+    "name": {
+      "sk": "Produkt 137"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+137"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 138,
+    "name": {
+      "sk": "Produkt 138"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+138"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 139,
+    "name": {
+      "sk": "Produkt 139"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+139"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 140,
+    "name": {
+      "sk": "Produkt 140"
+    },
+    "images": [],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 141,
+    "name": {
+      "sk": "Produkt 141"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+141"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 142,
+    "name": {
+      "sk": "Produkt 142"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+142"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 143,
+    "name": {
+      "sk": "Produkt 143"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+143"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 144,
+    "name": {
+      "sk": "Produkt 144"
+    },
+    "images": [],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 145,
+    "name": {
+      "sk": "Produkt 145"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+145"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 146,
+    "name": {
+      "sk": "Produkt 146"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+146"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 147,
+    "name": {
+      "sk": "Produkt 147"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+147"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 148,
+    "name": {
+      "sk": "Produkt 148"
+    },
+    "images": [],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 149,
+    "name": {
+      "sk": "Produkt 149"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+149"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 150,
+    "name": {
+      "sk": "Produkt 150"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+150"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 151,
+    "name": {
+      "sk": "Produkt 151"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+151"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 152,
+    "name": {
+      "sk": "Produkt 152"
+    },
+    "images": [],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 153,
+    "name": {
+      "sk": "Produkt 153"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+153"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 154,
+    "name": {
+      "sk": "Produkt 154"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+154"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 155,
+    "name": {
+      "sk": "Produkt 155"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+155"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 156,
+    "name": {
+      "sk": "Produkt 156"
+    },
+    "images": [],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 157,
+    "name": {
+      "sk": "Produkt 157"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+157"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 158,
+    "name": {
+      "sk": "Produkt 158"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+158"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 159,
+    "name": {
+      "sk": "Produkt 159"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+159"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 160,
+    "name": {
+      "sk": "Produkt 160"
+    },
+    "images": [],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 161,
+    "name": {
+      "sk": "Produkt 161"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+161"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 162,
+    "name": {
+      "sk": "Produkt 162"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+162"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 163,
+    "name": {
+      "sk": "Produkt 163"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+163"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 164,
+    "name": {
+      "sk": "Produkt 164"
+    },
+    "images": [],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 165,
+    "name": {
+      "sk": "Produkt 165"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+165"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 166,
+    "name": {
+      "sk": "Produkt 166"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+166"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 167,
+    "name": {
+      "sk": "Produkt 167"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+167"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 168,
+    "name": {
+      "sk": "Produkt 168"
+    },
+    "images": [],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 169,
+    "name": {
+      "sk": "Produkt 169"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+169"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 170,
+    "name": {
+      "sk": "Produkt 170"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+170"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 171,
+    "name": {
+      "sk": "Produkt 171"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+171"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 172,
+    "name": {
+      "sk": "Produkt 172"
+    },
+    "images": [],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 173,
+    "name": {
+      "sk": "Produkt 173"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+173"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 174,
+    "name": {
+      "sk": "Produkt 174"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+174"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 175,
+    "name": {
+      "sk": "Produkt 175"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+175"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 176,
+    "name": {
+      "sk": "Produkt 176"
+    },
+    "images": [],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 177,
+    "name": {
+      "sk": "Produkt 177"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+177"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 178,
+    "name": {
+      "sk": "Produkt 178"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+178"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 179,
+    "name": {
+      "sk": "Produkt 179"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+179"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 180,
+    "name": {
+      "sk": "Produkt 180"
+    },
+    "images": [],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 181,
+    "name": {
+      "sk": "Produkt 181"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+181"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 182,
+    "name": {
+      "sk": "Produkt 182"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+182"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 183,
+    "name": {
+      "sk": "Produkt 183"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+183"
+    ],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 184,
+    "name": {
+      "sk": "Produkt 184"
+    },
+    "images": [],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 185,
+    "name": {
+      "sk": "Produkt 185"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+185"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 186,
+    "name": {
+      "sk": "Produkt 186"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+186"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 187,
+    "name": {
+      "sk": "Produkt 187"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+187"
+    ],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 188,
+    "name": {
+      "sk": "Produkt 188"
+    },
+    "images": [],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 189,
+    "name": {
+      "sk": "Produkt 189"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+189"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 190,
+    "name": {
+      "sk": "Produkt 190"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+190"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 191,
+    "name": {
+      "sk": "Produkt 191"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+191"
+    ],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 192,
+    "name": {
+      "sk": "Produkt 192"
+    },
+    "images": [],
+    "priceEUR": 5.24,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
+  },
+  {
+    "id": 193,
+    "name": {
+      "sk": "Produkt 193"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+193"
+    ],
+    "priceEUR": 5.99,
+    "url": "#",
+    "cat": [
+      "mix"
+    ]
+  },
+  {
+    "id": 194,
+    "name": {
+      "sk": "Produkt 194"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+194"
+    ],
+    "priceEUR": 6.74,
+    "url": "#",
+    "cat": [
+      "cukriky"
+    ]
+  },
+  {
+    "id": 195,
+    "name": {
+      "sk": "Produkt 195"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+195"
+    ],
+    "priceEUR": 7.49,
+    "url": "#",
+    "cat": [
+      "pelendreky"
+    ]
+  },
+  {
+    "id": 196,
+    "name": {
+      "sk": "Produkt 196"
+    },
+    "images": [],
+    "priceEUR": 8.24,
+    "url": "#",
+    "cat": [
+      "lizanky"
+    ]
+  },
+  {
+    "id": 197,
+    "name": {
+      "sk": "Produkt 197"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+197"
+    ],
+    "priceEUR": 8.99,
+    "url": "#",
+    "cat": [
+      "cokolada"
+    ]
+  },
+  {
+    "id": 198,
+    "name": {
+      "sk": "Produkt 198"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+198"
+    ],
+    "priceEUR": 2.99,
+    "url": "#",
+    "cat": [
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 199,
+    "name": {
+      "sk": "Produkt 199"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300?text=Produkt+199"
+    ],
+    "priceEUR": 3.74,
+    "url": "#",
+    "cat": [
+      "kysle",
+      "mix"
+    ]
+  },
+  {
+    "id": 200,
+    "name": {
+      "sk": "Produkt 200"
+    },
+    "images": [],
+    "priceEUR": 4.49,
+    "url": "#",
+    "cat": [
+      "zele"
+    ]
   }
 ]
