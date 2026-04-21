@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Generate products.json
-        run: node update-products.js
+        run: npm run update-products
 
       - name: Commit and push
         run: |
