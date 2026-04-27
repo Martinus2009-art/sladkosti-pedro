@@ -6,15 +6,74 @@
 <title>Sladkosti do domácnosti</title>
 
 <style>
-body{margin:0;font-family:Arial;background:#fff7fb}
-header{background:#ff4f93;color:#fff;text-align:center;padding:20px}
-.products{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;padding:20px}
-.card{background:#fff;padding:15px;border-radius:12px;box-shadow:0 5px 15px rgba(0,0,0,.1);text-align:center}
-.card img{width:100%;height:200px;object-fit:contain}
-.price{color:#ff4f93;font-size:20px;font-weight:bold}
-.btn{background:#ff4f93;color:#fff;padding:10px;border:none;border-radius:8px;cursor:pointer;text-decoration:none;display:inline-block;margin-top:10px}
-input{padding:10px;margin:10px;width:90%;max-width:400px}
-.info{text-align:center;margin-top:10px}
+body {
+  margin:0;
+  font-family:Arial;
+  background:#fff7fb;
+}
+
+header {
+  background:#ff4f93;
+  color:#fff;
+  text-align:center;
+  padding:25px;
+}
+
+input {
+  margin-top:10px;
+  padding:10px;
+  width:90%;
+  max-width:400px;
+}
+
+.products {
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+  gap:20px;
+  padding:20px;
+}
+
+.card {
+  background:#fff;
+  padding:15px;
+  border-radius:12px;
+  text-align:center;
+  box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.card img {
+  width:100%;
+  height:200px;
+  object-fit:contain;
+}
+
+.price {
+  color:#ff4f93;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.btn {
+  background:#ff4f93;
+  color:#fff;
+  border:none;
+  padding:10px;
+  margin-top:10px;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+footer {
+  background:#2a1520;
+  color:#fff;
+  text-align:center;
+  padding:20px;
+}
+
+.info {
+  text-align:center;
+  margin-top:10px;
+}
 </style>
 </head>
 
@@ -22,11 +81,18 @@ input{padding:10px;margin:10px;width:90%;max-width:400px}
 
 <header>
 <h1>Sladkosti do domácnosti 🍬</h1>
-<input id="search" placeholder="Hľadať...">
+<input id="search" placeholder="Vyhľadať produkt...">
 </header>
 
-<div class="info" id="info">Načítavam...</div>
+<div class="info" id="info">Načítavam produkty...</div>
 <div class="products" id="products"></div>
+
+<footer>
+<p><strong>Kontakt</strong></p>
+<p>Email: toblovaanna.praca@gmail.com</p>
+<p>Tel: 0908068739</p>
+<p>Facebook: Sladkosti do domácnosti</p>
+</footer>
 
 <script>
 let products = [];
@@ -36,7 +102,7 @@ const productsEl = document.getElementById("products");
 const searchEl = document.getElementById("search");
 const infoEl = document.getElementById("info");
 
-// 🔥 OPRAVENÝ FETCH
+// 🔥 NAČÍTANIE JSON (OPRAVA)
 fetch("products.json")
   .then(res => {
     if (!res.ok) {
@@ -53,11 +119,11 @@ fetch("products.json")
     render();
   })
   .catch(err => {
-    console.error("CHYBA FETCH:", err);
+    console.error("CHYBA:", err);
     infoEl.textContent = "❌ Nepodarilo sa načítať products.json";
   });
 
-// 🔎 FILTER
+// 🔍 HĽADANIE
 searchEl.addEventListener("input", () => {
   const text = searchEl.value.toLowerCase();
 
@@ -68,7 +134,7 @@ searchEl.addEventListener("input", () => {
   render();
 });
 
-// 🧱 RENDER
+// 🧱 RENDER PRODUKTOV
 function render() {
   productsEl.innerHTML = "";
 
@@ -84,19 +150,19 @@ function render() {
     const price = p.priceEUR ? p.priceEUR.toFixed(2) : "0.00";
     const img = p.images?.[0] || "";
 
-    const div = document.createElement("div");
-    div.className = "card";
+    const card = document.createElement("div");
+    card.className = "card";
 
-    div.innerHTML = `
+    card.innerHTML = `
       <img src="${img}" onerror="this.style.display='none'">
       <h3>${name}</h3>
       <div class="price">${price} €</div>
       <a href="${p.url}" target="_blank">
-        <button class="btn">Detail</button>
+        <button class="btn">Detail produktu</button>
       </a>
     `;
 
-    productsEl.appendChild(div);
+    productsEl.appendChild(card);
   });
 }
 </script>
