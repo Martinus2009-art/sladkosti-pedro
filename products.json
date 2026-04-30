@@ -2953,6 +2953,69 @@
   {
     "id": 192,
     "name": {
+      "sk": "261 - PRO DĚTI - Tubus plný překvapení"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/img/p/sk-default-home_default.jpg"
+    ],
+    "priceEUR": 137.06,
+    "url": "https://global.ceskecukrovinky.sk/karnevaly/659-261-pro-deti-tubus-plny-prekvapeni.html",
+    "cat": [
+      "úvodná_stránka",
+      "sladkosti_na_akce",
+      "karnevaly"
+    ]
+  },
+  {
+    "id": 193,
+    "name": {
+      "sk": "262 - PRO KLUKY - Tubus plný překvapení"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/img/p/sk-default-home_default.jpg"
+    ],
+    "priceEUR": 137.06,
+    "url": "https://global.ceskecukrovinky.sk/karnevaly/660-262-pro-kluky-tubus-plny-prekvapeni.html",
+    "cat": [
+      "úvodná_stránka",
+      "sladkosti_na_akce",
+      "karnevaly"
+    ]
+  },
+  {
+    "id": 194,
+    "name": {
+      "sk": "263 - PRO HOLKY - Tubus plný překvapení"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/img/p/sk-default-home_default.jpg"
+    ],
+    "priceEUR": 137.06,
+    "url": "https://global.ceskecukrovinky.sk/karnevaly/661-263-pro-holky-tubus-plny-prekvapeni.html",
+    "cat": [
+      "úvodná_stránka",
+      "sladkosti_na_akce",
+      "karnevaly"
+    ]
+  },
+  {
+    "id": 195,
+    "name": {
+      "sk": "264 -  SÝROVÉ arašídy a kešu 400g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3760-thickbox_default/264-syrove-arasidy-a-kesu-400g.jpg"
+    ],
+    "priceEUR": 158.31,
+    "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/662-264-syrove-arasidy-a-kesu-400g.html",
+    "cat": [
+      "úvodná_stránka",
+      "solené_výrobky"
+    ]
+  },
+  {
+    "id": 196,
+    "name": {
       "sk": "305 - Park Lane Jablko krúžky 2kg"
     },
     "images": [
@@ -2966,7 +3029,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 197,
     "name": {
       "sk": "306 - Park Lane ŽABKY 4,5g -2,5kg"
     },
@@ -2981,7 +3044,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 198,
     "name": {
       "sk": "308 - Park Lane MEDVÍDCI 3kg"
     },
@@ -2996,7 +3059,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 199,
     "name": {
       "sk": "309 - Park Lane Čerešne 3 kg"
     },
@@ -3011,7 +3074,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 200,
     "name": {
       "sk": "314 - Park lane Wine Gums 3kg"
     },
@@ -3026,7 +3089,7 @@
     ]
   },
   {
-    "id": 197,
+    "id": 201,
     "name": {
       "sk": "321 - Park Lane Kyselé COLA krúžky 2 kg"
     },
@@ -3041,7 +3104,7 @@
     ]
   },
   {
-    "id": 198,
+    "id": 202,
     "name": {
       "sk": "322 - MELOUN - kyslé želé 2,5kg"
     },
@@ -3057,7 +3120,7 @@
     ]
   },
   {
-    "id": 199,
+    "id": 203,
     "name": {
       "sk": "325 - Park lane -Cola Žížalky 3kg"
     },
@@ -3072,7 +3135,7 @@
     ]
   },
   {
-    "id": 200,
+    "id": 204,
     "name": {
       "sk": "326 - Park lane - Sladké Žížalky 3kg"
     },
@@ -3087,7 +3150,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 205,
     "name": {
       "sk": "327 - Parklane broskyňové Srdiečka 2,5 kg"
     },
@@ -3102,7 +3165,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 206,
     "name": {
       "sk": "387 - Sladký mix ovocné pelendreky 700g"
     },
@@ -3119,7 +3182,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 207,
     "name": {
       "sk": "388 - Kyslý mix ovocné pelendreky 700g"
     },
@@ -3137,7 +3200,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 208,
     "name": {
       "sk": "409 - Mini pásky Mix 1000g"
     },
@@ -3154,7 +3217,7 @@
     ]
   },
   {
-    "id": 205,
+    "id": 209,
     "name": {
       "sk": "412 - Ovocné pelendreky mix 1000g"
     },
@@ -3171,7 +3234,7 @@
     ]
   },
   {
-    "id": 206,
+    "id": 210,
     "name": {
       "sk": "420 -Crema - arašidová pomazánka 400g"
     },
@@ -3186,7 +3249,7 @@
     ]
   },
   {
-    "id": 207,
+    "id": 211,
     "name": {
       "sk": "500 - Toffix ovocný 1000g"
     },
@@ -3201,7 +3264,7 @@
     ]
   },
   {
-    "id": 208,
+    "id": 212,
     "name": {
       "sk": "501 - Toffix Káva 1000g"
     },
@@ -3216,7 +3279,7 @@
     ]
   },
   {
-    "id": 209,
+    "id": 213,
     "name": {
       "sk": "506 - Festival pralinky s kakaovým krémom 1000g"
     },
@@ -3231,7 +3294,7 @@
     ]
   },
   {
-    "id": 210,
+    "id": 214,
     "name": {
       "sk": "508 - KYSLÝ Toffix 1000g"
     },
@@ -3247,7 +3310,7 @@
     ]
   },
   {
-    "id": 211,
+    "id": 215,
     "name": {
       "sk": "511 - (1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
     },
@@ -3262,7 +3325,7 @@
     ]
   },
   {
-    "id": 212,
+    "id": 216,
     "name": {
       "sk": "512 - (1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
@@ -3277,7 +3340,7 @@
     ]
   },
   {
-    "id": 213,
+    "id": 217,
     "name": {
       "sk": "513 - (1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3292,7 +3355,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 218,
     "name": {
       "sk": "514 -(1 vajce 2,40 €) XXXL Zvieratká– plast. vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3307,7 +3370,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 219,
     "name": {
       "sk": "515 - (1 vajce 2,40 Eur) XXXL Dinosaur plast. vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3322,7 +3385,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 220,
     "name": {
       "sk": "517 - ((1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
@@ -3337,7 +3400,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 221,
     "name": {
       "sk": "518 - (1 vajce 2,40 Eur),XXXL Koně - plastové vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3352,7 +3415,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 222,
     "name": {
       "sk": "519 - Toffix DOZA ovocný 500g"
     },
