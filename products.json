@@ -2953,6 +2953,127 @@
   {
     "id": 192,
     "name": {
+      "sk": "253 - Chrumkavé asteroidy 750g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3802-thickbox_default/253-chrumkave-asteroidy-750g.jpg"
+    ],
+    "priceEUR": 8.58,
+    "url": "https://global.ceskecukrovinky.sk/krupave-zele/665-253-chrumkave-asteroidy-750g.html",
+    "cat": [
+      "úvodná_stránka",
+      "křupavé_želé"
+    ]
+  },
+  {
+    "id": 193,
+    "name": {
+      "sk": "254 - ZLATÉ Chrumkavé asteroidy 750g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3807-thickbox_default/254-zlate-chrumkave-asteroidy-750g.jpg"
+    ],
+    "priceEUR": 8.58,
+    "url": "https://global.ceskecukrovinky.sk/krupave-zele/666-254-zlate-chrumkave-asteroidy-750g.html",
+    "cat": [
+      "úvodná_stránka",
+      "křupavé_želé"
+    ]
+  },
+  {
+    "id": 194,
+    "name": {
+      "sk": "255 - DISCO Chrumkavé asteroidy 750 g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3809-thickbox_default/255-disco-chrumkave-asteroidy-750-g.jpg"
+    ],
+    "priceEUR": 8.58,
+    "url": "https://global.ceskecukrovinky.sk/krupave-zele/667-255-disco-chrumkave-asteroidy-750-g.html",
+    "cat": [
+      "úvodná_stránka",
+      "křupavé_želé"
+    ]
+  },
+  {
+    "id": 195,
+    "name": {
+      "sk": "256 - 3XCHOCO Chrumkavé asteroidy 750 g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3813-thickbox_default/256-3xchoco-chrumkave-asteroidy-750-g.jpg"
+    ],
+    "priceEUR": 8.58,
+    "url": "https://global.ceskecukrovinky.sk/krupave-zele/668-256-3xchoco-chrumkave-asteroidy-750-g.html",
+    "cat": [
+      "úvodná_stránka",
+      "křupavé_želé"
+    ]
+  },
+  {
+    "id": 196,
+    "name": {
+      "sk": "257 - GALACTIC Chrumkavé krúžky 750 g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3816-thickbox_default/257-galactic-chrumkave-kruzky-750-g.jpg"
+    ],
+    "priceEUR": 8.58,
+    "url": "https://global.ceskecukrovinky.sk/krupave-zele/669-257-galactic-chrumkave-kruzky-750-g.html",
+    "cat": [
+      "úvodná_stránka",
+      "křupavé_želé"
+    ]
+  },
+  {
+    "id": 197,
+    "name": {
+      "sk": "258 - VEGAN želé ovocie 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3821-thickbox_default/258-vegan-zele-ovocie-1000g.jpg"
+    ],
+    "priceEUR": 8.58,
+    "url": "https://global.ceskecukrovinky.sk/zele/670-258-vegan-zele-ovocie-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "zele"
+    ]
+  },
+  {
+    "id": 198,
+    "name": {
+      "sk": "259- Medvedíky bez cukru 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3822-thickbox_default/259-medvediky-bez-cukru-1000g.jpg"
+    ],
+    "priceEUR": 10.99,
+    "url": "https://global.ceskecukrovinky.sk/zele-bez-cukru/671-259-medvediky-bez-cukru-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "želé_bez_cukru"
+    ]
+  },
+  {
+    "id": 199,
+    "name": {
+      "sk": "260 - Ovocné želé bez cukru 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3824-thickbox_default/260-ovocne-zele-bez-cukru-1000g.jpg"
+    ],
+    "priceEUR": 10.99,
+    "url": "https://global.ceskecukrovinky.sk/zele-bez-cukru/672-260-ovocne-zele-bez-cukru-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "želé_bez_cukru",
+      "zele"
+    ]
+  },
+  {
+    "id": 200,
+    "name": {
       "sk": "264 -  SÝROVÉ arašídy a kešu 400g"
     },
     "images": [
@@ -2966,7 +3087,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 201,
     "name": {
       "sk": "305 - Park Lane Jablko krúžky 2kg"
     },
@@ -2981,7 +3102,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 202,
     "name": {
       "sk": "306 - Park Lane ŽABKY 4,5g -2,5kg"
     },
@@ -2996,7 +3117,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 203,
     "name": {
       "sk": "308 - Park Lane MEDVÍDCI 3kg"
     },
@@ -3011,7 +3132,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 204,
     "name": {
       "sk": "309 - Park Lane Čerešne 3 kg"
     },
@@ -3026,7 +3147,7 @@
     ]
   },
   {
-    "id": 197,
+    "id": 205,
     "name": {
       "sk": "314 - Park lane Wine Gums 3kg"
     },
@@ -3041,7 +3162,7 @@
     ]
   },
   {
-    "id": 198,
+    "id": 206,
     "name": {
       "sk": "321 - Park Lane Kyselé COLA krúžky 2 kg"
     },
@@ -3056,7 +3177,7 @@
     ]
   },
   {
-    "id": 199,
+    "id": 207,
     "name": {
       "sk": "322 - MELOUN - kyslé želé 2,5kg"
     },
@@ -3072,7 +3193,7 @@
     ]
   },
   {
-    "id": 200,
+    "id": 208,
     "name": {
       "sk": "325 - Park lane -Cola Žížalky 3kg"
     },
@@ -3087,7 +3208,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 209,
     "name": {
       "sk": "326 - Park lane - Sladké Žížalky 3kg"
     },
@@ -3102,7 +3223,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 210,
     "name": {
       "sk": "327 - Parklane broskyňové Srdiečka 2,5 kg"
     },
@@ -3117,7 +3238,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 211,
     "name": {
       "sk": "387 - Sladký mix ovocné pelendreky 700g"
     },
@@ -3134,7 +3255,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 212,
     "name": {
       "sk": "388 - Kyslý mix ovocné pelendreky 700g"
     },
@@ -3152,7 +3273,7 @@
     ]
   },
   {
-    "id": 205,
+    "id": 213,
     "name": {
       "sk": "409 - Mini pásky Mix 1000g"
     },
@@ -3169,7 +3290,7 @@
     ]
   },
   {
-    "id": 206,
+    "id": 214,
     "name": {
       "sk": "412 - Ovocné pelendreky mix 1000g"
     },
@@ -3186,7 +3307,7 @@
     ]
   },
   {
-    "id": 207,
+    "id": 215,
     "name": {
       "sk": "420 -Crema - arašidová pomazánka 400g"
     },
@@ -3201,7 +3322,7 @@
     ]
   },
   {
-    "id": 208,
+    "id": 216,
     "name": {
       "sk": "500 - Toffix ovocný 1000g"
     },
@@ -3216,7 +3337,7 @@
     ]
   },
   {
-    "id": 209,
+    "id": 217,
     "name": {
       "sk": "501 - Toffix Káva 1000g"
     },
@@ -3231,7 +3352,7 @@
     ]
   },
   {
-    "id": 210,
+    "id": 218,
     "name": {
       "sk": "506 - Festival pralinky s kakaovým krémom 1000g"
     },
@@ -3246,7 +3367,7 @@
     ]
   },
   {
-    "id": 211,
+    "id": 219,
     "name": {
       "sk": "508 - KYSLÝ Toffix 1000g"
     },
@@ -3262,7 +3383,7 @@
     ]
   },
   {
-    "id": 212,
+    "id": 220,
     "name": {
       "sk": "511 - (1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
     },
@@ -3277,7 +3398,7 @@
     ]
   },
   {
-    "id": 213,
+    "id": 221,
     "name": {
       "sk": "512 - (1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
@@ -3292,7 +3413,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 222,
     "name": {
       "sk": "513 - (1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3307,7 +3428,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 223,
     "name": {
       "sk": "514 -(1 vajce 2,40 €) XXXL Zvieratká– plast. vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3322,7 +3443,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 224,
     "name": {
       "sk": "515 - (1 vajce 2,40 Eur) XXXL Dinosaur plast. vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3337,7 +3458,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 225,
     "name": {
       "sk": "517 - ((1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
@@ -3352,7 +3473,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 226,
     "name": {
       "sk": "518 - (1 vajce 2,40 Eur),XXXL Koně - plastové vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3367,7 +3488,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 227,
     "name": {
       "sk": "519 - Toffix DOZA ovocný 500g"
     },
