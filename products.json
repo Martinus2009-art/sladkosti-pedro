@@ -3415,6 +3415,21 @@
   {
     "id": 222,
     "name": {
+      "sk": "511 - (1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/2728-thickbox_default/511-1-vajce-240-xxxl-princezne-plastove-vajce-babika-hracka-a-cukrovinka-25g-6ks.jpg"
+    ],
+    "priceEUR": 16.59,
+    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/602-511-1-vajce-240-xxxl-princezne-plastove-vajce-babika-hracka-a-cukrovinka-25g-6ks.html",
+    "cat": [
+      "úvodná_stránka",
+      "lízátka_a_bonbóny"
+    ]
+  },
+  {
+    "id": 223,
+    "name": {
       "sk": "512 - (1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
     "images": [
@@ -3428,7 +3443,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 224,
     "name": {
       "sk": "513 - (1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3437,21 +3452,6 @@
     ],
     "priceEUR": 16.59,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/604-513-1-vajce-240-xxxl-off-road-plastove-vajce-terenne-auto-a-cukrovinka-25g-6ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
-  },
-  {
-    "id": 224,
-    "name": {
-      "sk": "514 -(1 vajce 2,40 €) XXXL Zvieratká– plast. vajce, hračka a cukrovinka 25g/6ks"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/2731-thickbox_default/514-1-vajce-240-xxxl-zvieratka-plast-vajce-hracka-a-cukrovinka-25g-6ks.jpg"
-    ],
-    "priceEUR": 16.59,
-    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/605-514-1-vajce-240-xxxl-zvieratka-plast-vajce-hracka-a-cukrovinka-25g-6ks.html",
     "cat": [
       "úvodná_stránka",
       "lízátka_a_bonbóny"
