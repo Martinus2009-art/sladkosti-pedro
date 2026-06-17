@@ -1502,21 +1502,6 @@
   {
     "id": 98,
     "name": {
-      "sk": "122 - Oblátky s arašídami máčané 450g"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/105-thickbox_default/122-oblatky-s-arasidami-macane-450g.jpg"
-    ],
-    "priceEUR": 6.65,
-    "url": "https://global.ceskecukrovinky.sk/oblatky/114-122-oblatky-s-arasidami-macane-450g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
-  },
-  {
-    "id": 99,
-    "name": {
       "sk": "123 - Citronové oblátky polomáčené 600g"
     },
     "images": [
@@ -1530,7 +1515,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 99,
     "name": {
       "sk": "124 - Arašídové oblátky polomáčené 600g"
     },
@@ -1545,7 +1530,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 100,
     "name": {
       "sk": "125 - Brusnica Klikva 400g"
     },
@@ -1560,7 +1545,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 101,
     "name": {
       "sk": "127 - Banán sušený 400g"
     },
@@ -1575,7 +1560,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 102,
     "name": {
       "sk": "128 - Ananás sušený - plátky 400g"
     },
@@ -1590,7 +1575,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 103,
     "name": {
       "sk": "129 - Želé medvedíky 1000g"
     },
@@ -1605,7 +1590,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 104,
     "name": {
       "sk": "130 - Kakaové venčeky AKCIA 700g"
     },
@@ -1620,7 +1605,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 105,
     "name": {
       "sk": "131 - Vaječné venčeky AKCIA 700g"
     },
@@ -1635,7 +1620,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 106,
     "name": {
       "sk": "132 - Sladký mix z výroby 1000g"
     },
@@ -1651,7 +1636,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 107,
     "name": {
       "sk": "133 - Kyslý mix 1000g"
     },
@@ -1668,7 +1653,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 108,
     "name": {
       "sk": "135 - Mandle ve slanom karamelu 450g"
     },
@@ -1683,7 +1668,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 109,
     "name": {
       "sk": "141 - \nKešu mix (jogurt + horká, ml. čokoláda) 450g"
     },
@@ -1700,7 +1685,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 110,
     "name": {
       "sk": "142 - Praclíky vo slanom karamelu 400g"
     },
@@ -1715,7 +1700,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 111,
     "name": {
       "sk": "146 - Myš želé 1000g"
     },
@@ -1730,7 +1715,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 112,
     "name": {
       "sk": "147 - Tučniak želé 1000g"
     },
@@ -1745,7 +1730,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 113,
     "name": {
       "sk": "148 - Kravička želé1000g"
     },
@@ -1760,7 +1745,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 114,
     "name": {
       "sk": "149 - Multi mix želé 500g"
     },
@@ -1776,7 +1761,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 115,
     "name": {
       "sk": "151 - Chobotnička želé 1000g"
     },
@@ -1791,7 +1776,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 116,
     "name": {
       "sk": "153 - Trolli Oči  8x18,8g"
     },
@@ -1806,7 +1791,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 117,
     "name": {
       "sk": "157 - Polomáčané mléčné sušenky 432g"
     },
@@ -1818,6 +1803,22 @@
     "cat": [
       "úvodná_stránka",
       "oplatky"
+    ]
+  },
+  {
+    "id": 118,
+    "name": {
+      "sk": "160 - Protein mix mini  382g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/136-thickbox_default/160-protein-mix-mini-382g.jpg"
+    ],
+    "priceEUR": 6.65,
+    "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/137-160-protein-mix-mini-382g.html",
+    "cat": [
+      "úvodná_stránka",
+      "čokoládové_tyčinky",
+      "mix"
     ]
   },
   {
