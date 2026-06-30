@@ -1545,6 +1545,21 @@
   {
     "id": 101,
     "name": {
+      "sk": "142 - Praclíky vo slanom karamelu 400g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/118-thickbox_default/142-pracliky-vo-slanom-karamelu-400g.jpg"
+    ],
+    "priceEUR": 10.65,
+    "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/128-142-pracliky-vo-slanom-karamelu-400g.html",
+    "cat": [
+      "úvodná_stránka",
+      "čokoládové_výrobky"
+    ]
+  },
+  {
+    "id": 102,
+    "name": {
       "sk": "146 - Myš želé 1000g"
     },
     "images": [
@@ -1558,7 +1573,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 103,
     "name": {
       "sk": "147 - Tučniak želé 1000g"
     },
@@ -1573,7 +1588,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 104,
     "name": {
       "sk": "148 - Kravička želé1000g"
     },
@@ -1588,7 +1603,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 105,
     "name": {
       "sk": "149 - Multi mix želé 500g"
     },
@@ -1604,7 +1619,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 106,
     "name": {
       "sk": "151 - Chobotnička želé 1000g"
     },
@@ -1619,7 +1634,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 107,
     "name": {
       "sk": "153 - Trolli Oči  8x18,8g"
     },
@@ -1634,7 +1649,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 108,
     "name": {
       "sk": "157 - Polomáčané mléčné sušenky 432g"
     },
@@ -1649,7 +1664,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 109,
     "name": {
       "sk": "160 - Protein mix mini  382g"
     },
@@ -1665,7 +1680,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 110,
     "name": {
       "sk": "161 - Mix mini tyčinek 476g"
     },
@@ -1681,7 +1696,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 111,
     "name": {
       "sk": "163 - RETRO - arašidy pražené solené 400g"
     },
@@ -1696,7 +1711,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 112,
     "name": {
       "sk": "164 - Mandle Udené pražené solené 400g"
     },
@@ -1711,7 +1726,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 113,
     "name": {
       "sk": "165 - Študentská zmes 400g"
     },
@@ -1726,7 +1741,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 114,
     "name": {
       "sk": "166 - Kešu jadra natural 400g"
     },
@@ -1741,7 +1756,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 115,
     "name": {
       "sk": "167 -MIX orechov pražených nesolených 400g"
     },
@@ -1757,7 +1772,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 116,
     "name": {
       "sk": "168 - Pistácie pražené solené  400g"
     },
@@ -1772,7 +1787,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 117,
     "name": {
       "sk": "169 - Nugeta arašídová 42gx 12ks"
     },
@@ -1787,7 +1802,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 118,
     "name": {
       "sk": "170 - Kešu jadra pražená SOLENÁ 400g"
     },
@@ -1802,7 +1817,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 119,
     "name": {
       "sk": "171 - Mandle jadra pražená HORČICA 400g"
     },
@@ -1817,7 +1832,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 120,
     "name": {
       "sk": "172 - Kešu jadra pražená ÚDENÁ 400g"
     },
@@ -1832,7 +1847,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 121,
     "name": {
       "sk": "173 - Darčeková fľaša - MINIS-Snickers,Mars,Twix.... 296g"
     },
@@ -1847,7 +1862,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 122,
     "name": {
       "sk": "174 - Párty mix 600g - mix lízátek a bonbonů"
     },
@@ -1863,7 +1878,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 123,
     "name": {
       "sk": "175 - Višne horkej čokoláde 400g"
     },
@@ -1879,7 +1894,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 124,
     "name": {
       "sk": "181 - Arašídy vo wasabi 400g"
     },
@@ -1894,7 +1909,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 125,
     "name": {
       "sk": "191 - LYO - Dračie Ovocie 40g"
     },
@@ -1903,21 +1918,6 @@
     ],
     "priceEUR": 3.25,
     "url": "https://global.ceskecukrovinky.sk/lyo-susene-ovocie/278-191-lyo-dracie-ovocie-40g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lyo-sušené_ovoce"
-    ]
-  },
-  {
-    "id": 125,
-    "name": {
-      "sk": "192 - LYO - Jahody 40g"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/300-thickbox_default/192-lyo-jahody-40g.jpg"
-    ],
-    "priceEUR": 3.66,
-    "url": "https://global.ceskecukrovinky.sk/lyo-susene-ovocie/279-192-lyo-jahody-40g.html",
     "cat": [
       "úvodná_stránka",
       "lyo-sušené_ovoce"
@@ -2002,13 +2002,13 @@
   {
     "id": 131,
     "name": {
-      "sk": "205 - LILIT Citron, balení 375g"
+      "sk": "205 - LILIT Citron, balení 375g, trvanlivosť 6.9.2026"
     },
     "images": [
-      "https://global.ceskecukrovinky.sk/413-thickbox_default/205-lilit-citron-baleni-375g.jpg"
+      "https://global.ceskecukrovinky.sk/413-thickbox_default/205-lilit-citron-baleni-375g-trvanlivost-692026.jpg"
     ],
     "priceEUR": 6.65,
-    "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/364-205-lilit-citron-baleni-375g.html",
+    "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/364-205-lilit-citron-baleni-375g-trvanlivost-692026.html",
     "cat": [
       "úvodná_stránka",
       "zdrava_vyziva"
