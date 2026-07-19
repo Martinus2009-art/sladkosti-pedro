@@ -3287,6 +3287,23 @@
   {
     "id": 214,
     "name": {
+      "sk": "388 - Kyslé Cola pelendreky 700g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4162-thickbox_default/388-kysle-cola-pelendreky-700g.jpg"
+    ],
+    "priceEUR": 4.83,
+    "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/201-388-kysle-cola-pelendreky-700g.html",
+    "cat": [
+      "úvodná_stránka",
+      "pendreky_a_pásky",
+      "pelendreky",
+      "kysle"
+    ]
+  },
+  {
+    "id": 215,
+    "name": {
       "sk": "409 - Mini pásky Mix 1000g"
     },
     "images": [
@@ -3302,7 +3319,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 216,
     "name": {
       "sk": "412 - Ovocné pelendreky mix 1000g, trvanlivost 25.7.2026"
     },
@@ -3319,7 +3336,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 217,
     "name": {
       "sk": "420 -Crema - arašidová pomazánka 400g"
     },
@@ -3334,7 +3351,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 218,
     "name": {
       "sk": "500 - Toffix ovocný 1000g"
     },
@@ -3349,7 +3366,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 219,
     "name": {
       "sk": "501 - Toffix Káva 1000g"
     },
@@ -3364,7 +3381,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 220,
     "name": {
       "sk": "508 - KYSLÝ Toffix 1000g"
     },
@@ -3380,7 +3397,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 221,
     "name": {
       "sk": "511 - (1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
     },
@@ -3395,7 +3412,7 @@
     ]
   },
   {
-    "id": 221,
+    "id": 222,
     "name": {
       "sk": "512 - (1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
@@ -3410,7 +3427,7 @@
     ]
   },
   {
-    "id": 222,
+    "id": 223,
     "name": {
       "sk": "513 - (1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3425,7 +3442,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 224,
     "name": {
       "sk": "515 - (1 vajce 2,40 Eur) XXXL Dinosaur plast. vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3440,7 +3457,7 @@
     ]
   },
   {
-    "id": 224,
+    "id": 225,
     "name": {
       "sk": "517 - ((1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
@@ -3455,7 +3472,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 226,
     "name": {
       "sk": "518 - (1 vajce 2,40 Eur),XXXL Koně - plastové vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3470,7 +3487,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 227,
     "name": {
       "sk": "519 - Toffix DOZA ovocný 500g"
     },
