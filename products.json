@@ -2159,13 +2159,13 @@
   {
     "id": 141,
     "name": {
-      "sk": "204 - LILIT Pomeranč, balení 375g"
+      "sk": "204 - LILIT Pomeranč, balení 375g, trvanlivosť 6.9.2026"
     },
     "images": [
-      "https://global.ceskecukrovinky.sk/412-thickbox_default/204-lilit-pomeranc-baleni-375g.jpg"
+      "https://global.ceskecukrovinky.sk/412-thickbox_default/204-lilit-pomeranc-baleni-375g-trvanlivost-692026.jpg"
     ],
     "priceEUR": 6.65,
-    "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/363-204-lilit-pomeranc-baleni-375g.html",
+    "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/363-204-lilit-pomeranc-baleni-375g-trvanlivost-692026.html",
     "cat": [
       "úvodná_stránka",
       "zdrava_vyziva"
@@ -3424,21 +3424,6 @@
   {
     "id": 223,
     "name": {
-      "sk": "516 - (1 Vajce 2,40 Eur) XXXL psíkyi a mačičky plast. vajce, hračka a cukrovinka 25g/6ks"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/2820-thickbox_default/516-1-vajce-240-eur-xxxl-psikyi-a-macicky-plast-vajce-hracka-a-cukrovinka-25g-6ks.jpg"
-    ],
-    "priceEUR": 16.59,
-    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/612-516-1-vajce-240-eur-xxxl-psikyi-a-macicky-plast-vajce-hracka-a-cukrovinka-25g-6ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
-  },
-  {
-    "id": 224,
-    "name": {
       "sk": "517 - ((1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
     "images": [
@@ -3452,7 +3437,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 224,
     "name": {
       "sk": "518 - (1 vajce 2,40 Eur),XXXL Koně - plastové vajce, hračka a cukrovinka 25g/6ks"
     },
@@ -3467,7 +3452,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 225,
     "name": {
       "sk": "519 - Toffix DOZA ovocný 500g"
     },
