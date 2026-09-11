@@ -3241,21 +3241,6 @@
   {
     "id": 211,
     "name": {
-      "sk": "Park lane - Sladké Žížalky 3kg, Trvanlivoť 2.9.2026"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/1075-thickbox_default/park-lane-sladke-zizalky-3kg-trvanlivot-292026.jpg"
-    ],
-    "priceEUR": 18.29,
-    "url": "https://global.ceskecukrovinky.sk/zele/525-park-lane-sladke-zizalky-3kg-trvanlivot-292026.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
-  },
-  {
-    "id": 212,
-    "name": {
       "sk": "Parklane broskyňové Srdiečka 2,5 kg"
     },
     "images": [
@@ -3269,7 +3254,7 @@
     ]
   },
   {
-    "id": 213,
+    "id": 212,
     "name": {
       "sk": "Kyslé Cola pelendreky 700g"
     },
@@ -3286,7 +3271,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 213,
     "name": {
       "sk": "Crema - arašidová pomazánka 400g"
     },
@@ -3301,7 +3286,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 214,
     "name": {
       "sk": "Toffix ovocný 1000g"
     },
@@ -3316,7 +3301,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 215,
     "name": {
       "sk": "Toffix Káva 1000g"
     },
@@ -3331,7 +3316,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 216,
     "name": {
       "sk": "KYSLÝ Toffix 1000g"
     },
@@ -3347,7 +3332,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 217,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
     },
@@ -3362,7 +3347,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 218,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
@@ -3377,7 +3362,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 219,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3392,7 +3377,7 @@
     ]
   },
   {
-    "id": 221,
+    "id": 220,
     "name": {
       "sk": "(1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
@@ -3404,6 +3389,329 @@
     "cat": [
       "úvodná_stránka",
       "lízátka_a_bonbóny"
+    ]
+  },
+  {
+    "id": 221,
+    "name": {
+      "sk": "Toffix DOZA ovocný 500g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/3040-thickbox_default/toffix-doza-ovocny-500g.jpg"
+    ],
+    "priceEUR": 4.86,
+    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/644-toffix-doza-ovocny-500g.html",
+    "cat": [
+      "úvodná_stránka",
+      "lízátka_a_bonbóny"
+    ]
+  },
+  {
+    "id": 222,
+    "name": {
+      "sk": "Dárková etiketa - Děkuji"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4343-thickbox_default/darkova-etiketa-dekuji.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/715-darkova-etiketa-dekuji.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 223,
+    "name": {
+      "sk": "Dárková etiketa - Milované mamince"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4346-thickbox_default/darkova-etiketa-milovane-mamince.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/716-darkova-etiketa-milovane-mamince.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 224,
+    "name": {
+      "sk": "Dárková etiketa - Miluji Tě"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4349-thickbox_default/darkova-etiketa-miluji-te.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/717-darkova-etiketa-miluji-te.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 225,
+    "name": {
+      "sk": "Dárková etiketa - Skvělému kolegovi"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4352-thickbox_default/darkova-etiketa-skvelemu-kolegovi.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/718-darkova-etiketa-skvelemu-kolegovi.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 226,
+    "name": {
+      "sk": "Dárková etiketa - Moji skvělé kolegyni"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4355-thickbox_default/darkova-etiketa-moji-skvele-kolegyni.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/719-darkova-etiketa-moji-skvele-kolegyni.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 227,
+    "name": {
+      "sk": "Dárková etiketa - Pro mého miláčka"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4358-thickbox_default/darkova-etiketa-pro-meho-milacka.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/720-darkova-etiketa-pro-meho-milacka.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 228,
+    "name": {
+      "sk": "Dárková etiketa - Pro tebe z lásky"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4361-thickbox_default/darkova-etiketa-pro-tebe-z-lasky.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/721-darkova-etiketa-pro-tebe-z-lasky.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 229,
+    "name": {
+      "sk": "Dárková etiketa - Vše nejlepší k narozeninám"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4364-thickbox_default/darkova-etiketa-vse-nejlepsi-k-narozeninam.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/722-darkova-etiketa-vse-nejlepsi-k-narozeninam.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 230,
+    "name": {
+      "sk": "Dárková etiketa - Vše nejlepší k svátku"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4367-thickbox_default/darkova-etiketa-vse-nejlepsi-k-svatku.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/723-darkova-etiketa-vse-nejlepsi-k-svatku.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 231,
+    "name": {
+      "sk": "Dárková etiketa - Pro nejlepší kamarádku"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4370-thickbox_default/darkova-etiketa-pro-nejlepsi-kamaradku.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/724-darkova-etiketa-pro-nejlepsi-kamaradku.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 232,
+    "name": {
+      "sk": "Dárková etiketa - Užij si svůj narozeninový den"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4373-thickbox_default/darkova-etiketa-uzij-si-svuj-narozeninovy-den.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/725-darkova-etiketa-uzij-si-svuj-narozeninovy-den.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 233,
+    "name": {
+      "sk": "Dárková etiketa - Paní učitelko děkuji"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4376-thickbox_default/darkova-etiketa-pani-ucitelko-dekuji.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/726-darkova-etiketa-pani-ucitelko-dekuji.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 234,
+    "name": {
+      "sk": "Dárková etiketa - Díky za hlídání"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4379-thickbox_default/darkova-etiketa-diky-za-hlidani.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/727-darkova-etiketa-diky-za-hlidani.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 235,
+    "name": {
+      "sk": "Dárková etiketa - Gratuluji"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4382-thickbox_default/darkova-etiketa-gratuluji.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/728-darkova-etiketa-gratuluji.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 236,
+    "name": {
+      "sk": "Dárková etiketa - Šťastnou cestu"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4385-thickbox_default/darkova-etiketa-stastnou-cestu.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/729-darkova-etiketa-stastnou-cestu.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 237,
+    "name": {
+      "sk": "Dárková etiketa - Měj krásný den"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4388-thickbox_default/darkova-etiketa-mej-krasny-den.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/730-darkova-etiketa-mej-krasny-den.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 238,
+    "name": {
+      "sk": "Dárková etiketa - Pro radost"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4391-thickbox_default/darkova-etiketa-pro-radost.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/731-darkova-etiketa-pro-radost.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 239,
+    "name": {
+      "sk": "Dárková etiketa - Dědečkovi"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4394-thickbox_default/darkova-etiketa-dedeckovi.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/732-darkova-etiketa-dedeckovi.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 240,
+    "name": {
+      "sk": "Dárková etiketa - Babičce"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4397-thickbox_default/darkova-etiketa-babicce.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/733-darkova-etiketa-babicce.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 241,
+    "name": {
+      "sk": "Dárková etiketa - Tatínkovi"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4400-thickbox_default/darkova-etiketa-tatinkovi.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/734-darkova-etiketa-tatinkovi.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 242,
+    "name": {
+      "sk": "Dárková etiketa - Mé milované sestřičce"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4403-thickbox_default/darkova-etiketa-me-milovane-sestricce.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/735-darkova-etiketa-me-milovane-sestricce.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 243,
+    "name": {
+      "sk": "Dárková etiketa - Pane učiteli děkuji"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4406-thickbox_default/darkova-etiketa-pane-uciteli-dekuji.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/darkove-etikety/736-darkova-etiketa-pane-uciteli-dekuji.html",
+    "cat": [
+      "úvodná_stránka"
     ]
   }
 ]
