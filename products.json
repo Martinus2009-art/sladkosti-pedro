@@ -716,6 +716,21 @@
   {
     "id": 47,
     "name": {
+      "sk": "Maliny a Černice 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/74-thickbox_default/maliny-a-cernice-1000g.jpg"
+    ],
+    "priceEUR": 7.08,
+    "url": "https://global.ceskecukrovinky.sk/zele/59-maliny-a-cernice-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "zele"
+    ]
+  },
+  {
+    "id": 48,
+    "name": {
       "sk": "Pedro Tutti Frutti medvedík 1000g"
     },
     "images": [
@@ -729,7 +744,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 49,
     "name": {
       "sk": "DUO pelendreky Jahoda / Citron / Broskyňa / Limeta 900g"
     },
@@ -745,7 +760,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 50,
     "name": {
       "sk": "Hors Ovocná zmes s vitamínom C 600g"
     },
@@ -760,7 +775,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 51,
     "name": {
       "sk": "Hors KULÍCI - sladké lízatko 600g"
     },
@@ -775,7 +790,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 52,
     "name": {
       "sk": "SUK DUO MINI 25ks x 25g, 625g"
     },
@@ -790,7 +805,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 53,
     "name": {
       "sk": "Pedro Pektinový ovocný mix - 1000g"
     },
@@ -806,7 +821,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 54,
     "name": {
       "sk": "Brusnice mix 500g"
     },
@@ -822,7 +837,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 55,
     "name": {
       "sk": "Pedro Špuntíci 1000g"
     },
@@ -837,7 +852,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 56,
     "name": {
       "sk": "Bongo banán mini 500g"
     },
@@ -852,7 +867,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 57,
     "name": {
       "sk": "Pedro KYSELÉ Pásky Tutti Frutti 1000g ( KRÁTKE KÚSKY)"
     },
@@ -868,7 +883,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 58,
     "name": {
       "sk": "CISÁRSKA ZMES 500g"
     },
@@ -883,7 +898,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 59,
     "name": {
       "sk": "ARAŠÍDY MIX 500g"
     },
@@ -899,7 +914,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 60,
     "name": {
       "sk": "Ovocné dražé"
     },
@@ -914,7 +929,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 61,
     "name": {
       "sk": "Peppermint dražé"
     },
@@ -929,7 +944,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 62,
     "name": {
       "sk": "Hors Mentol Eukalypt bonbony 600g"
     },
@@ -944,7 +959,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 63,
     "name": {
       "sk": "Hors Karamelky 600g"
     },
@@ -959,7 +974,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 64,
     "name": {
       "sk": "EXOTIC MIX 500g"
     },
@@ -975,7 +990,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 65,
     "name": {
       "sk": "Zmes MAGISTR 500g"
     },
@@ -990,7 +1005,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 66,
     "name": {
       "sk": "ČOKO OČKA 500g"
     },
@@ -1006,7 +1021,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 67,
     "name": {
       "sk": "CHIA semienka 400g"
     },
@@ -1021,7 +1036,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 68,
     "name": {
       "sk": "Zmes Neapol 500g"
     },
@@ -1036,7 +1051,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 69,
     "name": {
       "sk": "LIPO  Ovocné sladké pelendreky 1000g"
     },
@@ -1052,7 +1067,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 70,
     "name": {
       "sk": "MINIS-Snickers,Mars,Twix,Bounty,Milky way 400g"
     },
@@ -1067,7 +1082,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 71,
     "name": {
       "sk": "Mandle v mliečnej čokoláde a škoricu 450g"
     },
@@ -1083,7 +1098,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 72,
     "name": {
       "sk": "SMILIES-sušienka s karamelom 27gx 12ks"
     },
@@ -1098,7 +1113,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 73,
     "name": {
       "sk": "SMILIES - sušienka s mliečnym krémom 27gx12ks"
     },
@@ -1113,7 +1128,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 74,
     "name": {
       "sk": "Perinky s čoko. náplňou 500g"
     },
@@ -1129,7 +1144,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 75,
     "name": {
       "sk": "Pražené Kešu v cukre 450g"
     },
@@ -1144,7 +1159,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 76,
     "name": {
       "sk": "Pedro Tropical mix 1000g - ovocné želé"
     },
@@ -1160,7 +1175,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 77,
     "name": {
       "sk": "Cornflakes mix 500g"
     },
@@ -1176,7 +1191,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 78,
     "name": {
       "sk": "Pedro Sovičky 1000g"
     },
@@ -1191,7 +1206,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 79,
     "name": {
       "sk": "RawBar -Datlovo-arašidová tyčinka 19g x25ks"
     },
@@ -1206,7 +1221,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 80,
     "name": {
       "sk": "RawBar brusnica s mandľou 18gx20ks"
     },
@@ -1221,7 +1236,7 @@
     ]
   },
   {
-    "id": 80,
+    "id": 81,
     "name": {
       "sk": "RawBar jablko so škoricou 25ksx18g"
     },
@@ -1236,7 +1251,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 82,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko)  PEDRO Duha pelendreky 80g /20ks"
     },
@@ -1252,7 +1267,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 83,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko) PEDRO Jahoda pelendreky 80g/20 ks"
     },
@@ -1268,7 +1283,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 84,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko) PEDRO Jablko pelendreky80g/20ks"
     },
@@ -1284,7 +1299,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 85,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko) PEDRO Duha pásky 80g/20 ks"
     },
@@ -1300,7 +1315,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 86,
     "name": {
       "sk": "AKCIA-15% (0,73 Eur vrecko) PEDRO Tutti Frutti KYSELÉ pásky 80g/20ks"
     },
@@ -1316,7 +1331,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 87,
     "name": {
       "sk": "Kráľovská zmes 450g"
     },
@@ -1331,7 +1346,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 88,
     "name": {
       "sk": "Mandle v horkej čokoláde 450g"
     },
@@ -1347,7 +1362,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 89,
     "name": {
       "sk": "Proteinový suk - vanilka 500g"
     },
@@ -1362,7 +1377,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 90,
     "name": {
       "sk": "MIG 21 Protein BAR - vanilka 344g"
     },
@@ -1377,7 +1392,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 91,
     "name": {
       "sk": "MIG 21 Protein BAR - ČOKOLÁDA 344g"
     },
@@ -1393,7 +1408,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 92,
     "name": {
       "sk": "Arašidy v cukre 750g"
     },
@@ -1408,7 +1423,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 93,
     "name": {
       "sk": "Bimbo mix 400g"
     },
@@ -1424,7 +1439,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 94,
     "name": {
       "sk": "Praclíky v mliečnej čokoláde 400g"
     },
@@ -1440,7 +1455,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 95,
     "name": {
       "sk": "Lízátka z hroznového cukru 800g"
     },
@@ -1455,7 +1470,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 96,
     "name": {
       "sk": "Oblatky mliecne polomacane 600g"
     },
@@ -1470,7 +1485,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 97,
     "name": {
       "sk": "Oblátky arašidové obvodovomáčané 600g"
     },
@@ -1485,7 +1500,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 98,
     "name": {
       "sk": "Oblátky s arašídami máčané 450g"
     },
@@ -1500,7 +1515,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 99,
     "name": {
       "sk": "Citronové oblátky polomáčené 600g"
     },
@@ -1515,7 +1530,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 100,
     "name": {
       "sk": "Arašídové oblátky polomáčené 600g"
     },
@@ -1530,7 +1545,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 101,
     "name": {
       "sk": "Brusnica Klikva 400g"
     },
@@ -1545,7 +1560,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 102,
     "name": {
       "sk": "Banán sušený 400g"
     },
@@ -1560,7 +1575,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 103,
     "name": {
       "sk": "Ananás sušený - plátky 400g"
     },
@@ -1575,7 +1590,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 104,
     "name": {
       "sk": "Želé medvedíky 1000g"
     },
@@ -1590,7 +1605,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 105,
     "name": {
       "sk": "Kakaové venčeky AKCIA 700g"
     },
@@ -1605,7 +1620,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 106,
     "name": {
       "sk": "Vaječné venčeky AKCIA 700g"
     },
@@ -1620,7 +1635,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 107,
     "name": {
       "sk": "Sladký mix z výroby 1000g"
     },
@@ -1636,7 +1651,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 108,
     "name": {
       "sk": "Kyslý mix 1000g"
     },
@@ -1653,7 +1668,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 109,
     "name": {
       "sk": "Mince mliečna čokoláda 400g"
     },
@@ -1669,7 +1684,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 110,
     "name": {
       "sk": "Mandle ve slanom karamelu 450g"
     },
@@ -1684,7 +1699,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 111,
     "name": {
       "sk": "Kešu mix (jogurt + horká, ml. čokoláda) 450g"
     },
@@ -1701,7 +1716,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 112,
     "name": {
       "sk": "Praclíky vo slanom karamelu 400g"
     },
@@ -1716,7 +1731,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 113,
     "name": {
       "sk": "Myš želé 1000g"
     },
@@ -1731,7 +1746,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 114,
     "name": {
       "sk": "Tučniak želé 1000g"
     },
@@ -1746,7 +1761,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 115,
     "name": {
       "sk": "Kravička želé1000g"
     },
@@ -1761,7 +1776,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 116,
     "name": {
       "sk": "Multi mix želé 500g"
     },
@@ -1777,7 +1792,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 117,
     "name": {
       "sk": "Chobotnička želé 1000g"
     },
@@ -1792,7 +1807,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 118,
     "name": {
       "sk": "Trolli Oči  8x18,8g"
     },
@@ -1807,7 +1822,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 119,
     "name": {
       "sk": "Polomáčané mléčné sušenky 432g"
     },
@@ -1822,7 +1837,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 120,
     "name": {
       "sk": "Protein mix mini  382g"
     },
@@ -1838,7 +1853,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 121,
     "name": {
       "sk": "Mix mini tyčinek 476g"
     },
@@ -1854,7 +1869,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 122,
     "name": {
       "sk": "RETRO - arašidy pražené solené 400g"
     },
@@ -1869,7 +1884,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 123,
     "name": {
       "sk": "Mandle Udené pražené solené 400g"
     },
@@ -1884,7 +1899,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 124,
     "name": {
       "sk": "Študentská zmes 400g"
     },
@@ -1899,7 +1914,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 125,
     "name": {
       "sk": "Kešu jadra natural 400g"
     },
@@ -1914,7 +1929,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 126,
     "name": {
       "sk": "MIX orechov pražených nesolených 400g"
     },
@@ -1930,7 +1945,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 127,
     "name": {
       "sk": "Pistácie pražené solené  400g"
     },
@@ -1945,7 +1960,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 128,
     "name": {
       "sk": "Nugeta arašídová 42gx 12ks"
     },
@@ -1960,7 +1975,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 129,
     "name": {
       "sk": "Kešu jadra pražená SOLENÁ 400g"
     },
@@ -1975,7 +1990,7 @@
     ]
   },
   {
-    "id": 129,
+    "id": 130,
     "name": {
       "sk": "Kešu jadra pražená ÚDENÁ 400g"
     },
@@ -1990,7 +2005,7 @@
     ]
   },
   {
-    "id": 130,
+    "id": 131,
     "name": {
       "sk": "Darčeková fľaša - MINIS-Snickers,Mars,Twix.... 296g"
     },
@@ -2005,7 +2020,7 @@
     ]
   },
   {
-    "id": 131,
+    "id": 132,
     "name": {
       "sk": "Párty mix 600g - mix lízátek a bonbonů"
     },
@@ -2021,7 +2036,7 @@
     ]
   },
   {
-    "id": 132,
+    "id": 133,
     "name": {
       "sk": "Višne horkej čokoláde 400g"
     },
@@ -2037,7 +2052,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 134,
     "name": {
       "sk": "Mrazom sušené jahody v ml. čokoláde 400g"
     },
@@ -2053,7 +2068,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 135,
     "name": {
       "sk": "Gulička s kokosovo-rumovou príchuťou v horkej čokoláde 400g"
     },
@@ -2069,7 +2084,7 @@
     ]
   },
   {
-    "id": 135,
+    "id": 136,
     "name": {
       "sk": "Arašídy vo wasabi 400g"
     },
@@ -2084,7 +2099,7 @@
     ]
   },
   {
-    "id": 136,
+    "id": 137,
     "name": {
       "sk": "Zmes Choco exclusive Biela 200 g"
     },
@@ -2099,7 +2114,7 @@
     ]
   },
   {
-    "id": 137,
+    "id": 138,
     "name": {
       "sk": "Zmes Choco exkluzive červená 200 g"
     },
@@ -2111,21 +2126,6 @@
     "cat": [
       "úvodná_stránka",
       "čokoládové_výrobky"
-    ]
-  },
-  {
-    "id": 138,
-    "name": {
-      "sk": "LYO - Dračie Ovocie 40g"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/299-thickbox_default/lyo-dracie-ovocie-40g.jpg"
-    ],
-    "priceEUR": 3.25,
-    "url": "https://global.ceskecukrovinky.sk/lyo-susene-ovocie/278-lyo-dracie-ovocie-40g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lyo-sušené_ovoce"
     ]
   },
   {
@@ -3319,6 +3319,21 @@
   {
     "id": 216,
     "name": {
+      "sk": "Festival pralinky s lieskoorieškovým krémom 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/236-thickbox_default/festival-pralinky-s-lieskoorieskovym-kremom-1000g.jpg"
+    ],
+    "priceEUR": 12.39,
+    "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/234-festival-pralinky-s-lieskoorieskovym-kremom-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "čokoládové_výrobky"
+    ]
+  },
+  {
+    "id": 217,
+    "name": {
       "sk": "KYSLÝ Toffix 1000g"
     },
     "images": [
@@ -3333,7 +3348,23 @@
     ]
   },
   {
-    "id": 217,
+    "id": 218,
+    "name": {
+      "sk": "Pedro Halloween mix želé  400g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4413-thickbox_default/pedro-halloween-mix-zele-400g.jpg"
+    ],
+    "priceEUR": 3.78,
+    "url": "https://global.ceskecukrovinky.sk/zele/215-pedro-halloween-mix-zele-400g.html",
+    "cat": [
+      "úvodná_stránka",
+      "zele",
+      "mix"
+    ]
+  },
+  {
+    "id": 219,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
     },
@@ -3348,7 +3379,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 220,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
@@ -3363,7 +3394,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 221,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3378,7 +3409,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 222,
     "name": {
       "sk": "(1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
@@ -3393,7 +3424,7 @@
     ]
   },
   {
-    "id": 221,
+    "id": 223,
     "name": {
       "sk": "Toffix DOZA ovocný 500g"
     },
@@ -3408,7 +3439,7 @@
     ]
   },
   {
-    "id": 222,
+    "id": 224,
     "name": {
       "sk": "Dárková etiketa - Děkuji"
     },
@@ -3422,7 +3453,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 225,
     "name": {
       "sk": "Dárková etiketa - Milované mamince"
     },
@@ -3436,7 +3467,7 @@
     ]
   },
   {
-    "id": 224,
+    "id": 226,
     "name": {
       "sk": "Dárková etiketa - Miluji Tě"
     },
@@ -3450,7 +3481,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 227,
     "name": {
       "sk": "Dárková etiketa - Skvělému kolegovi"
     },
@@ -3464,7 +3495,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 228,
     "name": {
       "sk": "Dárková etiketa - Moji skvělé kolegyni"
     },
@@ -3478,7 +3509,7 @@
     ]
   },
   {
-    "id": 227,
+    "id": 229,
     "name": {
       "sk": "Dárková etiketa - Pro mého miláčka"
     },
@@ -3492,7 +3523,7 @@
     ]
   },
   {
-    "id": 228,
+    "id": 230,
     "name": {
       "sk": "Dárková etiketa - Pro tebe z lásky"
     },
@@ -3506,7 +3537,7 @@
     ]
   },
   {
-    "id": 229,
+    "id": 231,
     "name": {
       "sk": "Dárková etiketa - Vše nejlepší k narozeninám"
     },
@@ -3520,7 +3551,7 @@
     ]
   },
   {
-    "id": 230,
+    "id": 232,
     "name": {
       "sk": "Dárková etiketa - Vše nejlepší k svátku"
     },
@@ -3534,7 +3565,7 @@
     ]
   },
   {
-    "id": 231,
+    "id": 233,
     "name": {
       "sk": "Dárková etiketa - Pro nejlepší kamarádku"
     },
@@ -3548,7 +3579,7 @@
     ]
   },
   {
-    "id": 232,
+    "id": 234,
     "name": {
       "sk": "Dárková etiketa - Užij si svůj narozeninový den"
     },
@@ -3562,7 +3593,7 @@
     ]
   },
   {
-    "id": 233,
+    "id": 235,
     "name": {
       "sk": "Dárková etiketa - Paní učitelko děkuji"
     },
@@ -3576,7 +3607,7 @@
     ]
   },
   {
-    "id": 234,
+    "id": 236,
     "name": {
       "sk": "Dárková etiketa - Díky za hlídání"
     },
@@ -3590,7 +3621,7 @@
     ]
   },
   {
-    "id": 235,
+    "id": 237,
     "name": {
       "sk": "Dárková etiketa - Gratuluji"
     },
@@ -3604,7 +3635,7 @@
     ]
   },
   {
-    "id": 236,
+    "id": 238,
     "name": {
       "sk": "Dárková etiketa - Šťastnou cestu"
     },
@@ -3618,7 +3649,7 @@
     ]
   },
   {
-    "id": 237,
+    "id": 239,
     "name": {
       "sk": "Dárková etiketa - Měj krásný den"
     },
@@ -3632,7 +3663,7 @@
     ]
   },
   {
-    "id": 238,
+    "id": 240,
     "name": {
       "sk": "Dárková etiketa - Pro radost"
     },
@@ -3646,7 +3677,7 @@
     ]
   },
   {
-    "id": 239,
+    "id": 241,
     "name": {
       "sk": "Dárková etiketa - Dědečkovi"
     },
@@ -3660,7 +3691,7 @@
     ]
   },
   {
-    "id": 240,
+    "id": 242,
     "name": {
       "sk": "Dárková etiketa - Babičce"
     },
@@ -3674,7 +3705,7 @@
     ]
   },
   {
-    "id": 241,
+    "id": 243,
     "name": {
       "sk": "Dárková etiketa - Tatínkovi"
     },
@@ -3688,7 +3719,7 @@
     ]
   },
   {
-    "id": 242,
+    "id": 244,
     "name": {
       "sk": "Dárková etiketa - Mé milované sestřičce"
     },
@@ -3702,7 +3733,7 @@
     ]
   },
   {
-    "id": 243,
+    "id": 245,
     "name": {
       "sk": "Dárková etiketa - Pane učiteli děkuji"
     },
