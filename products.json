@@ -3301,6 +3301,36 @@
   {
     "id": 215,
     "name": {
+      "sk": "Toffix ovocný 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/1049-thickbox_default/toffix-ovocny-1000g.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/504-toffix-ovocny-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "lízátka_a_bonbóny"
+    ]
+  },
+  {
+    "id": 216,
+    "name": {
+      "sk": "Toffix Káva 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/1050-thickbox_default/toffix-kava-1000g.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/505-toffix-kava-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "lízátka_a_bonbóny"
+    ]
+  },
+  {
+    "id": 217,
+    "name": {
       "sk": "Halloween mix želé 360g"
     },
     "images": [
@@ -3315,7 +3345,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 218,
     "name": {
       "sk": "Festival pralinky s lieskoorieškovým krémom 1000g"
     },
@@ -3330,7 +3360,23 @@
     ]
   },
   {
-    "id": 217,
+    "id": 219,
+    "name": {
+      "sk": "KYSLÝ Toffix 1000g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/1051-thickbox_default/kysly-toffix-1000g.jpg"
+    ],
+    "priceEUR": 6.1,
+    "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/506-kysly-toffix-1000g.html",
+    "cat": [
+      "úvodná_stránka",
+      "lízátka_a_bonbóny",
+      "kysle"
+    ]
+  },
+  {
+    "id": 220,
     "name": {
       "sk": "Pedro Halloween mix želé  400g"
     },
@@ -3346,7 +3392,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 221,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Princezné, plastové vajce, bábika–hračka a cukrovinka 25g/6ks"
     },
@@ -3361,7 +3407,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 222,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Zoo zvieratká, plastové vajce, hračka a cukrovinka 25g/6 ks"
     },
@@ -3376,7 +3422,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 223,
     "name": {
       "sk": "(1 vajce 2,40 €) XXXL Off Road – plastové vajce, terénne auto a cukrovinka 25g/6ks"
     },
@@ -3391,7 +3437,7 @@
     ]
   },
   {
-    "id": 221,
+    "id": 224,
     "name": {
       "sk": "(1 vajce 2,40Eur) XXXL plastové motorkové vajce, hračka a cukrovinka 25 g / 6 ks"
     },
@@ -3406,7 +3452,7 @@
     ]
   },
   {
-    "id": 222,
+    "id": 225,
     "name": {
       "sk": "Dárková etiketa - Děkuji"
     },
@@ -3421,7 +3467,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 226,
     "name": {
       "sk": "Dárková etiketa - Milované mamince"
     },
@@ -3436,7 +3482,7 @@
     ]
   },
   {
-    "id": 224,
+    "id": 227,
     "name": {
       "sk": "Dárková etiketa - Miluji Tě"
     },
@@ -3451,7 +3497,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 228,
     "name": {
       "sk": "Dárková etiketa - Skvělému kolegovi"
     },
@@ -3466,7 +3512,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 229,
     "name": {
       "sk": "Dárková etiketa - Moji skvělé kolegyni"
     },
@@ -3481,7 +3527,7 @@
     ]
   },
   {
-    "id": 227,
+    "id": 230,
     "name": {
       "sk": "Dárková etiketa - Pro mého miláčka"
     },
@@ -3496,7 +3542,7 @@
     ]
   },
   {
-    "id": 228,
+    "id": 231,
     "name": {
       "sk": "Dárková etiketa - Pro tebe z lásky"
     },
@@ -3511,7 +3557,7 @@
     ]
   },
   {
-    "id": 229,
+    "id": 232,
     "name": {
       "sk": "Dárková etiketa - Vše nejlepší k narozeninám"
     },
@@ -3526,7 +3572,7 @@
     ]
   },
   {
-    "id": 230,
+    "id": 233,
     "name": {
       "sk": "Dárková etiketa - Vše nejlepší k svátku"
     },
@@ -3541,7 +3587,7 @@
     ]
   },
   {
-    "id": 231,
+    "id": 234,
     "name": {
       "sk": "Dárková etiketa - Pro nejlepší kamarádku"
     },
@@ -3556,7 +3602,7 @@
     ]
   },
   {
-    "id": 232,
+    "id": 235,
     "name": {
       "sk": "Dárková etiketa - Užij si svůj narozeninový den"
     },
@@ -3571,7 +3617,7 @@
     ]
   },
   {
-    "id": 233,
+    "id": 236,
     "name": {
       "sk": "Dárková etiketa - Paní učitelko děkuji"
     },
@@ -3586,7 +3632,7 @@
     ]
   },
   {
-    "id": 234,
+    "id": 237,
     "name": {
       "sk": "Dárková etiketa - Díky za hlídání"
     },
@@ -3601,7 +3647,7 @@
     ]
   },
   {
-    "id": 235,
+    "id": 238,
     "name": {
       "sk": "Dárková etiketa - Gratuluji"
     },
@@ -3616,7 +3662,7 @@
     ]
   },
   {
-    "id": 236,
+    "id": 239,
     "name": {
       "sk": "Dárková etiketa - Šťastnou cestu"
     },
@@ -3631,7 +3677,7 @@
     ]
   },
   {
-    "id": 237,
+    "id": 240,
     "name": {
       "sk": "Dárková etiketa - Měj krásný den"
     },
@@ -3646,7 +3692,7 @@
     ]
   },
   {
-    "id": 238,
+    "id": 241,
     "name": {
       "sk": "Dárková etiketa - Pro radost"
     },
@@ -3661,7 +3707,7 @@
     ]
   },
   {
-    "id": 239,
+    "id": 242,
     "name": {
       "sk": "Dárková etiketa - Dědečkovi"
     },
@@ -3676,7 +3722,7 @@
     ]
   },
   {
-    "id": 240,
+    "id": 243,
     "name": {
       "sk": "Dárková etiketa - Babičce"
     },
@@ -3691,7 +3737,7 @@
     ]
   },
   {
-    "id": 241,
+    "id": 244,
     "name": {
       "sk": "Dárková etiketa - Tatínkovi"
     },
@@ -3706,7 +3752,7 @@
     ]
   },
   {
-    "id": 242,
+    "id": 245,
     "name": {
       "sk": "Dárková etiketa - Mé milované sestřičce"
     },
@@ -3721,7 +3767,7 @@
     ]
   },
   {
-    "id": 243,
+    "id": 246,
     "name": {
       "sk": "Dárková etiketa - Pane učiteli děkuji"
     },
