@@ -43,9 +43,10 @@
       "https://global.ceskecukrovinky.sk/276-thickbox_default/maxi-pelendreky-mix-425g.jpg"
     ],
     "priceEUR": 9.27,
-    "url": "https://global.ceskecukrovinky.sk/vsechno/260-maxi-pelendreky-mix-425g.html",
+    "url": "https://global.ceskecukrovinky.sk/namiesaj-si/260-maxi-pelendreky-mix-425g.html",
     "cat": [
       "úvodná_stránka",
+      "namíchej_si",
       "pelendreky",
       "mix"
     ]
@@ -60,9 +61,7 @@
     ],
     "priceEUR": 4.9,
     "url": "https://global.ceskecukrovinky.sk/darkove-produkty/429-nafukovacie-reklamne-baloniky-50-kusov.html",
-    "cat": [
-      "úvodná_stránka"
-    ]
+    "cat": []
   },
   {
     "id": 5,
@@ -74,9 +73,7 @@
     ],
     "priceEUR": 0.41,
     "url": "https://global.ceskecukrovinky.sk/darkove-produkty/180-katalog-produktov.html",
-    "cat": [
-      "úvodná_stránka"
-    ]
+    "cat": []
   },
   {
     "id": 6,
@@ -88,9 +85,7 @@
     ],
     "priceEUR": 0.2,
     "url": "https://global.ceskecukrovinky.sk/darkove-produkty/181-omalovanky.html",
-    "cat": [
-      "úvodná_stránka"
-    ]
+    "cat": []
   },
   {
     "id": 7,
@@ -102,9 +97,7 @@
     ],
     "priceEUR": 0.41,
     "url": "https://global.ceskecukrovinky.sk/darkove-produkty/182-pexeso.html",
-    "cat": [
-      "úvodná_stránka"
-    ]
+    "cat": []
   },
   {
     "id": 8,
@@ -117,8 +110,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/22-pedro-pelendreky-rainbow-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -133,8 +124,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/23-pedro-pelendreky-jahoda-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -149,8 +138,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/24-pedro-pelendreky-jablko-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -165,8 +152,6 @@
     "priceEUR": 8.12,
     "url": "https://global.ceskecukrovinky.sk/sladke-drievko/25-pedro-pelendreky-kocky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "lékořice",
       "pelendreky"
     ]
   },
@@ -181,8 +166,6 @@
     "priceEUR": 8.12,
     "url": "https://global.ceskecukrovinky.sk/sladke-drievko/26-pedro-cierne-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "lékořice",
       "pelendreky"
     ]
   },
@@ -196,10 +179,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/27-pedro-volske-vajcia-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 14,
@@ -212,7 +192,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/28-pedro-zele-ovocny-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "mix"
     ]
@@ -228,7 +207,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/29-pedro-zele-medvediky1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -243,8 +221,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/komprimat/30-lipo-komprimatovy-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "komprimát",
       "mix"
     ]
   },
@@ -259,7 +235,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/31-pedro-zele-hady-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -274,7 +249,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/32-pedro-zele-sladke-dazdovky-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -289,7 +263,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/33-pedro-zele-kysli-cervy-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "kysle"
     ]
@@ -304,10 +277,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/34-hors-ovocny-roks-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 21,
@@ -320,8 +290,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/35-kysle-pasky-duha-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pasky",
       "kysle"
     ]
@@ -337,7 +305,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/36-pedro-dvojfarebne-zele-velky-medved-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -351,10 +318,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/37-pedro-cola-flasticky-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 24,
@@ -367,7 +331,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/38-pedro-dvojfarebne-zele-drakula-zuby-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -382,7 +345,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/39-pedro-vocne-zele-motyle-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -397,8 +359,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/40-pedro-kysly-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "kysle",
       "mix"
     ]
@@ -414,8 +374,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/41-pedro-kysla-srdiecka-broskyna-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "kysle"
     ]
   },
@@ -430,8 +388,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/42-hors-kuli-kuli-duhove-roksove-lizanky-600g.html",
     "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny",
       "lizanky"
     ]
   },
@@ -446,8 +402,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/43-hors-ovocne-roksove-lizanky-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny",
       "lizanky"
     ]
   },
@@ -462,8 +416,6 @@
     "priceEUR": 4.87,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/189-coko-kamienky-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -477,10 +429,7 @@
     ],
     "priceEUR": 8.12,
     "url": "https://global.ceskecukrovinky.sk/sladke-drievko/164-pedro-sladkeho-drievka-fajky-zlom-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lékořice"
-    ]
+    "cat": []
   },
   {
     "id": 32,
@@ -493,7 +442,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/44-pedro-maliny-a-cernice-olejovane-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -508,7 +456,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/45-pedro-zabky-dvojfarebne-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -522,10 +469,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/46-pedro-fun-burger-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 35,
@@ -537,10 +481,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/komprimat/47-komprimat-60ks-x-75g.html",
-    "cat": [
-      "úvodná_stránka",
-      "komprimát"
-    ]
+    "cat": []
   },
   {
     "id": 36,
@@ -553,7 +494,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/48-fazula-drazovane-zele-500g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -568,8 +508,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/sladke-drievko/49-lipo-pelendreky-v-cukre-750g.html",
     "cat": [
-      "úvodná_stránka",
-      "lékořice",
       "pelendreky"
     ]
   },
@@ -584,8 +522,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/50-kavove-hrudky-v-horkej-cokolade-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -600,8 +536,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/561-pedro-kysle-cola-flasticky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "kysle"
     ]
   },
@@ -616,7 +550,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/52-pedro-zralok-dvojfarebne-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -631,7 +564,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/53-pedro-bananik-jemne-bananove-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -646,7 +578,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/54-pedro-jahodove-sny-jemne-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -661,7 +592,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/55-pedro-ribezlove-kruzky-kysle-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "kysle"
     ]
@@ -677,7 +607,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/56-pedro-mini-kruzky-mixovane-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "mix"
     ]
@@ -692,10 +621,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/57-pedro-jablko-kruzky-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 46,
@@ -707,10 +633,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/58-pedro-broskyna-kruzky-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 47,
@@ -722,10 +645,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/59-maliny-a-cernice-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 48,
@@ -737,10 +657,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/60-pedro-tutti-frutti-medvedik-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 49,
@@ -753,8 +670,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/61-duo-pelendreky-jahoda-citron-broskyna-limeta-900g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "pelendreky"
     ]
   },
@@ -768,10 +683,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/63-hors-ovocna-zmes-s-vitaminom-c-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 51,
@@ -783,10 +695,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/64-hors-kulici-sladke-lizatko-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 52,
@@ -798,10 +707,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/65-brigit-sojova-tycinka-s-kokosom-586g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 53,
@@ -813,10 +719,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/66-suk-duo-mini-25ks-x-25g-625g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 54,
@@ -829,8 +732,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/68-pedro-pektinovy-ovocny-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "mix"
     ]
   },
@@ -845,8 +746,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/69-brusnice-mix-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "mix"
     ]
   },
@@ -860,10 +759,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/70-pedro-spuntici-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 57,
@@ -875,10 +771,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/71-bongo-banan-mini-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 58,
@@ -891,8 +784,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/72-pedro-kysele-pasky-tutti-frutti-1000g-kratke-kusky.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pasky"
     ]
   },
@@ -906,10 +797,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/73-cisarska-zmes-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 60,
@@ -922,8 +810,6 @@
     "priceEUR": 4.86,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/74-arasidy-mix-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "mix"
     ]
   },
@@ -937,10 +823,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/75-ovocne-draze.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 62,
@@ -952,10 +835,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/76-peppermint-draze.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 63,
@@ -967,10 +847,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/77-hors-mentol-eukalypt-bonbony-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 64,
@@ -982,10 +859,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/78-hors-karamelky-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 65,
@@ -998,8 +872,6 @@
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/79-exotic-mix-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody",
       "mix"
     ]
   },
@@ -1013,10 +885,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/80-zmes-magistr-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 67,
@@ -1029,8 +898,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/81-coko-ocka-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -1044,10 +911,7 @@
     ],
     "priceEUR": 3.81,
     "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/191-chia-semienka-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zdrava_vyziva"
-    ]
+    "cat": []
   },
   {
     "id": 69,
@@ -1059,10 +923,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/83-zmes-neapol-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 70,
@@ -1075,8 +936,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/236-lipo-ovocne-sladke-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -1090,10 +949,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/85-minis-snickersmarstwixbountymilky-way-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 72,
@@ -1106,8 +962,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/86-mandle-v-mliecnej-cokolade-a-skoricu-450g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -1121,10 +975,7 @@
     ],
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/oblatky/87-smilies-susienka-s-karamelom-27gx-12ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 74,
@@ -1136,10 +987,7 @@
     ],
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/oblatky/88-smilies-susienka-s-mliecnym-kremom-27gx12ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 75,
@@ -1152,8 +1000,6 @@
     "priceEUR": 4.2,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/90-perinky-s-coko-naplnou-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -1167,10 +1013,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/91-prazene-kesu-v-cukre-450g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 77,
@@ -1183,7 +1026,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/92-pedro-tropical-mix-1000g-ovocne-zele.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "mix"
     ]
@@ -1199,8 +1041,6 @@
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/93-cornflakes-mix-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "mix"
     ]
   },
@@ -1214,10 +1054,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/94-pedro-sovicky-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 80,
@@ -1229,10 +1066,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/95-rawbar-datlovo-arasidova-tycinka-19g-x25ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "zdrava_vyziva"
-    ]
+    "cat": []
   },
   {
     "id": 81,
@@ -1244,10 +1078,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/96-rawbar-brusnica-s-mandlou-18gx20ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "zdrava_vyziva"
-    ]
+    "cat": []
   },
   {
     "id": 82,
@@ -1259,10 +1090,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/97-rawbar-jablko-so-skoricou-25ksx18g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zdrava_vyziva"
-    ]
+    "cat": []
   },
   {
     "id": 83,
@@ -1275,8 +1103,6 @@
     "priceEUR": 17.63,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/98-akcia-15-073-eur-vrecko-pedro-duha-pelendreky-80g-20ks.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -1291,8 +1117,6 @@
     "priceEUR": 17.63,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/99-akcia-15-073-eur-vrecko-pedro-jahoda-pelendreky-80g-20-ks.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -1307,8 +1131,6 @@
     "priceEUR": 17.63,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/100-akcia-15-073-eur-vrecko-pedro-jablko-pelendreky80g-20ks.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pelendreky"
     ]
   },
@@ -1323,8 +1145,6 @@
     "priceEUR": 17.63,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/101-akcia-15-073-eur-vrecko-pedro-duha-pasky-80g-20-ks.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pasky"
     ]
   },
@@ -1339,8 +1159,6 @@
     "priceEUR": 17.63,
     "url": "https://global.ceskecukrovinky.sk/pelendreky-a-pasky/102-akcia-15-073-eur-vrecko-pedro-tutti-frutti-kysele-pasky-80g-20ks.html",
     "cat": [
-      "úvodná_stránka",
-      "pendreky_a_pásky",
       "pasky"
     ]
   },
@@ -1354,10 +1172,7 @@
     ],
     "priceEUR": 7.98,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/103-kralovska-zmes-450g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 89,
@@ -1370,8 +1185,6 @@
     "priceEUR": 7.98,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/104-mandle-v-horkej-cokolade-450g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -1385,10 +1198,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/proteinove-tycinky/105-proteinovy-suk-vanilka-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "proteinové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 91,
@@ -1400,10 +1210,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/proteinove-tycinky/106-mig-21-protein-bar-vanilka-344g.html",
-    "cat": [
-      "úvodná_stránka",
-      "proteinové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 92,
@@ -1416,8 +1223,6 @@
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/proteinove-tycinky/107-mig-21-protein-bar-cokolada-344g.html",
     "cat": [
-      "úvodná_stránka",
-      "proteinové_tyčinky",
       "cokolada"
     ]
   },
@@ -1431,10 +1236,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/109-arasidy-v-cukre-750g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 94,
@@ -1447,8 +1249,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/593-bimbo-mix-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "mix"
     ]
   },
@@ -1463,8 +1263,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/110-pracliky-v-mliecnej-cokolade-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -1478,10 +1276,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/111-lizatka-z-hroznoveho-cukru-800g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 97,
@@ -1493,10 +1288,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/oblatky/112-oblatky-mliecne-polomacane-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 98,
@@ -1508,10 +1300,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/oblatky/113-oblatky-arasidove-obvodovomacane-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 99,
@@ -1523,10 +1312,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/oblatky/115-citronove-oblatky-polomacene-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 100,
@@ -1538,10 +1324,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/oblatky/116-arasidove-oblatky-polomacene-600g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 101,
@@ -1553,10 +1336,7 @@
     ],
     "priceEUR": 3.81,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/192-brusnica-klikva-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 102,
@@ -1568,10 +1348,7 @@
     ],
     "priceEUR": 3.15,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/194-banan-suseny-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 103,
@@ -1583,10 +1360,7 @@
     ],
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/195-ananas-suseny-platky-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 104,
@@ -1599,7 +1373,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/225-zele-medvediky-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -1613,10 +1386,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/oblatky/117-kakaove-venceky-akcia-700g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 106,
@@ -1628,10 +1398,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/oblatky/118-vajecne-venceky-akcia-700g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 107,
@@ -1644,8 +1411,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/119-sladky-mix-z-vyroby-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "mix"
     ]
   },
@@ -1660,8 +1425,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/120-kysly-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "kysle",
       "mix"
     ]
@@ -1677,8 +1440,6 @@
     "priceEUR": 11.07,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/121-mince-mliecna-cokolada-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -1692,10 +1453,7 @@
     ],
     "priceEUR": 11.07,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/122-mandle-ve-slanom-karamelu-450g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 111,
@@ -1708,8 +1466,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/127-kesu-mix-jogurt-horka-ml-cokolada-450g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada",
       "mix"
     ]
@@ -1724,10 +1480,7 @@
     ],
     "priceEUR": 10.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/128-pracliky-vo-slanom-karamelu-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 113,
@@ -1740,7 +1493,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/129-mys-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -1755,7 +1507,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/130-tucniak-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -1770,7 +1521,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/131-kravicka-zele1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -1785,7 +1535,6 @@
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zele/132-multi-mix-zele-500g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "mix"
     ]
@@ -1801,7 +1550,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zele/133-chobotnicka-zele-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -1815,10 +1563,7 @@
     ],
     "priceEUR": 4.24,
     "url": "https://global.ceskecukrovinky.sk/zele/134-trolli-oci-8x188g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 119,
@@ -1830,10 +1575,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/oblatky/136-polomacane-mlecne-susenky-432g.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
+    "cat": []
   },
   {
     "id": 120,
@@ -1846,8 +1588,6 @@
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/138-mix-mini-tycinek-476g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_tyčinky",
       "mix"
     ]
   },
@@ -1861,10 +1601,7 @@
     ],
     "priceEUR": 2.49,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/139-retro-arasidy-prazene-solene-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 122,
@@ -1876,10 +1613,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/140-mandle-udene-prazene-solene-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 123,
@@ -1891,10 +1625,7 @@
     ],
     "priceEUR": 3.81,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/141-studentska-zmes-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 124,
@@ -1906,10 +1637,7 @@
     ],
     "priceEUR": 6.85,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/142-kesu-jadra-natural-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 125,
@@ -1922,8 +1650,6 @@
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/143-mix-orechov-prazenych-nesolenych-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody",
       "mix"
     ]
   },
@@ -1937,10 +1663,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/144-pistacie-prazene-solene-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 127,
@@ -1952,10 +1675,7 @@
     ],
     "priceEUR": 5.68,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/145-nugeta-arasidova-42gx-12ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 128,
@@ -1967,10 +1687,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/146-kesu-jadra-prazena-solena-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 129,
@@ -1982,10 +1699,7 @@
     ],
     "priceEUR": 7.98,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/148-kesu-jadra-prazena-udena-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 130,
@@ -1997,10 +1711,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-tycinky/149-darcekova-flasa-minis-snickersmarstwix-296g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_tyčinky"
-    ]
+    "cat": []
   },
   {
     "id": 131,
@@ -2013,8 +1724,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/150-party-mix-600g-mix-lizatek-a-bonbonu.html",
     "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny",
       "mix"
     ]
   },
@@ -2029,8 +1738,6 @@
     "priceEUR": 11.07,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/151-visne-horkej-cokolade-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -2045,8 +1752,6 @@
     "priceEUR": 8.99,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/152-mrazom-susene-jahody-v-ml-cokolade-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -2061,8 +1766,6 @@
     "priceEUR": 5.64,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/154-gulicka-s-kokosovo-rumovou-prichutou-v-horkej-cokolade-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -2076,10 +1779,7 @@
     ],
     "priceEUR": 4.24,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/199-arasidy-vo-wasabi-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 136,
@@ -2091,10 +1791,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/220-zmes-choco-exclusive-biela-200-g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 137,
@@ -2106,10 +1803,7 @@
     ],
     "priceEUR": 5.69,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/221-zmes-choco-exkluzive-cervena-200-g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 138,
@@ -2121,10 +1815,7 @@
     ],
     "priceEUR": 3.66,
     "url": "https://global.ceskecukrovinky.sk/lyo-susene-ovocie/281-lyo-mango-40g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lyo-sušené_ovoce"
-    ]
+    "cat": []
   },
   {
     "id": 139,
@@ -2137,8 +1828,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/zele/329-pedro-kysla-penova-srdiecka1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "zele",
       "kysle"
     ]
   },
@@ -2153,8 +1842,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/390-fini-cerveny-mix-pelendrekov-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky",
       "mix"
     ]
@@ -2170,8 +1857,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/391-fini-jahodove-plnene-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky"
     ]
   },
@@ -2185,10 +1870,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/392-fini-plnene-jahody-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 143,
@@ -2201,8 +1883,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/393-fini-pendrekovy-wonder-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "mix"
     ]
   },
@@ -2217,8 +1897,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/395-fini-kysle-jahodove-tehlicky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle"
     ]
   },
@@ -2233,8 +1911,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/396-fini-kysle-chobotnice-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle"
     ]
   },
@@ -2249,8 +1925,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/397-fini-kysle-melonove-platky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle"
     ]
   },
@@ -2265,8 +1939,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/398-fini-party-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "mix"
     ]
   },
@@ -2280,10 +1952,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/399-obrie-xxl-zaby-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 149,
@@ -2295,10 +1964,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/400-fini-obrie-xxl-medved-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 150,
@@ -2311,8 +1977,6 @@
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/418-ovocny-mix-z-hroznoveho-cukru-800g.html",
     "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny",
       "mix"
     ]
   },
@@ -2326,10 +1990,7 @@
     ],
     "priceEUR": 3.36,
     "url": "https://global.ceskecukrovinky.sk/zele/426-trolli-party-burger-170g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 152,
@@ -2341,10 +2002,7 @@
     ],
     "priceEUR": 3.78,
     "url": "https://global.ceskecukrovinky.sk/zele/427-trolli-mallow-star-300g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 153,
@@ -2357,8 +2015,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/461-fini-obri-xxl-kysly-medved-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle"
     ]
   },
@@ -2372,10 +2028,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/462-fini-korytnacky-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 155,
@@ -2387,10 +2040,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/463-fini-ceresne-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 156,
@@ -2403,8 +2053,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/464-fini-cinema-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "mix"
     ]
   },
@@ -2418,10 +2066,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/465-fini-plnene-lebky-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 158,
@@ -2433,10 +2078,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/466-fini-divoke-plnene-jahody-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 159,
@@ -2448,10 +2090,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/467-fini-farebne-bobule-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 160,
@@ -2464,8 +2103,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/468-fini-kysly-little-mix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle",
       "mix"
     ]
@@ -2480,10 +2117,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/488-fini-xxl-delfin-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 162,
@@ -2495,10 +2129,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/489-fini-xxl-volske-vajcia-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 163,
@@ -2511,8 +2142,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/490-fini-xxl-kysle-jahody1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle"
     ]
   },
@@ -2526,10 +2155,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/491-fini-xxl-jahody1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 165,
@@ -2542,8 +2168,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/492-fini-duha-kysle-tehlicky1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "kysle"
     ]
   },
@@ -2557,10 +2181,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/518-fini-xxl-banany-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 167,
@@ -2573,8 +2194,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/519-fini-plnene-sladke-drievko-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky"
     ]
   },
@@ -2589,8 +2208,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/520-fini-plnene-kysle-jahodove-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky",
       "kysle"
     ]
@@ -2606,8 +2223,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/521-fini-happy-party-xl-mix-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "mix"
     ]
   },
@@ -2622,8 +2237,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/522-fini-sladke-drievko-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky"
     ]
   },
@@ -2638,8 +2251,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/586-fini-duha-plnene-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky"
     ]
   },
@@ -2654,8 +2265,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/587-fini-duha-kysle-pelendreky-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky",
       "pelendreky",
       "kysle"
     ]
@@ -2670,10 +2279,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/fini-zele-a-pendreky/589-fini-maliny-a-cernice-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "fini_-_želé_a_pendreky"
-    ]
+    "cat": []
   },
   {
     "id": 174,
@@ -2686,8 +2292,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/590-xl-coko-ocka-500g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -2701,10 +2305,7 @@
     ],
     "priceEUR": 2.08,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/591-skoricove-lupienky-200g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 176,
@@ -2717,8 +2318,6 @@
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/598-kandizovany-melon-v-horkej-cokolade-400g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -2733,8 +2332,6 @@
     "priceEUR": 8.99,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/635-lyo-bonbony-v-mliecnej-cokolade-400-g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "cokolada"
     ]
   },
@@ -2748,10 +2345,7 @@
     ],
     "priceEUR": 8.58,
     "url": "https://global.ceskecukrovinky.sk/krupave-zele/665-chrumkave-asteroidy-750g.html",
-    "cat": [
-      "úvodná_stránka",
-      "chrumkavé_želé"
-    ]
+    "cat": []
   },
   {
     "id": 179,
@@ -2763,10 +2357,7 @@
     ],
     "priceEUR": 8.58,
     "url": "https://global.ceskecukrovinky.sk/krupave-zele/666-zlate-chrumkave-asteroidy-750g.html",
-    "cat": [
-      "úvodná_stránka",
-      "chrumkavé_želé"
-    ]
+    "cat": []
   },
   {
     "id": 180,
@@ -2778,10 +2369,7 @@
     ],
     "priceEUR": 8.58,
     "url": "https://global.ceskecukrovinky.sk/krupave-zele/667-disco-chrumkave-asteroidy-750-g.html",
-    "cat": [
-      "úvodná_stránka",
-      "chrumkavé_želé"
-    ]
+    "cat": []
   },
   {
     "id": 181,
@@ -2793,10 +2381,7 @@
     ],
     "priceEUR": 8.58,
     "url": "https://global.ceskecukrovinky.sk/krupave-zele/668-3xchoco-chrumkave-asteroidy-750-g.html",
-    "cat": [
-      "úvodná_stránka",
-      "chrumkavé_želé"
-    ]
+    "cat": []
   },
   {
     "id": 182,
@@ -2808,10 +2393,7 @@
     ],
     "priceEUR": 8.58,
     "url": "https://global.ceskecukrovinky.sk/krupave-zele/669-galactic-chrumkave-kruzky-750-g.html",
-    "cat": [
-      "úvodná_stránka",
-      "chrumkavé_želé"
-    ]
+    "cat": []
   },
   {
     "id": 183,
@@ -2824,7 +2406,6 @@
     "priceEUR": 8.58,
     "url": "https://global.ceskecukrovinky.sk/zele/670-vegan-zele-ovocie-1000g.html",
     "cat": [
-      "úvodná_stránka",
       "zele"
     ]
   },
@@ -2838,10 +2419,7 @@
     ],
     "priceEUR": 10.99,
     "url": "https://global.ceskecukrovinky.sk/zele-bez-cukru/671-medvediky-bez-cukru-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "želé_bez_cukru"
-    ]
+    "cat": []
   },
   {
     "id": 185,
@@ -2854,8 +2432,6 @@
     "priceEUR": 10.99,
     "url": "https://global.ceskecukrovinky.sk/zele-bez-cukru/672-ovocne-zele-bez-cukru-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "želé_bez_cukru",
       "zele"
     ]
   },
@@ -2869,11 +2445,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/karnevaly/659-pre-deti-tubus-plny-prekvapeni.html",
-    "cat": [
-      "úvodná_stránka",
-      "sladkosti_na_akce",
-      "karnevaly"
-    ]
+    "cat": []
   },
   {
     "id": 187,
@@ -2885,11 +2457,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/karnevaly/660-pre-chlapcov-tubus-plny-prekvapeni.html",
-    "cat": [
-      "úvodná_stránka",
-      "sladkosti_na_akce",
-      "karnevaly"
-    ]
+    "cat": []
   },
   {
     "id": 188,
@@ -2901,11 +2469,7 @@
     ],
     "priceEUR": 7.53,
     "url": "https://global.ceskecukrovinky.sk/karnevaly/661-pre-dievcata-tubus-plny-prekvapeni.html",
-    "cat": [
-      "úvodná_stránka",
-      "sladkosti_na_akce",
-      "karnevaly"
-    ]
+    "cat": []
   },
   {
     "id": 189,
@@ -2917,10 +2481,7 @@
     ],
     "priceEUR": 6.65,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/662-syrove-arasidy-a-kesu-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 190,
@@ -2932,10 +2493,7 @@
     ],
     "priceEUR": 8.49,
     "url": "https://global.ceskecukrovinky.sk/solene-vyrobky/679-mandle-v-medu-a-soli-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "solené_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 191,
@@ -2947,10 +2505,7 @@
     ],
     "priceEUR": 7.98,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/680-tropicky-blesk-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 192,
@@ -2962,10 +2517,7 @@
     ],
     "priceEUR": 7.98,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/681-neonovy-drak-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 193,
@@ -2977,10 +2529,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/683-energia-a-protein-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "směsi_a_suché_plody"
-    ]
+    "cat": []
   },
   {
     "id": 194,
@@ -2992,10 +2541,7 @@
     ],
     "priceEUR": 8.6,
     "url": "https://global.ceskecukrovinky.sk/lyo-susene-ovocie/685-mango-platky-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lyo-sušené_ovoce"
-    ]
+    "cat": []
   },
   {
     "id": 195,
@@ -3007,10 +2553,7 @@
     ],
     "priceEUR": 7.08,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/739-hors-halloween-ovocna-roksova-lizatka-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 196,
@@ -3022,10 +2565,7 @@
     ],
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/zdrava-vyziva/742-fit-fruiter-ovocnie-tycinky-165g-11ks-v-baleni.html",
-    "cat": [
-      "úvodná_stránka",
-      "zdrava_vyziva"
-    ]
+    "cat": []
   },
   {
     "id": 197,
@@ -3037,10 +2577,7 @@
     ],
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/743-chuvs-minis-oblatkyy-450g-cca-18ks-v-baleni.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 198,
@@ -3052,9 +2589,7 @@
     ],
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/novinky/744-stroopwafel-mini-oblatky-s-karamelom-350-g-cca-40-ks-v-baleni.html",
-    "cat": [
-      "úvodná_stránka"
-    ]
+    "cat": []
   },
   {
     "id": 199,
@@ -3066,10 +2601,7 @@
     ],
     "priceEUR": 23.9,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/745-medaila-s-trikolorou-23g24-ks-1-medaila-099eur-priemer-75cm.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 200,
@@ -3081,10 +2613,7 @@
     ],
     "priceEUR": 2.08,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/746-adventny-kalendar-pysna-princezna-50-g-a4.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 201,
@@ -3096,10 +2625,7 @@
     ],
     "priceEUR": 3.01,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/747-adventny-kalendar-zvieratka-50-g-a4.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 202,
@@ -3111,10 +2637,7 @@
     ],
     "priceEUR": 2.08,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/748-adventny-kalendar-hurvinek-40g-a5.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 203,
@@ -3126,10 +2649,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/749-adventni-kalendar-chaloupka-40g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 204,
@@ -3142,8 +2662,6 @@
     "priceEUR": 4.24,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/750-advent-kalendar-vianocne-leporelo-betlem-ak5-40g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "vanoce"
     ]
   },
@@ -3158,8 +2676,6 @@
     "priceEUR": 4.24,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/751-advent-kalendar-vianocne-leporelo-vlak-ak5-40g.html",
     "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky",
       "vanoce"
     ]
   },
@@ -3173,10 +2689,7 @@
     ],
     "priceEUR": 12.2,
     "url": "https://global.ceskecukrovinky.sk/zele/156-park-lane-jablko-kruzky-2kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 207,
@@ -3188,10 +2701,7 @@
     ],
     "priceEUR": 15.25,
     "url": "https://global.ceskecukrovinky.sk/zele/157-park-lane-zabky-45g-25kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 208,
@@ -3203,10 +2713,7 @@
     ],
     "priceEUR": 18.29,
     "url": "https://global.ceskecukrovinky.sk/zele/158-park-lane-medvidci-3kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 209,
@@ -3218,10 +2725,7 @@
     ],
     "priceEUR": 18.29,
     "url": "https://global.ceskecukrovinky.sk/zele/159-park-lane-ceresne-3-kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 210,
@@ -3233,10 +2737,7 @@
     ],
     "priceEUR": 18.29,
     "url": "https://global.ceskecukrovinky.sk/zele/160-park-lane-wine-gums-3kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 211,
@@ -3248,10 +2749,7 @@
     ],
     "priceEUR": 18.29,
     "url": "https://global.ceskecukrovinky.sk/zele/525-park-lane-sladke-zizalky-3kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 212,
@@ -3263,10 +2761,7 @@
     ],
     "priceEUR": 15.25,
     "url": "https://global.ceskecukrovinky.sk/zele/559-parklane-broskynove-srdiecka-25-kg.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
+    "cat": []
   },
   {
     "id": 213,
@@ -3278,10 +2773,7 @@
     ],
     "priceEUR": 3.36,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/388-crema-arasidova-pomazanka-400g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 214,
@@ -3293,10 +2785,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/504-toffix-ovocny-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 215,
@@ -3308,10 +2797,7 @@
     ],
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/505-toffix-kava-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 216,
@@ -3324,7 +2810,6 @@
     "priceEUR": 5.32,
     "url": "https://global.ceskecukrovinky.sk/zele/213-halloween-mix-zele-360g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "mix"
     ]
@@ -3339,10 +2824,7 @@
     ],
     "priceEUR": 12.39,
     "url": "https://global.ceskecukrovinky.sk/cokoladove-vyrobky/234-festival-pralinky-s-lieskoorieskovym-kremom-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "čokoládové_výrobky"
-    ]
+    "cat": []
   },
   {
     "id": 218,
@@ -3355,8 +2837,6 @@
     "priceEUR": 6.1,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/506-kysly-toffix-1000g.html",
     "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny",
       "kysle"
     ]
   },
@@ -3371,7 +2851,6 @@
     "priceEUR": 3.78,
     "url": "https://global.ceskecukrovinky.sk/zele/215-pedro-halloween-mix-zele-400g.html",
     "cat": [
-      "úvodná_stránka",
       "zele",
       "mix"
     ]
@@ -3386,10 +2865,7 @@
     ],
     "priceEUR": 16.59,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/602-1-vajce-240-xxxl-princezne-plastove-vajce-babika-hracka-a-cukrovinka-25g-6ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 221,
@@ -3401,10 +2877,7 @@
     ],
     "priceEUR": 16.59,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/603-1-vajce-240-xxxl-zoo-zvieratka-plastove-vajce-hracka-a-cukrovinka-25g-6-ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 222,
@@ -3416,10 +2889,7 @@
     ],
     "priceEUR": 16.59,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/604-1-vajce-240-xxxl-off-road-plastove-vajce-terenne-auto-a-cukrovinka-25g-6ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 223,
@@ -3431,10 +2901,7 @@
     ],
     "priceEUR": 16.59,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/614-1-vajce-240eur-xxxl-plastove-motorkove-vajce-hracka-a-cukrovinka-25-g-6-ks.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 224,
@@ -3446,10 +2913,7 @@
     ],
     "priceEUR": 4.86,
     "url": "https://global.ceskecukrovinky.sk/lizanky-a-cukriky/644-toffix-doza-ovocny-500g.html",
-    "cat": [
-      "úvodná_stránka",
-      "lízátka_a_bonbóny"
-    ]
+    "cat": []
   },
   {
     "id": 225,
@@ -3461,10 +2925,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/715-darkova-etiketa-dekuji.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 226,
@@ -3476,10 +2937,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/716-darkova-etiketa-milovane-mamince.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 227,
@@ -3491,10 +2949,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/717-darkova-etiketa-miluji-te.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 228,
@@ -3506,10 +2961,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/718-darkova-etiketa-skvelemu-kolegovi.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 229,
@@ -3521,10 +2973,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/719-darkova-etiketa-moji-skvele-kolegyni.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 230,
@@ -3536,10 +2985,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/720-darkova-etiketa-pro-meho-milacka.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 231,
@@ -3551,10 +2997,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/721-darkova-etiketa-pro-tebe-z-lasky.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 232,
@@ -3566,10 +3009,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/722-darkova-etiketa-vse-nejlepsi-k-narozeninam.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 233,
@@ -3581,10 +3021,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/723-darkova-etiketa-vse-nejlepsi-k-svatku.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 234,
@@ -3596,10 +3033,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/724-darkova-etiketa-pro-nejlepsi-kamaradku.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 235,
@@ -3611,10 +3045,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/725-darkova-etiketa-uzij-si-svuj-narozeninovy-den.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 236,
@@ -3626,10 +3057,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/726-darkova-etiketa-pani-ucitelko-dekuji.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 237,
@@ -3641,10 +3069,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/727-darkova-etiketa-diky-za-hlidani.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 238,
@@ -3656,10 +3081,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/728-darkova-etiketa-gratuluji.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 239,
@@ -3671,10 +3093,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/729-darkova-etiketa-stastnou-cestu.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 240,
@@ -3686,10 +3105,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/730-darkova-etiketa-mej-krasny-den.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 241,
@@ -3701,10 +3117,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/731-darkova-etiketa-pro-radost.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 242,
@@ -3716,10 +3129,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/732-darkova-etiketa-dedeckovi.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 243,
@@ -3731,10 +3141,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/733-darkova-etiketa-babicce.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 244,
@@ -3746,10 +3153,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/734-darkova-etiketa-tatinkovi.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 245,
@@ -3761,10 +3165,7 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/735-darkova-etiketa-me-milovane-sestricce.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   },
   {
     "id": 246,
@@ -3776,9 +3177,6 @@
     ],
     "priceEUR": 0.25,
     "url": "https://global.ceskecukrovinky.sk/darkove-etikety/736-darkova-etiketa-pane-uciteli-dekuji.html",
-    "cat": [
-      "úvodná_stránka",
-      "dárkové_etikety"
-    ]
+    "cat": []
   }
 ]
