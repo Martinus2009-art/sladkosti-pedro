@@ -2955,6 +2955,20 @@
   {
     "id": 192,
     "name": {
+      "sk": "Stroopwafel – mini oblátky s karamelom 350 g (cca 40 ks v balení)"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/4531-thickbox_default/stroopwafel-mini-oblatky-s-karamelom-350-g-cca-40-ks-v-baleni.jpg"
+    ],
+    "priceEUR": 5.32,
+    "url": "https://global.ceskecukrovinky.sk/novinky/744-stroopwafel-mini-oblatky-s-karamelom-350-g-cca-40-ks-v-baleni.html",
+    "cat": [
+      "úvodná_stránka"
+    ]
+  },
+  {
+    "id": 193,
+    "name": {
       "sk": "Medaila s trikolórou 23g(24 ks) – 1 medaila 0,99Eur, priemer 7,5cm"
     },
     "images": [
@@ -2968,7 +2982,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 194,
     "name": {
       "sk": "Adventný kalendár – Pyšná princezná 50 g, A4"
     },
@@ -2983,7 +2997,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 195,
     "name": {
       "sk": "Adventný kalendár – Zvieratká 50 g, A4"
     },
@@ -2998,7 +3012,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 196,
     "name": {
       "sk": "Adventný kalendár - Hurvínek 40g, A5"
     },
@@ -3013,7 +3027,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 197,
     "name": {
       "sk": "Adventní kalendář - Chaloupka 40g,"
     },
@@ -3028,7 +3042,7 @@
     ]
   },
   {
-    "id": 197,
+    "id": 198,
     "name": {
       "sk": "Advent. kalendár -Vianočné Leporelo Betlém AK5 40g,"
     },
@@ -3044,7 +3058,7 @@
     ]
   },
   {
-    "id": 198,
+    "id": 199,
     "name": {
       "sk": "Advent. kalendár-Vianočné Leporelo Vlak AK5 40g,"
     },
@@ -3060,7 +3074,7 @@
     ]
   },
   {
-    "id": 199,
+    "id": 200,
     "name": {
       "sk": "PEDRO Tropický mix 80g/20ks,( 0,86 EUR vrecko)"
     },
@@ -3077,7 +3091,7 @@
     ]
   },
   {
-    "id": 200,
+    "id": 201,
     "name": {
       "sk": "PEDRO Červíky 80g/20ks (0,86 Eur vrecko)"
     },
@@ -3093,7 +3107,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 202,
     "name": {
       "sk": "PEDRO Medvedíky 80 g/20 ks (0,86 Eur/vrecko)"
     },
@@ -3109,7 +3123,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 203,
     "name": {
       "sk": "PEDRO Hamburgery 80 g/20 ks (0,86 Eur/vrecko)"
     },
@@ -3125,7 +3139,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 204,
     "name": {
       "sk": "PEDRO Žraloky 80 g/20 ks (0,86 Eur/vrecko)"
     },
@@ -3141,7 +3155,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 205,
     "name": {
       "sk": "DALIDA – mliečne oplátky máčané 24 ks / 25 g ( 1ks 0,37 EUR)"
     },
@@ -3150,21 +3164,6 @@
     ],
     "priceEUR": 8.98,
     "url": "https://global.ceskecukrovinky.sk/oblatky/766-dalida-mliecne-oplatky-macane-24-ks-25-g-1ks-037-eur.html",
-    "cat": [
-      "úvodná_stránka",
-      "oplatky"
-    ]
-  },
-  {
-    "id": 205,
-    "name": {
-      "sk": "FIDELA – mliečne oplátky máčané 24 ks / 30 g (1 ks 0,43 EUR)"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/5072-thickbox_default/fidela-mliecne-oplatky-macane-24-ks-30-g-1-ks-043-eur.jpg"
-    ],
-    "priceEUR": 8.98,
-    "url": "https://global.ceskecukrovinky.sk/oblatky/767-fidela-mliecne-oplatky-macane-24-ks-30-g-1-ks-043-eur.html",
     "cat": [
       "úvodná_stránka",
       "oplatky"
