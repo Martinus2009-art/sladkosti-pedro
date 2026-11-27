@@ -715,21 +715,6 @@
   {
     "id": 47,
     "name": {
-      "sk": "Maliny a Černice 1000g"
-    },
-    "images": [
-      "https://global.ceskecukrovinky.sk/74-thickbox_default/maliny-a-cernice-1000g.jpg"
-    ],
-    "priceEUR": 7.08,
-    "url": "https://global.ceskecukrovinky.sk/zele/59-maliny-a-cernice-1000g.html",
-    "cat": [
-      "úvodná_stránka",
-      "zele"
-    ]
-  },
-  {
-    "id": 48,
-    "name": {
       "sk": "Pedro Tutti Frutti medvedík 1000g"
     },
     "images": [
@@ -743,7 +728,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 48,
     "name": {
       "sk": "DUO pelendreky Jahoda / Citron / Broskyňa / Limeta 900g"
     },
@@ -759,7 +744,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 49,
     "name": {
       "sk": "Hors Ovocná zmes s vitamínom C 600g"
     },
@@ -774,7 +759,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 50,
     "name": {
       "sk": "Hors KULÍCI - sladké lízatko 600g"
     },
@@ -789,7 +774,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 51,
     "name": {
       "sk": "SUK DUO MINI 25ks x 25g, 625g"
     },
@@ -804,7 +789,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 52,
     "name": {
       "sk": "Pedro Pektinový ovocný mix - 1000g"
     },
@@ -820,7 +805,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 53,
     "name": {
       "sk": "Brusnice mix 500g"
     },
@@ -836,7 +821,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 54,
     "name": {
       "sk": "Pedro Špuntíci 1000g"
     },
@@ -851,7 +836,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 55,
     "name": {
       "sk": "Bongo banán mini 500g"
     },
@@ -866,7 +851,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 56,
     "name": {
       "sk": "Pedro KYSELÉ Pásky Tutti Frutti 1000g ( KRÁTKE KÚSKY)"
     },
@@ -882,7 +867,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 57,
     "name": {
       "sk": "CISÁRSKA ZMES 500g"
     },
@@ -897,7 +882,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 58,
     "name": {
       "sk": "ARAŠÍDY MIX 500g"
     },
@@ -913,7 +898,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 59,
     "name": {
       "sk": "Ovocné dražé"
     },
@@ -928,7 +913,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 60,
     "name": {
       "sk": "Peppermint dražé"
     },
@@ -943,7 +928,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 61,
     "name": {
       "sk": "Hors Mentol Eukalypt bonbony 600g"
     },
@@ -958,7 +943,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 62,
     "name": {
       "sk": "Hors Karamelky 600g"
     },
@@ -973,7 +958,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 63,
     "name": {
       "sk": "EXOTIC MIX 500g"
     },
@@ -989,7 +974,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 64,
     "name": {
       "sk": "Zmes MAGISTR 500g"
     },
@@ -1004,7 +989,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 65,
     "name": {
       "sk": "ČOKO OČKA 500g"
     },
@@ -1020,7 +1005,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 66,
     "name": {
       "sk": "CHIA semienka 400g"
     },
@@ -1035,7 +1020,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 67,
     "name": {
       "sk": "Zmes Neapol 500g"
     },
@@ -1050,7 +1035,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 68,
     "name": {
       "sk": "LIPO  Ovocné sladké pelendreky 1000g"
     },
@@ -1066,7 +1051,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 69,
     "name": {
       "sk": "MINIS-Snickers,Mars,Twix,Bounty,Milky way 400g"
     },
@@ -1081,7 +1066,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 70,
     "name": {
       "sk": "Mandle v mliečnej čokoláde a škoricu 450g"
     },
@@ -1097,7 +1082,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 71,
     "name": {
       "sk": "SMILIES-sušienka s karamelom 27gx 12ks"
     },
@@ -1112,7 +1097,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 72,
     "name": {
       "sk": "SMILIES - sušienka s mliečnym krémom 27gx12ks"
     },
@@ -1127,7 +1112,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 73,
     "name": {
       "sk": "Perinky s čoko. náplňou 500g"
     },
@@ -1143,7 +1128,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 74,
     "name": {
       "sk": "Pedro Tropical mix 1000g - ovocné želé"
     },
@@ -1159,7 +1144,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 75,
     "name": {
       "sk": "Cornflakes mix 500g"
     },
@@ -1175,7 +1160,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 76,
     "name": {
       "sk": "RawBar -Datlovo-arašidová tyčinka 19g x25ks"
     },
@@ -1190,7 +1175,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 77,
     "name": {
       "sk": "RawBar brusnica s mandľou 18gx20ks"
     },
@@ -1205,7 +1190,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 78,
     "name": {
       "sk": "RawBar jablko so škoricou 25ksx18g"
     },
@@ -1220,7 +1205,7 @@
     ]
   },
   {
-    "id": 80,
+    "id": 79,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko)  PEDRO Duha pelendreky 80g /20ks"
     },
@@ -1236,7 +1221,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 80,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko) PEDRO Jahoda pelendreky 80g/20 ks"
     },
@@ -1252,7 +1237,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 81,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko) PEDRO Jablko pelendreky80g/20ks"
     },
@@ -1268,7 +1253,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 82,
     "name": {
       "sk": "AKCIA -15% (0,73 Eur vrecko) PEDRO Duha pásky 80g/20 ks"
     },
@@ -1284,7 +1269,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 83,
     "name": {
       "sk": "AKCIA-15% (0,73 Eur vrecko) PEDRO Tutti Frutti KYSELÉ pásky 80g/20ks"
     },
@@ -1300,7 +1285,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 84,
     "name": {
       "sk": "Kráľovská zmes 450g"
     },
@@ -1315,7 +1300,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 85,
     "name": {
       "sk": "Mandle v horkej čokoláde 450g"
     },
@@ -1331,7 +1316,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 86,
     "name": {
       "sk": "Proteinový suk - vanilka 500g"
     },
@@ -1346,7 +1331,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 87,
     "name": {
       "sk": "MIG 21 Protein BAR - vanilka 344g"
     },
@@ -1361,7 +1346,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 88,
     "name": {
       "sk": "MIG 21 Protein BAR - ČOKOLÁDA 344g"
     },
@@ -1377,7 +1362,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 89,
     "name": {
       "sk": "Arašidy v cukre 750g"
     },
@@ -1392,7 +1377,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 90,
     "name": {
       "sk": "Bimbo mix 400g"
     },
@@ -1408,7 +1393,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 91,
     "name": {
       "sk": "Praclíky v mliečnej čokoláde 400g"
     },
@@ -1424,7 +1409,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 92,
     "name": {
       "sk": "Lízátka z hroznového cukru 800g"
     },
@@ -1439,7 +1424,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 93,
     "name": {
       "sk": "Oblatky mliecne polomacane 600g"
     },
@@ -1454,7 +1439,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 94,
     "name": {
       "sk": "Oblátky arašidové obvodovomáčané 600g"
     },
@@ -1469,7 +1454,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 95,
     "name": {
       "sk": "Citronové oblátky polomáčené 600g"
     },
@@ -1484,7 +1469,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 96,
     "name": {
       "sk": "Arašídové oblátky polomáčené 600g"
     },
@@ -1499,7 +1484,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 97,
     "name": {
       "sk": "Brusnica Klikva 400g"
     },
@@ -1514,7 +1499,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 98,
     "name": {
       "sk": "Banán sušený 400g"
     },
@@ -1529,7 +1514,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 99,
     "name": {
       "sk": "Ananás sušený - plátky 400g"
     },
@@ -1544,7 +1529,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 100,
     "name": {
       "sk": "Želé medvedíky 1000g"
     },
@@ -1559,7 +1544,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 101,
     "name": {
       "sk": "Kakaové venčeky AKCIA 700g, trvanlivosť 6.12.2026"
     },
@@ -1574,7 +1559,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 102,
     "name": {
       "sk": "Vaječné venčeky AKCIA 700g,trvanlivosť 6.12.2026"
     },
@@ -1589,7 +1574,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 103,
     "name": {
       "sk": "Sladký mix z výroby 1000g"
     },
@@ -1605,7 +1590,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 104,
     "name": {
       "sk": "Kyslý mix 1000g"
     },
@@ -1622,7 +1607,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 105,
     "name": {
       "sk": "Mince mliečna čokoláda 400g"
     },
@@ -1638,7 +1623,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 106,
     "name": {
       "sk": "Kešu mix (jogurt + horká, ml. čokoláda) 450g"
     },
@@ -1655,7 +1640,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 107,
     "name": {
       "sk": "Praclíky vo slanom karamelu 400g"
     },
@@ -1670,7 +1655,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 108,
     "name": {
       "sk": "Myš želé 1000g"
     },
@@ -1685,7 +1670,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 109,
     "name": {
       "sk": "Tučniak želé 1000g"
     },
@@ -1700,7 +1685,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 110,
     "name": {
       "sk": "Kravička želé1000g"
     },
@@ -1715,7 +1700,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 111,
     "name": {
       "sk": "Multi mix želé 500g"
     },
@@ -1731,7 +1716,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 112,
     "name": {
       "sk": "Chobotnička želé 1000g"
     },
@@ -1746,7 +1731,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 113,
     "name": {
       "sk": "Trolli Oči  8x18,8g"
     },
@@ -1761,7 +1746,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 114,
     "name": {
       "sk": "Polomáčané mléčné sušenky 432g"
     },
@@ -1776,7 +1761,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 115,
     "name": {
       "sk": "Protein mix mini  382g"
     },
@@ -1792,7 +1777,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 116,
     "name": {
       "sk": "Mix mini tyčinek 476g"
     },
@@ -1808,7 +1793,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 117,
     "name": {
       "sk": "RETRO - arašidy pražené solené 400g"
     },
@@ -1823,7 +1808,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 118,
     "name": {
       "sk": "Mandle Udené pražené solené 400g"
     },
@@ -1835,6 +1820,21 @@
     "cat": [
       "úvodná_stránka",
       "solené_výrobky"
+    ]
+  },
+  {
+    "id": 119,
+    "name": {
+      "sk": "Študentská zmes 400g"
+    },
+    "images": [
+      "https://global.ceskecukrovinky.sk/142-thickbox_default/studentska-zmes-400g.jpg"
+    ],
+    "priceEUR": 3.81,
+    "url": "https://global.ceskecukrovinky.sk/zmesi-a-suche-plody/141-studentska-zmes-400g.html",
+    "cat": [
+      "úvodná_stránka",
+      "směsi_a_suché_plody"
     ]
   },
   {
